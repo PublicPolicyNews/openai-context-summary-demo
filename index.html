@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>OpenAI web responses</title>
+    <style>
+      :root {
+        --bg: #f5f7fb;
+        --surface: #ffffff;
+        --text: #172033;
+        --muted: #5a6678;
+        --border: #d9e1ec;
+        --accent: #1859db;
+      }
+      body { font-family: Inter, ui-sans-serif, system-ui, sans-serif; margin: 0; background: var(--bg); color: var(--text); }
+      main { max-width: 1040px; margin: 0 auto; padding: 32px 20px 48px; }
+      .page-card { background: var(--surface); border: 1px solid var(--border); border-radius: 18px; padding: 24px 26px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.05); }
+      h1 { margin-top: 0; margin-bottom: 8px; }
+      p { line-height: 1.55; }
+      a { color: var(--accent); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      code { font-family: Consolas, monospace; font-size: 12px; }
+      .empty { color: var(--muted); }
+      .result-list { display: grid; gap: 16px; margin-top: 22px; }
+      .result-card { background: #fbfcff; border: 1px solid var(--border); border-radius: 16px; padding: 18px 20px; }
+      .result-card__topline { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 8px; }
+      .result-card__context { font-size: 20px; font-weight: 700; }
+      .result-card__pill { white-space: nowrap; font-size: 13px; color: var(--muted); background: #eef3ff; border: 1px solid #d6e2ff; padding: 6px 10px; border-radius: 999px; }
+      .result-card__title { margin: 0 0 16px; font-size: 24px; line-height: 1.25; }
+      .result-card__title a { color: inherit; }
+      .result-card__metrics { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 14px; }
+      .metric { min-width: 180px; background: white; border: 1px solid var(--border); border-radius: 14px; padding: 12px 14px; }
+      .metric__label { font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+      .metric__value { font-size: 22px; font-weight: 700; }
+      .result-card__meta { display: grid; gap: 6px; color: var(--muted); font-size: 13px; margin-bottom: 14px; }
+      .meta-label { font-weight: 600; color: #475467; margin-right: 6px; }
+      .result-card__actions { display: flex; gap: 14px; font-size: 14px; }
+      @media (max-width: 640px) {
+        .result-card__topline { flex-direction: column; align-items: flex-start; }
+        .result-card__context { font-size: 18px; }
+        .result-card__title { font-size: 20px; }
+        .metric { min-width: 0; width: 100%; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="page-card">
+        <h1>OpenAI Web Responses</h1>
+        <p>Static demo of AI-generated research summaries built from fixed context files and a shared prompt.</p>
+        <p>Outputs include source links and may vary across runs because live web search is enabled.</p>
+        <div class="result-list"><article class="result-card">
+        <div class="result-card__topline">
+          <a class="result-card__context" href="./01-accelerator-act.result.html">01-accelerator-act.md</a>
+          <div class="result-card__pill">gpt-5.4</div>
+        </div>
+
+        <h2 class="result-card__title">
+          <a href="./01-accelerator-act.result.html">Industrial Accelerator Act: stato dell’iter al 26 marzo 2026</a>
+        </h2>
+
+        <div class="result-card__metrics">
+          <div class="metric">
+            <div class="metric__label">Duration</div>
+            <div class="metric__value">37.0 s</div>
+          </div>
+          <div class="metric">
+            <div class="metric__label">Estimated cost</div>
+            <div class="metric__value">$0.0871</div>
+          </div>
+        </div>
+
+        <div class="result-card__meta">
+          <div><span class="meta-label">Start time (UTC)</span> 2026-03-26 10:21:44 UTC</div>
+          <div><span class="meta-label">Run ID</span> <code>run_2026-03-26T10-22-21-539Z_01-accelerator-act_77616915</code></div>
+          <div><span class="meta-label">Response ID</span> <code>resp_06b370b462772d010069c508b829f0819ea50a6dc79a693c51</code></div>
+        </div>
+
+        <div class="result-card__actions">
+          <a href="./01-accelerator-act.result.html">Open HTML</a>
+          <a href="./01-accelerator-act.result.json">Open JSON</a>
+        </div>
+      </article>
+<article class="result-card">
+        <div class="result-card__topline">
+          <a class="result-card__context" href="./02-dl-carburanti.result.html">02-dl-carburanti.md</a>
+          <div class="result-card__pill">gpt-5.4</div>
+        </div>
+
+        <h2 class="result-card__title">
+          <a href="./02-dl-carburanti.result.html">Report stato provvedimento: DL Carburanti</a>
+        </h2>
+
+        <div class="result-card__metrics">
+          <div class="metric">
+            <div class="metric__label">Duration</div>
+            <div class="metric__value">53.0 s</div>
+          </div>
+          <div class="metric">
+            <div class="metric__label">Estimated cost</div>
+            <div class="metric__value">$0.1988</div>
+          </div>
+        </div>
+
+        <div class="result-card__meta">
+          <div><span class="meta-label">Start time (UTC)</span> 2026-03-26 10:22:22 UTC</div>
+          <div><span class="meta-label">Run ID</span> <code>run_2026-03-26T10-23-15-670Z_02-dl-carburanti_d3903c6a</code></div>
+          <div><span class="meta-label">Response ID</span> <code>resp_029b8540dedc46490069c508de3290819eb64788e0d4e26d56</code></div>
+        </div>
+
+        <div class="result-card__actions">
+          <a href="./02-dl-carburanti.result.html">Open HTML</a>
+          <a href="./02-dl-carburanti.result.json">Open JSON</a>
+        </div>
+      </article>
+<article class="result-card">
+        <div class="result-card__topline">
+          <a class="result-card__context" href="./03-dl-pnrr.result.html">03-dl-pnrr.md</a>
+          <div class="result-card__pill">gpt-5.4</div>
+        </div>
+
+        <h2 class="result-card__title">
+          <a href="./03-dl-pnrr.result.html">DL PNRR 2026: stato dell’iter parlamentare</a>
+        </h2>
+
+        <div class="result-card__metrics">
+          <div class="metric">
+            <div class="metric__label">Duration</div>
+            <div class="metric__value">48.0 s</div>
+          </div>
+          <div class="metric">
+            <div class="metric__label">Estimated cost</div>
+            <div class="metric__value">$0.1653</div>
+          </div>
+        </div>
+
+        <div class="result-card__meta">
+          <div><span class="meta-label">Start time (UTC)</span> 2026-03-26 10:23:16 UTC</div>
+          <div><span class="meta-label">Run ID</span> <code>run_2026-03-26T10-24-04-918Z_03-dl-pnrr_6a1368ee</code></div>
+          <div><span class="meta-label">Response ID</span> <code>resp_04e98ccf6154ca320069c5091458a8819c9135d590d638c752</code></div>
+        </div>
+
+        <div class="result-card__actions">
+          <a href="./03-dl-pnrr.result.html">Open HTML</a>
+          <a href="./03-dl-pnrr.result.json">Open JSON</a>
+        </div>
+      </article></div>
+      </section>
+    </main>
+  </body>
+</html>
