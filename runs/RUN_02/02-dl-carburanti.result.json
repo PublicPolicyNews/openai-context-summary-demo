@@ -1,0 +1,556 @@
+{
+  "runId": "run_2026-03-31T04-52-06-996Z_02-dl-carburanti_b089c496",
+  "responseId": "resp_0b66b255e058f3440069cb52b1db9081a38c84b69b67f4a80a",
+  "generatedAt": "2026-03-31T04:52:06.996Z",
+  "mode": "sync",
+  "context": {
+    "id": "02-dl-carburanti",
+    "slug": "02-dl-carburanti",
+    "fileName": "02-dl-carburanti.md",
+    "title": "DL CARBURANTI"
+  },
+  "promptFile": "00-prompt.md",
+  "model": "gpt-5.4",
+  "requestFingerprint": "854e264b061228a2aabcc45c69ce491570d6e910848652cbf7f6c3b75ab5cafb",
+  "structuredAnswer": {
+    "title": "Stato del provvedimento richiamato come DL Carburanti e quadro politico-normativo al 31 marzo 2026",
+    "summary": "Sulla base delle fonti parlamentari ufficiali disponibili, il riferimento più vicino al cosiddetto DL Carburanti non è un decreto-legge attualmente in conversione presso la Commissione Finanze del Senato nel 2026, bensì il decreto-legge 14 gennaio 2023, n. 5, convertito dalla legge 10 marzo 2023, n. 23, recante misure sulla trasparenza dei prezzi dei carburanti, bonus carburante e revisione del meccanismo dell'accisa mobile [S1, S2]. Nei documenti parlamentari degli ultimi sei mesi emerge invece un contenzioso politico ancora aperto sugli effetti di quella disciplina, sull'effettiva operatività dell'accisa mobile e sul successivo riallineamento delle accise benzina-gasolio avviato nel 2025 e completato dalla legge di bilancio 2026 [S3, S4, S5, S6].\n\nPer quanto riguarda la specifica istanza di AN.BTI sui bus turistici, le fonti parlamentari mostrano che il tema dell'esclusione del noleggio autobus con conducente dal gasolio commerciale agevolato è strutturale e continua a riemergere in memorie depositate e atti di sindacato ispettivo, ma non risulta, allo stato delle fonti esaminate, un intervento normativo recente che abbia stabilizzato l'agevolazione per il comparto nel 2026. Le memorie depositate attestano che l'associazione ha chiesto di intervenire in via emendativa su un decreto in esame, richiamando come precedente la misura temporanea del 2023 per i bus turistici Euro VI nella sola alta stagione [S7, S8].",
+    "keyPoints": [
+      "Non risulta dalle banche dati parlamentari consultate, negli ultimi sei mesi, un nuovo decreto-legge carburanti in conversione al Senato identico a quello evocato nel contesto; il riferimento normativo centrale resta il DL n. 5 del 2023 [S1, S2].",
+      "Il DL n. 5 del 2023 ha introdotto bonus carburante aziendale, obblighi di trasparenza dei prezzi, rafforzamento del Garante prezzi e revisione dell'accisa mobile [S1, S2].",
+      "Sul piano politico, la maggioranza difende il passaggio dal taglio generalizzato delle accise a un modello basato su trasparenza e monitoraggio; le opposizioni contestano l'inefficacia del nuovo meccanismo e chiedono riduzioni immediate delle accise [S3, S4, S5].",
+      "Esiste un contenzioso procedurale rilevante sul decreto attuativo relativo agli obblighi di comunicazione/esposizione dei prezzi medi, richiamato in atti parlamentari come annullato dal TAR Lazio per vizi procedurali [S5].",
+      "Nel 2025-2026 il quadro normativo si è spostato sul riallineamento delle accise benzina-gasolio, prima tramite decreto del 14 maggio 2025 e poi con la legge di bilancio 2026, che ha portato le aliquote allo stesso livello [S4, S6].",
+      "Per i bus turistici permane la rivendicazione di accesso all'accisa agevolata sul gasolio commerciale; le memorie depositate da AN.BTI denunciano la persistente esclusione del comparto e chiedono un intervento emendativo [S7, S8]."
+    ],
+    "sections": [
+      {
+        "heading": "1. Identificazione del provvedimento e stato dell'iter",
+        "paragraphs": [
+          "Le fonti parlamentari disponibili non confermano, alla data del 31 marzo 2026, l'esistenza di un nuovo decreto-legge carburanti in corso di conversione presso la Commissione Finanze del Senato con un iter recente rintracciabile nelle banche dati esaminate. Il principale provvedimento parlamentare chiaramente identificabile come decreto carburanti resta il decreto-legge 14 gennaio 2023, n. 5, poi convertito con modificazioni dalla legge 10 marzo 2023, n. 23 [S1, S2].",
+          "Questo dato suggerisce che il riferimento giornalistico o associativo al decreto carburanti possa essere usato in senso lato per richiamare il pacchetto normativo sui carburanti ancora politicamente aperto, più che un nuovo specifico decreto-legge autonomo attualmente in conversione. È un'inferenza ricavata dall'assenza, nelle banche dati parlamentari consultate sugli ultimi sei mesi, di un diverso testo governativo con identica qualificazione e con iter chiaramente attivo al Senato [S1, S2, S3, S4]."
+        ]
+      },
+      {
+        "heading": "2. Principali contenuti normativi del DL n. 5 del 2023",
+        "paragraphs": [
+          "Il decreto-legge n. 5 del 2023 ha previsto, tra l'altro, l'esclusione dal reddito di lavoro dipendente dei buoni benzina o analoghi titoli fino a 200 euro per lavoratore nel 2023, l'obbligo di comunicazione dei prezzi dei carburanti con pubblicazione sul sito ministeriale in formato aperto, l'esposizione presso gli impianti delle informazioni sui prezzi medi, il rafforzamento dei poteri del Garante per la sorveglianza dei prezzi e misure collegate al trasporto pubblico [S1].",
+          "Nel dibattito parlamentare successivo, questo decreto è stato anche il veicolo della revisione del meccanismo cosiddetto di accisa mobile, poi divenuto uno dei punti più controversi dello scontro politico tra maggioranza e opposizione, soprattutto quanto alla sua tempestività ed efficacia rispetto alle oscillazioni dei mercati energetici [S3, S4, S5]."
+        ]
+      },
+      {
+        "heading": "3. Evoluzione normativa successiva: accise 2025-2026",
+        "paragraphs": [
+          "Negli ultimi sei mesi la documentazione parlamentare mostra che il focus normativo si è spostato dal solo tema della trasparenza a quello del riallineamento delle accise su benzina e gasolio. Il dossier parlamentare sulla legge di bilancio 2026 descrive l'articolo 30 come norma che, dal 1° gennaio 2026, riduce l'accisa sulla benzina di 4,05 centesimi per litro e aumenta quella sul gasolio della stessa misura, portando entrambe a 672,90 euro per 1.000 litri [S6].",
+          "Il medesimo dossier segnala anche l'abrogazione del precedente meccanismo di avvicinamento graduale annuale previsto dal decreto legislativo n. 43 del 2025, completando quindi per via legislativa un percorso già avviato nel 2025. Le maggiori entrate vengono indirizzate secondo vincoli di destinazione definiti dalla normativa vigente [S6].",
+          "Questo passaggio è politicamente rilevante anche per il comparto dei trasporti, perché l'aumento dell'accisa sul gasolio incide più direttamente sui settori che utilizzano flotte diesel, inclusi gli operatori del trasporto persone non già coperti da regimi agevolati specifici [S4, S6]."
+        ]
+      },
+      {
+        "heading": "4. Posizioni politiche emerse nelle sedi parlamentari",
+        "paragraphs": [
+          "La maggioranza di governo difende la linea adottata dal 2023, sostenendo che il taglio generalizzato delle accise del 2022 fosse molto costoso e non strutturale. In una interrogazione discussa al Senato nel marzo 2026, esponenti della maggioranza rivendicano il passaggio a un modello fondato su trasparenza del mercato, potenziamento del Garante prezzi, pubblicazione dei prezzi medi, integrazione delle banche dati, commissione di allerta rapida e revisione dell'accisa mobile [S3].",
+          "Le opposizioni, in particolare M5S e PD nelle fonti considerate, criticano invece sia il mancato taglio delle accise sia il riassetto del meccanismo di accisa mobile. In un atto della Camera del marzo 2026 si sostiene che le modifiche introdotte nel 2023 abbiano reso il meccanismo troppo complesso e poco sensibile alle oscillazioni rapide del mercato, con richiesta di una riduzione immediata delle accise [S4].",
+          "In precedenti atti parlamentari del 2025, l'opposizione ha inoltre contestato la scelta del Governo di avvicinare le aliquote di benzina e gasolio, presentandola come un aggravio per famiglie e imprese e come una smentita delle promesse politiche di riduzione o abolizione delle accise [S5]."
+        ]
+      },
+      {
+        "heading": "5. Contenziosi procedurali e politici",
+        "paragraphs": [
+          "Un profilo di contenzioso procedurale emerge chiaramente da documenti parlamentari che richiamano una sentenza del TAR Lazio relativa alla disciplina attuativa del DL n. 5 del 2023. In tali atti si afferma che il giudice amministrativo ha annullato il decreto per assenza della preventiva comunicazione alla Presidenza del Consiglio e del parere del Consiglio di Stato, con riferimento alle modalità dell'obbligo di comunicazione dei prezzi da parte degli esercenti [S5].",
+          "Sul piano politico il contenzioso riguarda soprattutto tre questioni: l'efficacia reale dell'obbligo di esposizione del prezzo medio, la funzionalità concreta dell'accisa mobile e l'opportunità del riallineamento delle accise benzina-gasolio. Le fonti parlamentari mostrano che questi tre profili continuano a essere usati come argomenti di critica e di difesa nelle interrogazioni e negli ordini del giorno [S3, S4, S5]."
+        ]
+      },
+      {
+        "heading": "6. Focus bus turistici e richieste di AN.BTI",
+        "paragraphs": [
+          "La documentazione depositata da AN.BTI presso il Senato conferma la rivendicazione del comparto dei bus turistici di essere equiparato agli altri segmenti del trasporto persone su strada ai fini dell'accisa agevolata sul gasolio commerciale. In una memoria depositata l'associazione propone espressamente una modifica all'articolo 24-ter, comma 2, lettera b), del decreto legislativo n. 504 del 1995, per includere le imprese esercenti servizi di noleggio di autobus con conducente di cui alla legge n. 218 del 2003 [S7].",
+          "La stessa memoria descrive come discriminatoria l'esclusione dei bus turistici, sottolineando che il comparto non beneficerebbe né dell'aliquota agevolata né di ristori analoghi a quelli riconosciuti ad altri segmenti del trasporto. Il documento contiene anche una proposta alternativa di contributo per contrastare il caro carburante [S7].",
+          "Una successiva memoria AN.BTI depositata nel marzo 2026 richiama come precedente una misura temporanea riferita ai bus turistici Euro VI limitatamente al periodo dal 1° aprile al 31 agosto 2023 e chiede un nuovo intervento emendativo, almeno in forma di proroga o di ripristino della medesima soluzione. Nelle fonti esaminate, tuttavia, non emerge l'avvenuta stabilizzazione legislativa di tale beneficio per il 2026 [S8]."
+        ]
+      },
+      {
+        "heading": "7. Valutazione sintetica dello stato di avanzamento",
+        "paragraphs": [
+          "Se il provvedimento richiamato nel contesto è il DL carburanti in senso proprio, il suo iter parlamentare si è concluso nel 2023 con la conversione in legge del DL n. 5 del 2023 [S1, S2]. Se invece il riferimento è alla più ampia agenda normativa sui carburanti, lo stato di avanzamento al 31 marzo 2026 è quello di un cantiere normativo non più centrato su un decreto-legge in conversione, ma su atti successivi di revisione delle accise e su un confronto parlamentare ancora aperto tramite interrogazioni, ordini del giorno, memorie e dossier [S3, S4, S5, S6].",
+          "Per il settore dei bus turistici, la questione appare politicamente viva ma non risolta in via strutturale. Le istanze associative sono formalmente entrate nel circuito parlamentare tramite documentazione depositata, ma nelle fonti ufficiali considerate non si rinviene, negli ultimi sei mesi, un esito normativo favorevole già perfezionato per l'estensione stabile dell'accisa agevolata al comparto [S7, S8]."
+        ]
+      }
+    ],
+    "caveats": [
+      "La ricostruzione è stata limitata a fonti parlamentari ufficiali e riferimenti normativi, come richiesto, con priorità agli ultimi sei mesi. Non sono state usate fonti stampa o siti non istituzionali.",
+      "Le banche dati consultate non hanno restituito, negli ultimi sei mesi, un nuovo decreto-legge carburanti in conversione al Senato chiaramente corrispondente alla descrizione del contesto. Per questo il report distingue tra il DL n. 5 del 2023 e il successivo contenzioso politico-normativo sui carburanti.",
+      "Alcuni riferimenti al contenzioso davanti al TAR Lazio emergono da atti parlamentari che richiamano la decisione; non è stata qui ricostruita autonomamente la sentenza tramite fonte giudiziaria, perché il perimetro richiesto privilegia fonti parlamentari.",
+      "La menzione, nella memoria AN.BTI del marzo 2026, di una misura 2023 per i bus turistici Euro VI è trattata come dato proveniente da documentazione depositata. Nelle fonti parlamentari esaminate non è stato verificato in questa sede l'intero dettaglio attuativo extra-parlamentare di quella misura."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Disegno di legge di conversione del decreto-legge 14 gennaio 2023, n. 5, testo del decreto e testo con modificazioni della Camera",
+        "url": "https://www.parlamento.it/service/PDF/PDFServer/DF/424443.pdf"
+      },
+      {
+        "id": "S2",
+        "title": "Resoconto stenografico del Senato, seduta n. 47 dell'8 marzo 2023, conversione del decreto-legge n. 5 del 2023",
+        "url": "https://www.senato.it/show-doc?id=1371151&idoggetto=0&leg=19&part=doc_dc-allegatoa_aa-ddltit_ddl555-oggetto_a1be2ddlntadcdd&parthttp=doc_dc-ressten_rs-gentit_saurds%3A2&tipodoc=resaula"
+      },
+      {
+        "id": "S3",
+        "title": "Resoconto stenografico del Senato, seduta n. 399 del 12 marzo 2026, interrogazione 3-02456 sugli aumenti nei prezzi dei carburanti",
+        "url": "https://www.senato.it/show-doc?id=1496994&idoggetto=0&leg=19&part=doc_dc-allegatoa_aa-sezionetit_iariasda151bdr&tipodoc=Resaula"
+      },
+      {
+        "id": "S4",
+        "title": "Camera dei deputati, Allegato B ai resoconti, seduta n. 630, interrogazione 5-05147 sulle accise e sull'accisa mobile",
+        "url": "https://www.camera.it/leg19/410?idSeduta=0630&pag=allegato_b&tipo=atti_indirizzo_controllo"
+      },
+      {
+        "id": "S5",
+        "title": "Ordini del giorno del Senato del 21 novembre 2023 con richiamo al contenzioso sul decreto carburanti e alla sentenza del TAR Lazio",
+        "url": "https://www.senato.it/service/PDF/PDFServer/DF/429019.pdf"
+      },
+      {
+        "id": "S6",
+        "title": "Dossier parlamentare sulla legge di bilancio 2026, articolo 30, misure in materia di accisa sui carburanti",
+        "url": "https://www.senato.it/show-doc?leg=19&tipodoc=DOSSIER&id=1477488&idoggetto=0&part=dossier_dossier1-sezione_sezione8-h1_h12"
+      },
+      {
+        "id": "S7",
+        "title": "Memoria AN.BTI depositata al Senato sul caro carburante per le imprese di trasporto turistico di persone mediante autobus",
+        "url": "https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/424/615/AN.BTI.pdf"
+      },
+      {
+        "id": "S8",
+        "title": "Memoria AN.BTI Confcommercio depositata nel marzo 2026 sui bus turistici italiani e accisa agevolata",
+        "url": "https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/432/129/BUS_TURISTICI_ITALIANI.pdf"
+      }
+    ]
+  },
+  "timing": {
+    "startedAt": "2026-03-31T04:50:56.679Z",
+    "completedAt": "2026-03-31T04:52:06.996Z",
+    "durationMs": 70317,
+    "providerStartedAt": "2026-03-31T04:50:57.000Z",
+    "providerCompletedAt": "2026-03-31T04:52:06.000Z",
+    "providerDurationMs": 69000
+  },
+  "usage": {
+    "inputTokens": 39295,
+    "cachedInputTokens": 0,
+    "outputTokens": 4275,
+    "reasoningTokens": 584,
+    "totalTokens": 43570,
+    "webSearchCalls": 7
+  },
+  "estimatedCost": {
+    "currency": "USD",
+    "inputCostUsd": 0.098237,
+    "cachedInputCostUsd": 0,
+    "outputCostUsd": 0.064125,
+    "webSearchCostUsd": 0.07,
+    "totalCostUsd": 0.232363,
+    "pricingVersion": "manual-2026-03",
+    "assumptions": [
+      "Estimated with local price card for gpt-5.4.",
+      "Web search cost estimated as $10 per 1k calls for GPT-5-era reasoning models.",
+      "Estimate is for standard synchronous processing and may differ from actual billing."
+    ]
+  },
+  "analysis": {
+    "citationCount": 0,
+    "sourceCount": 8,
+    "sectionCount": 7,
+    "paragraphCount": 17,
+    "keyPointCount": 6,
+    "summaryCharCount": 1435,
+    "answerCharCount": 11116,
+    "answerWordCount": 1623
+  },
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.parlamento.it/service/PDF/PDFServer/DF/424443.pdf",
+      "type": "open_page"
+    },
+    {
+      "url": "https://www.senato.it/show-doc?id=1496994&idoggetto=0&leg=19&part=doc_dc-allegatoa_aa-sezionetit_iariasda151bdr&tipodoc=Resaula",
+      "type": "open_page"
+    },
+    {
+      "url": "https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/424/615/AN.BTI.pdf",
+      "type": "open_page"
+    }
+  ],
+  "request": {
+    "model": "gpt-5.4",
+    "tools": [
+      {
+        "type": "web_search"
+      }
+    ],
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "name": "web_research_summary",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        }
+      }
+    },
+    "input": [
+      {
+        "role": "developer",
+        "content": "Restituisci solo JSON strutturato. Tutti i campi testuali devono contenere solo testo semplice. Non inserire markdown, HTML, URL grezzi o citazioni inline in summary, keyPoints, sections o caveats. Quando devi richiamare una fonte nel testo, usa segnaposto come [S1] o [S1, S2]. Inserisci le voci bibliografiche reali nell'array sources e mantieni gli id coerenti."
+      },
+      {
+        "role": "user",
+        "content": "Data di riferimento: 2026-03-31\n\nPrompt:\nSei un'assistente di ricerca in un'agenzia stampa specializzata in comunicati stampa ed informazioni last-minute.\n\nFai riferimento al seguente testo.\nBasandoti esclusivamente su:\n- banche dati del Parlamento\n- documenti parlamentari ufficiali\n- resoconti stenografici delle sedute in commissione e in aula\n- documentazione depositata di qualsiasi natura\n- interrogazioni depositate e risposte del governo\n- riferimenti normativi\n\nLimita la ricerca web ad informazioni risalenti agli ultimi 6 mesi. Puoi usare fonti ufficiali antecedenti solo se necessarie per ricostruire i contenuti normativi.\n\nElabora un report sullo stato di avanzamento del provvedimento in questione, che includa anche le principali posizioni politiche, eventuali contenziosi procedurali o politici, principali contenuti normativi.\n\nContesto: 02-dl-carburanti.md — DL CARBURANTI\n\nTesto del contesto:\n# DL CARBURANTI\n\n• Il presidente di AN.BTI-Confcommercio, Riccardo Verona, segnala che il prezzo del gasolio è tornato oltre i 2 euro al litro nonostante il recente taglio delle accise.\n• Verona afferma che le imprese di bus turistici restano escluse da misure strutturali di sostegno e non beneficiano del regime di accisa agevolata applicato ad altri settori.\n• L’associazione critica l’assenza di aiuti specifici nel decreto Carburanti attualmente all’esame della commissione Finanze del Senato.\n• AN.BTI chiede al Parlamento interventi immediati durante l’iter del dl Carburanti per evitare un impatto economico rilevante sul comparto.\n• Le aziende del settore stanno operando con servizi programmati mesi fa, con costi previsti diversi rispetto agli attuali prezzi del carburante.\n• L’aumento del costo del gasolio sta comprimendo ulteriormente i margini operativi e mettendo a rischio la sostenibilità delle attività.\n• Verona segnala anche un calo delle prenotazioni a causa di tensioni sociali e timori diffusi, con conseguenti cancellazioni di tour, soprattutto dall’estero.\n• AN.BTI avverte che senza interventi urgenti il comparto dei bus turistici potrebbe affrontare una crisi con ricadute su occupazione, turismo e indotto economico."
+      }
+    ]
+  },
+  "rawResponse": {
+    "id": "resp_0b66b255e058f3440069cb52b1db9081a38c84b69b67f4a80a",
+    "object": "response",
+    "created_at": 1774932657,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1774932726,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.4-2026-03-05",
+    "output": [
+      {
+        "id": "ws_0b66b255e058f3440069cb52b2b48481a392f24cf624ce7152",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it commissione finanze Senato decreto carburanti bus turistici ultimi 6 mesi",
+            "site:camera.it decreto carburanti commissione finanze Senato carburanti ultimi 6 mesi",
+            "site:parlamento.it decreto carburanti iter commissione finanze Senato ultimi 6 mesi",
+            "site:senato.it DL carburanti commissione finanze Senato resoconto stenografico ultimi 6 mesi"
+          ],
+          "query": "site:senato.it commissione finanze Senato decreto carburanti bus turistici ultimi 6 mesi"
+        }
+      },
+      {
+        "id": "ws_0b66b255e058f3440069cb52b512f481a389fae4f666ff7711",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"decreto carburanti\" Senato \"commissione finanze\"",
+            "site:senato.it \"AS\" carburanti \"commissione finanze\"",
+            "site:senato.it \"prezzi dei carburanti\" Senato decreto legge commissione finanze",
+            "site:parlamento.it \"decreto-legge\" carburanti Senato Commissione finanze"
+          ],
+          "query": "site:senato.it \"decreto carburanti\" Senato \"commissione finanze\""
+        }
+      },
+      {
+        "id": "ws_0b66b255e058f3440069cb52b72e6081a396a3f5d5c47099b0",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.parlamento.it/service/PDF/PDFServer/DF/424443.pdf"
+        }
+      },
+      {
+        "id": "ws_0b66b255e058f3440069cb52b9dec081a3966253702de48357",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"interrogazione\" carburanti accisa mobile 2026 senato",
+            "site:camera.it interrogazione carburanti accisa mobile 2026 governo risposta",
+            "site:senato.it prezzi carburanti interrogazione governo marzo 2026 senato",
+            "site:camera.it \"decreto carburanti\" interrogazione marzo 2026"
+          ],
+          "query": "site:senato.it \"interrogazione\" carburanti accisa mobile 2026 senato"
+        }
+      },
+      {
+        "id": "ws_0b66b255e058f3440069cb52bc7de081a3b8757a96d8592ae1",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.senato.it/show-doc?id=1496994&idoggetto=0&leg=19&part=doc_dc-allegatoa_aa-sezionetit_iariasda151bdr&tipodoc=Resaula"
+        }
+      },
+      {
+        "id": "ws_0b66b255e058f3440069cb52be57a081a385bac7c8b81aabaa",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it bus turistici accisa gasolio commerciale interrogazione 2025 2026 senato",
+            "site:camera.it bus turistici accisa gasolio commerciale interrogazione 2025 2026",
+            "site:senato.it autobus turistici accisa gasolio commerciale legge 2025 2026",
+            "site:parlamento.it autobus turistici accisa agevolata documenti parlamentari"
+          ],
+          "query": "site:senato.it bus turistici accisa gasolio commerciale interrogazione 2025 2026 senato"
+        }
+      },
+      {
+        "id": "ws_0b66b255e058f3440069cb52c12d2881a381033a3a48d6a782",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/424/615/AN.BTI.pdf"
+        }
+      },
+      {
+        "id": "msg_0b66b255e058f3440069cb52c267f081a3aae52ca9d88be5dc",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "{\"title\":\"Stato del provvedimento richiamato come DL Carburanti e quadro politico-normativo al 31 marzo 2026\",\"summary\":\"Sulla base delle fonti parlamentari ufficiali disponibili, il riferimento più vicino al cosiddetto DL Carburanti non è un decreto-legge attualmente in conversione presso la Commissione Finanze del Senato nel 2026, bensì il decreto-legge 14 gennaio 2023, n. 5, convertito dalla legge 10 marzo 2023, n. 23, recante misure sulla trasparenza dei prezzi dei carburanti, bonus carburante e revisione del meccanismo dell'accisa mobile [S1, S2]. Nei documenti parlamentari degli ultimi sei mesi emerge invece un contenzioso politico ancora aperto sugli effetti di quella disciplina, sull'effettiva operatività dell'accisa mobile e sul successivo riallineamento delle accise benzina-gasolio avviato nel 2025 e completato dalla legge di bilancio 2026 [S3, S4, S5, S6].\\n\\nPer quanto riguarda la specifica istanza di AN.BTI sui bus turistici, le fonti parlamentari mostrano che il tema dell'esclusione del noleggio autobus con conducente dal gasolio commerciale agevolato è strutturale e continua a riemergere in memorie depositate e atti di sindacato ispettivo, ma non risulta, allo stato delle fonti esaminate, un intervento normativo recente che abbia stabilizzato l'agevolazione per il comparto nel 2026. Le memorie depositate attestano che l'associazione ha chiesto di intervenire in via emendativa su un decreto in esame, richiamando come precedente la misura temporanea del 2023 per i bus turistici Euro VI nella sola alta stagione [S7, S8].\",\"keyPoints\":[\"Non risulta dalle banche dati parlamentari consultate, negli ultimi sei mesi, un nuovo decreto-legge carburanti in conversione al Senato identico a quello evocato nel contesto; il riferimento normativo centrale resta il DL n. 5 del 2023 [S1, S2].\",\"Il DL n. 5 del 2023 ha introdotto bonus carburante aziendale, obblighi di trasparenza dei prezzi, rafforzamento del Garante prezzi e revisione dell'accisa mobile [S1, S2].\",\"Sul piano politico, la maggioranza difende il passaggio dal taglio generalizzato delle accise a un modello basato su trasparenza e monitoraggio; le opposizioni contestano l'inefficacia del nuovo meccanismo e chiedono riduzioni immediate delle accise [S3, S4, S5].\",\"Esiste un contenzioso procedurale rilevante sul decreto attuativo relativo agli obblighi di comunicazione/esposizione dei prezzi medi, richiamato in atti parlamentari come annullato dal TAR Lazio per vizi procedurali [S5].\",\"Nel 2025-2026 il quadro normativo si è spostato sul riallineamento delle accise benzina-gasolio, prima tramite decreto del 14 maggio 2025 e poi con la legge di bilancio 2026, che ha portato le aliquote allo stesso livello [S4, S6].\",\"Per i bus turistici permane la rivendicazione di accesso all'accisa agevolata sul gasolio commerciale; le memorie depositate da AN.BTI denunciano la persistente esclusione del comparto e chiedono un intervento emendativo [S7, S8].\"],\"sections\":[{\"heading\":\"1. Identificazione del provvedimento e stato dell'iter\",\"paragraphs\":[\"Le fonti parlamentari disponibili non confermano, alla data del 31 marzo 2026, l'esistenza di un nuovo decreto-legge carburanti in corso di conversione presso la Commissione Finanze del Senato con un iter recente rintracciabile nelle banche dati esaminate. Il principale provvedimento parlamentare chiaramente identificabile come decreto carburanti resta il decreto-legge 14 gennaio 2023, n. 5, poi convertito con modificazioni dalla legge 10 marzo 2023, n. 23 [S1, S2].\",\"Questo dato suggerisce che il riferimento giornalistico o associativo al decreto carburanti possa essere usato in senso lato per richiamare il pacchetto normativo sui carburanti ancora politicamente aperto, più che un nuovo specifico decreto-legge autonomo attualmente in conversione. È un'inferenza ricavata dall'assenza, nelle banche dati parlamentari consultate sugli ultimi sei mesi, di un diverso testo governativo con identica qualificazione e con iter chiaramente attivo al Senato [S1, S2, S3, S4].\"]},{\"heading\":\"2. Principali contenuti normativi del DL n. 5 del 2023\",\"paragraphs\":[\"Il decreto-legge n. 5 del 2023 ha previsto, tra l'altro, l'esclusione dal reddito di lavoro dipendente dei buoni benzina o analoghi titoli fino a 200 euro per lavoratore nel 2023, l'obbligo di comunicazione dei prezzi dei carburanti con pubblicazione sul sito ministeriale in formato aperto, l'esposizione presso gli impianti delle informazioni sui prezzi medi, il rafforzamento dei poteri del Garante per la sorveglianza dei prezzi e misure collegate al trasporto pubblico [S1].\",\"Nel dibattito parlamentare successivo, questo decreto è stato anche il veicolo della revisione del meccanismo cosiddetto di accisa mobile, poi divenuto uno dei punti più controversi dello scontro politico tra maggioranza e opposizione, soprattutto quanto alla sua tempestività ed efficacia rispetto alle oscillazioni dei mercati energetici [S3, S4, S5].\"]},{\"heading\":\"3. Evoluzione normativa successiva: accise 2025-2026\",\"paragraphs\":[\"Negli ultimi sei mesi la documentazione parlamentare mostra che il focus normativo si è spostato dal solo tema della trasparenza a quello del riallineamento delle accise su benzina e gasolio. Il dossier parlamentare sulla legge di bilancio 2026 descrive l'articolo 30 come norma che, dal 1° gennaio 2026, riduce l'accisa sulla benzina di 4,05 centesimi per litro e aumenta quella sul gasolio della stessa misura, portando entrambe a 672,90 euro per 1.000 litri [S6].\",\"Il medesimo dossier segnala anche l'abrogazione del precedente meccanismo di avvicinamento graduale annuale previsto dal decreto legislativo n. 43 del 2025, completando quindi per via legislativa un percorso già avviato nel 2025. Le maggiori entrate vengono indirizzate secondo vincoli di destinazione definiti dalla normativa vigente [S6].\",\"Questo passaggio è politicamente rilevante anche per il comparto dei trasporti, perché l'aumento dell'accisa sul gasolio incide più direttamente sui settori che utilizzano flotte diesel, inclusi gli operatori del trasporto persone non già coperti da regimi agevolati specifici [S4, S6].\"]},{\"heading\":\"4. Posizioni politiche emerse nelle sedi parlamentari\",\"paragraphs\":[\"La maggioranza di governo difende la linea adottata dal 2023, sostenendo che il taglio generalizzato delle accise del 2022 fosse molto costoso e non strutturale. In una interrogazione discussa al Senato nel marzo 2026, esponenti della maggioranza rivendicano il passaggio a un modello fondato su trasparenza del mercato, potenziamento del Garante prezzi, pubblicazione dei prezzi medi, integrazione delle banche dati, commissione di allerta rapida e revisione dell'accisa mobile [S3].\",\"Le opposizioni, in particolare M5S e PD nelle fonti considerate, criticano invece sia il mancato taglio delle accise sia il riassetto del meccanismo di accisa mobile. In un atto della Camera del marzo 2026 si sostiene che le modifiche introdotte nel 2023 abbiano reso il meccanismo troppo complesso e poco sensibile alle oscillazioni rapide del mercato, con richiesta di una riduzione immediata delle accise [S4].\",\"In precedenti atti parlamentari del 2025, l'opposizione ha inoltre contestato la scelta del Governo di avvicinare le aliquote di benzina e gasolio, presentandola come un aggravio per famiglie e imprese e come una smentita delle promesse politiche di riduzione o abolizione delle accise [S5].\"]},{\"heading\":\"5. Contenziosi procedurali e politici\",\"paragraphs\":[\"Un profilo di contenzioso procedurale emerge chiaramente da documenti parlamentari che richiamano una sentenza del TAR Lazio relativa alla disciplina attuativa del DL n. 5 del 2023. In tali atti si afferma che il giudice amministrativo ha annullato il decreto per assenza della preventiva comunicazione alla Presidenza del Consiglio e del parere del Consiglio di Stato, con riferimento alle modalità dell'obbligo di comunicazione dei prezzi da parte degli esercenti [S5].\",\"Sul piano politico il contenzioso riguarda soprattutto tre questioni: l'efficacia reale dell'obbligo di esposizione del prezzo medio, la funzionalità concreta dell'accisa mobile e l'opportunità del riallineamento delle accise benzina-gasolio. Le fonti parlamentari mostrano che questi tre profili continuano a essere usati come argomenti di critica e di difesa nelle interrogazioni e negli ordini del giorno [S3, S4, S5].\"]},{\"heading\":\"6. Focus bus turistici e richieste di AN.BTI\",\"paragraphs\":[\"La documentazione depositata da AN.BTI presso il Senato conferma la rivendicazione del comparto dei bus turistici di essere equiparato agli altri segmenti del trasporto persone su strada ai fini dell'accisa agevolata sul gasolio commerciale. In una memoria depositata l'associazione propone espressamente una modifica all'articolo 24-ter, comma 2, lettera b), del decreto legislativo n. 504 del 1995, per includere le imprese esercenti servizi di noleggio di autobus con conducente di cui alla legge n. 218 del 2003 [S7].\",\"La stessa memoria descrive come discriminatoria l'esclusione dei bus turistici, sottolineando che il comparto non beneficerebbe né dell'aliquota agevolata né di ristori analoghi a quelli riconosciuti ad altri segmenti del trasporto. Il documento contiene anche una proposta alternativa di contributo per contrastare il caro carburante [S7].\",\"Una successiva memoria AN.BTI depositata nel marzo 2026 richiama come precedente una misura temporanea riferita ai bus turistici Euro VI limitatamente al periodo dal 1° aprile al 31 agosto 2023 e chiede un nuovo intervento emendativo, almeno in forma di proroga o di ripristino della medesima soluzione. Nelle fonti esaminate, tuttavia, non emerge l'avvenuta stabilizzazione legislativa di tale beneficio per il 2026 [S8].\"]},{\"heading\":\"7. Valutazione sintetica dello stato di avanzamento\",\"paragraphs\":[\"Se il provvedimento richiamato nel contesto è il DL carburanti in senso proprio, il suo iter parlamentare si è concluso nel 2023 con la conversione in legge del DL n. 5 del 2023 [S1, S2]. Se invece il riferimento è alla più ampia agenda normativa sui carburanti, lo stato di avanzamento al 31 marzo 2026 è quello di un cantiere normativo non più centrato su un decreto-legge in conversione, ma su atti successivi di revisione delle accise e su un confronto parlamentare ancora aperto tramite interrogazioni, ordini del giorno, memorie e dossier [S3, S4, S5, S6].\",\"Per il settore dei bus turistici, la questione appare politicamente viva ma non risolta in via strutturale. Le istanze associative sono formalmente entrate nel circuito parlamentare tramite documentazione depositata, ma nelle fonti ufficiali considerate non si rinviene, negli ultimi sei mesi, un esito normativo favorevole già perfezionato per l'estensione stabile dell'accisa agevolata al comparto [S7, S8].\"]}],\"caveats\":[\"La ricostruzione è stata limitata a fonti parlamentari ufficiali e riferimenti normativi, come richiesto, con priorità agli ultimi sei mesi. Non sono state usate fonti stampa o siti non istituzionali.\",\"Le banche dati consultate non hanno restituito, negli ultimi sei mesi, un nuovo decreto-legge carburanti in conversione al Senato chiaramente corrispondente alla descrizione del contesto. Per questo il report distingue tra il DL n. 5 del 2023 e il successivo contenzioso politico-normativo sui carburanti.\",\"Alcuni riferimenti al contenzioso davanti al TAR Lazio emergono da atti parlamentari che richiamano la decisione; non è stata qui ricostruita autonomamente la sentenza tramite fonte giudiziaria, perché il perimetro richiesto privilegia fonti parlamentari.\",\"La menzione, nella memoria AN.BTI del marzo 2026, di una misura 2023 per i bus turistici Euro VI è trattata come dato proveniente da documentazione depositata. Nelle fonti parlamentari esaminate non è stato verificato in questa sede l'intero dettaglio attuativo extra-parlamentare di quella misura.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Disegno di legge di conversione del decreto-legge 14 gennaio 2023, n. 5, testo del decreto e testo con modificazioni della Camera\",\"url\":\"https://www.parlamento.it/service/PDF/PDFServer/DF/424443.pdf\"},{\"id\":\"S2\",\"title\":\"Resoconto stenografico del Senato, seduta n. 47 dell'8 marzo 2023, conversione del decreto-legge n. 5 del 2023\",\"url\":\"https://www.senato.it/show-doc?id=1371151&idoggetto=0&leg=19&part=doc_dc-allegatoa_aa-ddltit_ddl555-oggetto_a1be2ddlntadcdd&parthttp=doc_dc-ressten_rs-gentit_saurds%3A2&tipodoc=resaula\"},{\"id\":\"S3\",\"title\":\"Resoconto stenografico del Senato, seduta n. 399 del 12 marzo 2026, interrogazione 3-02456 sugli aumenti nei prezzi dei carburanti\",\"url\":\"https://www.senato.it/show-doc?id=1496994&idoggetto=0&leg=19&part=doc_dc-allegatoa_aa-sezionetit_iariasda151bdr&tipodoc=Resaula\"},{\"id\":\"S4\",\"title\":\"Camera dei deputati, Allegato B ai resoconti, seduta n. 630, interrogazione 5-05147 sulle accise e sull'accisa mobile\",\"url\":\"https://www.camera.it/leg19/410?idSeduta=0630&pag=allegato_b&tipo=atti_indirizzo_controllo\"},{\"id\":\"S5\",\"title\":\"Ordini del giorno del Senato del 21 novembre 2023 con richiamo al contenzioso sul decreto carburanti e alla sentenza del TAR Lazio\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/DF/429019.pdf\"},{\"id\":\"S6\",\"title\":\"Dossier parlamentare sulla legge di bilancio 2026, articolo 30, misure in materia di accisa sui carburanti\",\"url\":\"https://www.senato.it/show-doc?leg=19&tipodoc=DOSSIER&id=1477488&idoggetto=0&part=dossier_dossier1-sezione_sezione8-h1_h12\"},{\"id\":\"S7\",\"title\":\"Memoria AN.BTI depositata al Senato sul caro carburante per le imprese di trasporto turistico di persone mediante autobus\",\"url\":\"https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/424/615/AN.BTI.pdf\"},{\"id\":\"S8\",\"title\":\"Memoria AN.BTI Confcommercio depositata nel marzo 2026 sui bus turistici italiani e accisa agevolata\",\"url\":\"https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/432/129/BUS_TURISTICI_ITALIANI.pdf\"}]}"
+          }
+        ],
+        "phase": "final_answer",
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "description": null,
+        "name": "web_research_summary",
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        },
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 39295,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 4275,
+      "output_tokens_details": {
+        "reasoning_tokens": 584
+      },
+      "total_tokens": 43570
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"title\":\"Stato del provvedimento richiamato come DL Carburanti e quadro politico-normativo al 31 marzo 2026\",\"summary\":\"Sulla base delle fonti parlamentari ufficiali disponibili, il riferimento più vicino al cosiddetto DL Carburanti non è un decreto-legge attualmente in conversione presso la Commissione Finanze del Senato nel 2026, bensì il decreto-legge 14 gennaio 2023, n. 5, convertito dalla legge 10 marzo 2023, n. 23, recante misure sulla trasparenza dei prezzi dei carburanti, bonus carburante e revisione del meccanismo dell'accisa mobile [S1, S2]. Nei documenti parlamentari degli ultimi sei mesi emerge invece un contenzioso politico ancora aperto sugli effetti di quella disciplina, sull'effettiva operatività dell'accisa mobile e sul successivo riallineamento delle accise benzina-gasolio avviato nel 2025 e completato dalla legge di bilancio 2026 [S3, S4, S5, S6].\\n\\nPer quanto riguarda la specifica istanza di AN.BTI sui bus turistici, le fonti parlamentari mostrano che il tema dell'esclusione del noleggio autobus con conducente dal gasolio commerciale agevolato è strutturale e continua a riemergere in memorie depositate e atti di sindacato ispettivo, ma non risulta, allo stato delle fonti esaminate, un intervento normativo recente che abbia stabilizzato l'agevolazione per il comparto nel 2026. Le memorie depositate attestano che l'associazione ha chiesto di intervenire in via emendativa su un decreto in esame, richiamando come precedente la misura temporanea del 2023 per i bus turistici Euro VI nella sola alta stagione [S7, S8].\",\"keyPoints\":[\"Non risulta dalle banche dati parlamentari consultate, negli ultimi sei mesi, un nuovo decreto-legge carburanti in conversione al Senato identico a quello evocato nel contesto; il riferimento normativo centrale resta il DL n. 5 del 2023 [S1, S2].\",\"Il DL n. 5 del 2023 ha introdotto bonus carburante aziendale, obblighi di trasparenza dei prezzi, rafforzamento del Garante prezzi e revisione dell'accisa mobile [S1, S2].\",\"Sul piano politico, la maggioranza difende il passaggio dal taglio generalizzato delle accise a un modello basato su trasparenza e monitoraggio; le opposizioni contestano l'inefficacia del nuovo meccanismo e chiedono riduzioni immediate delle accise [S3, S4, S5].\",\"Esiste un contenzioso procedurale rilevante sul decreto attuativo relativo agli obblighi di comunicazione/esposizione dei prezzi medi, richiamato in atti parlamentari come annullato dal TAR Lazio per vizi procedurali [S5].\",\"Nel 2025-2026 il quadro normativo si è spostato sul riallineamento delle accise benzina-gasolio, prima tramite decreto del 14 maggio 2025 e poi con la legge di bilancio 2026, che ha portato le aliquote allo stesso livello [S4, S6].\",\"Per i bus turistici permane la rivendicazione di accesso all'accisa agevolata sul gasolio commerciale; le memorie depositate da AN.BTI denunciano la persistente esclusione del comparto e chiedono un intervento emendativo [S7, S8].\"],\"sections\":[{\"heading\":\"1. Identificazione del provvedimento e stato dell'iter\",\"paragraphs\":[\"Le fonti parlamentari disponibili non confermano, alla data del 31 marzo 2026, l'esistenza di un nuovo decreto-legge carburanti in corso di conversione presso la Commissione Finanze del Senato con un iter recente rintracciabile nelle banche dati esaminate. Il principale provvedimento parlamentare chiaramente identificabile come decreto carburanti resta il decreto-legge 14 gennaio 2023, n. 5, poi convertito con modificazioni dalla legge 10 marzo 2023, n. 23 [S1, S2].\",\"Questo dato suggerisce che il riferimento giornalistico o associativo al decreto carburanti possa essere usato in senso lato per richiamare il pacchetto normativo sui carburanti ancora politicamente aperto, più che un nuovo specifico decreto-legge autonomo attualmente in conversione. È un'inferenza ricavata dall'assenza, nelle banche dati parlamentari consultate sugli ultimi sei mesi, di un diverso testo governativo con identica qualificazione e con iter chiaramente attivo al Senato [S1, S2, S3, S4].\"]},{\"heading\":\"2. Principali contenuti normativi del DL n. 5 del 2023\",\"paragraphs\":[\"Il decreto-legge n. 5 del 2023 ha previsto, tra l'altro, l'esclusione dal reddito di lavoro dipendente dei buoni benzina o analoghi titoli fino a 200 euro per lavoratore nel 2023, l'obbligo di comunicazione dei prezzi dei carburanti con pubblicazione sul sito ministeriale in formato aperto, l'esposizione presso gli impianti delle informazioni sui prezzi medi, il rafforzamento dei poteri del Garante per la sorveglianza dei prezzi e misure collegate al trasporto pubblico [S1].\",\"Nel dibattito parlamentare successivo, questo decreto è stato anche il veicolo della revisione del meccanismo cosiddetto di accisa mobile, poi divenuto uno dei punti più controversi dello scontro politico tra maggioranza e opposizione, soprattutto quanto alla sua tempestività ed efficacia rispetto alle oscillazioni dei mercati energetici [S3, S4, S5].\"]},{\"heading\":\"3. Evoluzione normativa successiva: accise 2025-2026\",\"paragraphs\":[\"Negli ultimi sei mesi la documentazione parlamentare mostra che il focus normativo si è spostato dal solo tema della trasparenza a quello del riallineamento delle accise su benzina e gasolio. Il dossier parlamentare sulla legge di bilancio 2026 descrive l'articolo 30 come norma che, dal 1° gennaio 2026, riduce l'accisa sulla benzina di 4,05 centesimi per litro e aumenta quella sul gasolio della stessa misura, portando entrambe a 672,90 euro per 1.000 litri [S6].\",\"Il medesimo dossier segnala anche l'abrogazione del precedente meccanismo di avvicinamento graduale annuale previsto dal decreto legislativo n. 43 del 2025, completando quindi per via legislativa un percorso già avviato nel 2025. Le maggiori entrate vengono indirizzate secondo vincoli di destinazione definiti dalla normativa vigente [S6].\",\"Questo passaggio è politicamente rilevante anche per il comparto dei trasporti, perché l'aumento dell'accisa sul gasolio incide più direttamente sui settori che utilizzano flotte diesel, inclusi gli operatori del trasporto persone non già coperti da regimi agevolati specifici [S4, S6].\"]},{\"heading\":\"4. Posizioni politiche emerse nelle sedi parlamentari\",\"paragraphs\":[\"La maggioranza di governo difende la linea adottata dal 2023, sostenendo che il taglio generalizzato delle accise del 2022 fosse molto costoso e non strutturale. In una interrogazione discussa al Senato nel marzo 2026, esponenti della maggioranza rivendicano il passaggio a un modello fondato su trasparenza del mercato, potenziamento del Garante prezzi, pubblicazione dei prezzi medi, integrazione delle banche dati, commissione di allerta rapida e revisione dell'accisa mobile [S3].\",\"Le opposizioni, in particolare M5S e PD nelle fonti considerate, criticano invece sia il mancato taglio delle accise sia il riassetto del meccanismo di accisa mobile. In un atto della Camera del marzo 2026 si sostiene che le modifiche introdotte nel 2023 abbiano reso il meccanismo troppo complesso e poco sensibile alle oscillazioni rapide del mercato, con richiesta di una riduzione immediata delle accise [S4].\",\"In precedenti atti parlamentari del 2025, l'opposizione ha inoltre contestato la scelta del Governo di avvicinare le aliquote di benzina e gasolio, presentandola come un aggravio per famiglie e imprese e come una smentita delle promesse politiche di riduzione o abolizione delle accise [S5].\"]},{\"heading\":\"5. Contenziosi procedurali e politici\",\"paragraphs\":[\"Un profilo di contenzioso procedurale emerge chiaramente da documenti parlamentari che richiamano una sentenza del TAR Lazio relativa alla disciplina attuativa del DL n. 5 del 2023. In tali atti si afferma che il giudice amministrativo ha annullato il decreto per assenza della preventiva comunicazione alla Presidenza del Consiglio e del parere del Consiglio di Stato, con riferimento alle modalità dell'obbligo di comunicazione dei prezzi da parte degli esercenti [S5].\",\"Sul piano politico il contenzioso riguarda soprattutto tre questioni: l'efficacia reale dell'obbligo di esposizione del prezzo medio, la funzionalità concreta dell'accisa mobile e l'opportunità del riallineamento delle accise benzina-gasolio. Le fonti parlamentari mostrano che questi tre profili continuano a essere usati come argomenti di critica e di difesa nelle interrogazioni e negli ordini del giorno [S3, S4, S5].\"]},{\"heading\":\"6. Focus bus turistici e richieste di AN.BTI\",\"paragraphs\":[\"La documentazione depositata da AN.BTI presso il Senato conferma la rivendicazione del comparto dei bus turistici di essere equiparato agli altri segmenti del trasporto persone su strada ai fini dell'accisa agevolata sul gasolio commerciale. In una memoria depositata l'associazione propone espressamente una modifica all'articolo 24-ter, comma 2, lettera b), del decreto legislativo n. 504 del 1995, per includere le imprese esercenti servizi di noleggio di autobus con conducente di cui alla legge n. 218 del 2003 [S7].\",\"La stessa memoria descrive come discriminatoria l'esclusione dei bus turistici, sottolineando che il comparto non beneficerebbe né dell'aliquota agevolata né di ristori analoghi a quelli riconosciuti ad altri segmenti del trasporto. Il documento contiene anche una proposta alternativa di contributo per contrastare il caro carburante [S7].\",\"Una successiva memoria AN.BTI depositata nel marzo 2026 richiama come precedente una misura temporanea riferita ai bus turistici Euro VI limitatamente al periodo dal 1° aprile al 31 agosto 2023 e chiede un nuovo intervento emendativo, almeno in forma di proroga o di ripristino della medesima soluzione. Nelle fonti esaminate, tuttavia, non emerge l'avvenuta stabilizzazione legislativa di tale beneficio per il 2026 [S8].\"]},{\"heading\":\"7. Valutazione sintetica dello stato di avanzamento\",\"paragraphs\":[\"Se il provvedimento richiamato nel contesto è il DL carburanti in senso proprio, il suo iter parlamentare si è concluso nel 2023 con la conversione in legge del DL n. 5 del 2023 [S1, S2]. Se invece il riferimento è alla più ampia agenda normativa sui carburanti, lo stato di avanzamento al 31 marzo 2026 è quello di un cantiere normativo non più centrato su un decreto-legge in conversione, ma su atti successivi di revisione delle accise e su un confronto parlamentare ancora aperto tramite interrogazioni, ordini del giorno, memorie e dossier [S3, S4, S5, S6].\",\"Per il settore dei bus turistici, la questione appare politicamente viva ma non risolta in via strutturale. Le istanze associative sono formalmente entrate nel circuito parlamentare tramite documentazione depositata, ma nelle fonti ufficiali considerate non si rinviene, negli ultimi sei mesi, un esito normativo favorevole già perfezionato per l'estensione stabile dell'accisa agevolata al comparto [S7, S8].\"]}],\"caveats\":[\"La ricostruzione è stata limitata a fonti parlamentari ufficiali e riferimenti normativi, come richiesto, con priorità agli ultimi sei mesi. Non sono state usate fonti stampa o siti non istituzionali.\",\"Le banche dati consultate non hanno restituito, negli ultimi sei mesi, un nuovo decreto-legge carburanti in conversione al Senato chiaramente corrispondente alla descrizione del contesto. Per questo il report distingue tra il DL n. 5 del 2023 e il successivo contenzioso politico-normativo sui carburanti.\",\"Alcuni riferimenti al contenzioso davanti al TAR Lazio emergono da atti parlamentari che richiamano la decisione; non è stata qui ricostruita autonomamente la sentenza tramite fonte giudiziaria, perché il perimetro richiesto privilegia fonti parlamentari.\",\"La menzione, nella memoria AN.BTI del marzo 2026, di una misura 2023 per i bus turistici Euro VI è trattata come dato proveniente da documentazione depositata. Nelle fonti parlamentari esaminate non è stato verificato in questa sede l'intero dettaglio attuativo extra-parlamentare di quella misura.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Disegno di legge di conversione del decreto-legge 14 gennaio 2023, n. 5, testo del decreto e testo con modificazioni della Camera\",\"url\":\"https://www.parlamento.it/service/PDF/PDFServer/DF/424443.pdf\"},{\"id\":\"S2\",\"title\":\"Resoconto stenografico del Senato, seduta n. 47 dell'8 marzo 2023, conversione del decreto-legge n. 5 del 2023\",\"url\":\"https://www.senato.it/show-doc?id=1371151&idoggetto=0&leg=19&part=doc_dc-allegatoa_aa-ddltit_ddl555-oggetto_a1be2ddlntadcdd&parthttp=doc_dc-ressten_rs-gentit_saurds%3A2&tipodoc=resaula\"},{\"id\":\"S3\",\"title\":\"Resoconto stenografico del Senato, seduta n. 399 del 12 marzo 2026, interrogazione 3-02456 sugli aumenti nei prezzi dei carburanti\",\"url\":\"https://www.senato.it/show-doc?id=1496994&idoggetto=0&leg=19&part=doc_dc-allegatoa_aa-sezionetit_iariasda151bdr&tipodoc=Resaula\"},{\"id\":\"S4\",\"title\":\"Camera dei deputati, Allegato B ai resoconti, seduta n. 630, interrogazione 5-05147 sulle accise e sull'accisa mobile\",\"url\":\"https://www.camera.it/leg19/410?idSeduta=0630&pag=allegato_b&tipo=atti_indirizzo_controllo\"},{\"id\":\"S5\",\"title\":\"Ordini del giorno del Senato del 21 novembre 2023 con richiamo al contenzioso sul decreto carburanti e alla sentenza del TAR Lazio\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/DF/429019.pdf\"},{\"id\":\"S6\",\"title\":\"Dossier parlamentare sulla legge di bilancio 2026, articolo 30, misure in materia di accisa sui carburanti\",\"url\":\"https://www.senato.it/show-doc?leg=19&tipodoc=DOSSIER&id=1477488&idoggetto=0&part=dossier_dossier1-sezione_sezione8-h1_h12\"},{\"id\":\"S7\",\"title\":\"Memoria AN.BTI depositata al Senato sul caro carburante per le imprese di trasporto turistico di persone mediante autobus\",\"url\":\"https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/424/615/AN.BTI.pdf\"},{\"id\":\"S8\",\"title\":\"Memoria AN.BTI Confcommercio depositata nel marzo 2026 sui bus turistici italiani e accisa agevolata\",\"url\":\"https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/432/129/BUS_TURISTICI_ITALIANI.pdf\"}]}"
+  }
+}

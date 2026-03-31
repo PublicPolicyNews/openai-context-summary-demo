@@ -1,152 +1,53 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>OpenAI web responses</title>
-    <style>
-      :root {
-        --bg: #f5f7fb;
-        --surface: #ffffff;
-        --text: #172033;
-        --muted: #5a6678;
-        --border: #d9e1ec;
-        --accent: #1859db;
+<!DOCTYPE html><html lang="en"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>OpenAI web responses</title><style>:root{color-scheme:light;--bg: #f5f7fb;--surface: #ffffff;--surface-alt: #fbfcff;--text: #172033;--muted: #5a6678;--border: #d9e1ec;--accent: #1859db;--accent-soft: #eef3ff;--shadow: 0 12px 30px rgba(15, 23, 42, .06)}*{box-sizing:border-box}html,body{margin:0;padding:0}body{font-family:Inter,ui-sans-serif,system-ui,sans-serif;background:var(--bg);color:var(--text)}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}code,pre{font-family:Consolas,Monaco,monospace}.page-shell{max-width:1180px;margin:0 auto;padding:32px 20px 56px}.hero,.panel,.result-card,.detail-section{background:var(--surface);border:1px solid var(--border);border-radius:18px;box-shadow:var(--shadow)}.hero{padding:28px}.hero h1,.detail-header h1{margin:0 0 8px}.hero p,.detail-section p,.detail-section li{line-height:1.6}.hero-meta{color:var(--muted);font-size:14px}.result-list{display:grid;gap:18px;margin-top:22px}.result-card{padding:22px}.result-card__header{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:18px}.result-card__eyebrow{color:var(--muted);font-size:14px;margin-bottom:6px}.result-card__title{margin:0;font-size:26px;line-height:1.2}.result-card__count{white-space:nowrap;color:var(--muted);background:var(--accent-soft);border:1px solid #d6e2ff;padding:7px 11px;border-radius:999px;font-size:13px}.run-tabs{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:18px}.run-tabs button{border:1px solid var(--border);background:#fff;color:var(--text);padding:8px 12px;border-radius:999px;cursor:pointer;font:inherit}.run-tabs button[aria-pressed=true]{background:var(--accent);color:#fff;border-color:var(--accent)}.stats-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.stat-tile{background:var(--surface-alt);border:1px solid var(--border);border-radius:16px;padding:14px}.stat-tile__label{font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:8px}.stat-tile__value{font-size:22px;font-weight:700;margin-bottom:8px}.stat-tile__meta{display:grid;gap:4px;font-size:13px;color:var(--muted)}.help-note{margin-top:14px;color:var(--muted);font-size:14px}.summary-panel[hidden],.recap-panel[hidden]{display:none!important}.summary-panel{background:var(--surface-alt);border:1px solid var(--border);border-radius:16px;padding:18px}.summary-panel__title{margin:0 0 10px;font-size:22px}.summary-panel__meta{display:grid;gap:8px;color:var(--muted);font-size:14px;margin-bottom:16px}.summary-panel__metrics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-bottom:16px}.summary-panel__metric{border:1px solid var(--border);border-radius:14px;background:#fff;padding:12px 14px}.summary-panel__metric-label{font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:6px}.summary-panel__metric-value{font-size:20px;font-weight:700}.summary-panel__actions{display:flex;flex-wrap:wrap;gap:14px;font-size:14px}.summary-panel__actions button{border:0;background:transparent;color:var(--accent);cursor:pointer;padding:0;font:inherit}.empty-state{margin-top:20px;color:var(--muted)}.detail-page{display:grid;gap:18px}.detail-header{padding:24px 26px}.detail-meta{display:grid;gap:6px;color:var(--muted);font-size:14px}.detail-section{padding:20px 24px}.detail-section h2{margin-top:0}.source-placeholder{white-space:nowrap}.source-pill{display:inline-block;margin-left:4px;padding:1px 7px;border-radius:999px;background:var(--accent-soft);border:1px solid #d6e2ff;font-size:12px}.source-pill--missing{background:#fff3cd;border-color:#f5d26a;color:#7a5b00}.detail-section pre{overflow:auto;padding:16px;background:#111827;color:#e5eefc;border-radius:12px;font-size:13px}@media(max-width:900px){.stats-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:640px){.page-shell{padding-inline:16px}.result-card__header{flex-direction:column}.result-card__count{white-space:normal}.stats-grid,.summary-panel__metrics{grid-template-columns:1fr}}
+</style></head> <body>  <main class="page-shell">  <section class="hero"> <h1>OpenAI Web Responses</h1> <p>Static comparison dashboard for repeated web-search runs across the same policy contexts.</p> <div class="hero-meta"> <div>Runs found: 2</div> <div>Contexts found: 3</div> <div>Generated at: 2026-03-31 05:53:20.345 UTC</div> </div> </section> <section class="result-list"> <article class="result-card" data-context-card="01-accelerator-act"> <div class="result-card__header"> <div> <div class="result-card__eyebrow">01-accelerator-act.md</div> <h2 class="result-card__title">ACCELERATOR ACT</h2> </div> <div class="result-card__count">Experiments ran: 2</div> </div> <div class="run-tabs" role="tablist" aria-label="Runs for 01-accelerator-act"> <button type="button" role="tab" aria-pressed="false" data-run-tab="RUN_02" data-context-slug="01-accelerator-act"> RUN_02 </button><button type="button" role="tab" aria-pressed="false" data-run-tab="RUN_03" data-context-slug="01-accelerator-act"> RUN_03 </button> </div> <section class="recap-panel" data-recap-panel> <div class="stats-grid"> <section class="stat-tile"> <div class="stat-tile__label">Duration</div> <div class="stat-tile__value">58.0 s</div> <div class="stat-tile__meta"> <div>Std dev: 2.90 s</div> <div>Std dev %: 5%</div> </div> </section> <section class="stat-tile"> <div class="stat-tile__label">Estimated cost</div> <div class="stat-tile__value">$0.1537</div> <div class="stat-tile__meta"> <div>Std dev: $0.0115</div> <div>Std dev %: 7.45%</div> </div> </section> <section class="stat-tile"> <div class="stat-tile__label">Sources</div> <div class="stat-tile__value">5</div> <div class="stat-tile__meta"> <div>Std dev: 2</div> <div>Std dev %: 40%</div> </div> </section> <section class="stat-tile"> <div class="stat-tile__label">Output tokens</div> <div class="stat-tile__value">3,353</div> <div class="stat-tile__meta"> <div>Std dev: 121</div> <div>Std dev %: 3.59%</div> </div> </section> </div> <p class="help-note">
+Standard deviation shows how much repeated runs vary. Lower values mean more consistent results.
+</p> </section> <section class="summary-panel" data-run-panel="RUN_02" hidden> <h3 class="summary-panel__title">Industrial Accelerator Act: stato dell’iter al 31 marzo 2026</h3> <div class="summary-panel__meta"> <div>Model: gpt-5.4</div> <div>Start time (UTC): 2026-03-31 04:49:55.761 UTC</div> <div>Run ID: <code>run_2026-03-31T04-50-56-674Z_01-accelerator-act_b8438a68</code></div> <div>Response ID: <code>resp_016ef952da160ef80069cb527514e4819dbc8d8f0657b33082</code></div> </div> <div class="summary-panel__metrics"> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Duration</div> <div class="summary-panel__metric-value">60.9 s</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Estimated cost</div> <div class="summary-panel__metric-value">$0.1652</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Sources</div> <div class="summary-panel__metric-value">3</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Output tokens</div> <div class="summary-panel__metric-value">3,473</div> </div> </div> <div class="summary-panel__actions"> <a href="/runs/RUN_02/01-accelerator-act.result.html" target="_blank" rel="noreferrer">Open HTML</a> <a href="/runs/RUN_02/01-accelerator-act.result.json" target="_blank" rel="noreferrer">Open JSON</a> <button type="button" data-close-summary>Back to recap</button> </div> </section><section class="summary-panel" data-run-panel="RUN_03" hidden> <h3 class="summary-panel__title">Stato di avanzamento dell Industrial Accelerator Act al 31 marzo 2026</h3> <div class="summary-panel__meta"> <div>Model: gpt-5.4</div> <div>Start time (UTC): 2026-03-31 05:28:10.743 UTC</div> <div>Run ID: <code>run_2026-03-31T05-29-05-857Z_01-accelerator-act_4ab9c0b8</code></div> <div>Response ID: <code>resp_0ac7588c3ad1eafc0069cb5b6be37c8193ba43546b2374aa49</code></div> </div> <div class="summary-panel__metrics"> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Duration</div> <div class="summary-panel__metric-value">55.1 s</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Estimated cost</div> <div class="summary-panel__metric-value">$0.1423</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Sources</div> <div class="summary-panel__metric-value">7</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Output tokens</div> <div class="summary-panel__metric-value">3,232</div> </div> </div> <div class="summary-panel__actions"> <a href="/runs/RUN_03/01-accelerator-act.result.html" target="_blank" rel="noreferrer">Open HTML</a> <a href="/runs/RUN_03/01-accelerator-act.result.json" target="_blank" rel="noreferrer">Open JSON</a> <button type="button" data-close-summary>Back to recap</button> </div> </section> </article><article class="result-card" data-context-card="02-dl-carburanti"> <div class="result-card__header"> <div> <div class="result-card__eyebrow">02-dl-carburanti.md</div> <h2 class="result-card__title">DL CARBURANTI</h2> </div> <div class="result-card__count">Experiments ran: 2</div> </div> <div class="run-tabs" role="tablist" aria-label="Runs for 02-dl-carburanti"> <button type="button" role="tab" aria-pressed="false" data-run-tab="RUN_02" data-context-slug="02-dl-carburanti"> RUN_02 </button><button type="button" role="tab" aria-pressed="false" data-run-tab="RUN_03" data-context-slug="02-dl-carburanti"> RUN_03 </button> </div> <section class="recap-panel" data-recap-panel> <div class="stats-grid"> <section class="stat-tile"> <div class="stat-tile__label">Duration</div> <div class="stat-tile__value">69.2 s</div> <div class="stat-tile__meta"> <div>Std dev: 1.12 s</div> <div>Std dev %: 1.61%</div> </div> </section> <section class="stat-tile"> <div class="stat-tile__label">Estimated cost</div> <div class="stat-tile__value">$0.2399</div> <div class="stat-tile__meta"> <div>Std dev: $0.0076</div> <div>Std dev %: 3.16%</div> </div> </section> <section class="stat-tile"> <div class="stat-tile__label">Sources</div> <div class="stat-tile__value">6</div> <div class="stat-tile__meta"> <div>Std dev: 2</div> <div>Std dev %: 33.33%</div> </div> </section> <section class="stat-tile"> <div class="stat-tile__label">Output tokens</div> <div class="stat-tile__value">4,211</div> <div class="stat-tile__meta"> <div>Std dev: 64</div> <div>Std dev %: 1.52%</div> </div> </section> </div> <p class="help-note">
+Standard deviation shows how much repeated runs vary. Lower values mean more consistent results.
+</p> </section> <section class="summary-panel" data-run-panel="RUN_02" hidden> <h3 class="summary-panel__title">Stato del provvedimento richiamato come DL Carburanti e quadro politico-normativo al 31 marzo 2026</h3> <div class="summary-panel__meta"> <div>Model: gpt-5.4</div> <div>Start time (UTC): 2026-03-31 04:50:56.679 UTC</div> <div>Run ID: <code>run_2026-03-31T04-52-06-996Z_02-dl-carburanti_b089c496</code></div> <div>Response ID: <code>resp_0b66b255e058f3440069cb52b1db9081a38c84b69b67f4a80a</code></div> </div> <div class="summary-panel__metrics"> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Duration</div> <div class="summary-panel__metric-value">70.3 s</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Estimated cost</div> <div class="summary-panel__metric-value">$0.2324</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Sources</div> <div class="summary-panel__metric-value">8</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Output tokens</div> <div class="summary-panel__metric-value">4,275</div> </div> </div> <div class="summary-panel__actions"> <a href="/runs/RUN_02/02-dl-carburanti.result.html" target="_blank" rel="noreferrer">Open HTML</a> <a href="/runs/RUN_02/02-dl-carburanti.result.json" target="_blank" rel="noreferrer">Open JSON</a> <button type="button" data-close-summary>Back to recap</button> </div> </section><section class="summary-panel" data-run-panel="RUN_03" hidden> <h3 class="summary-panel__title">Stato di avanzamento del DL Carburanti al 31 marzo 2026</h3> <div class="summary-panel__meta"> <div>Model: gpt-5.4</div> <div>Start time (UTC): 2026-03-31 05:29:05.862 UTC</div> <div>Run ID: <code>run_2026-03-31T05-30-13-945Z_02-dl-carburanti_03b558b9</code></div> <div>Response ID: <code>resp_09d0ee2454e7f5080069cb5ba30ef0819099a4ffda88e61b08</code></div> </div> <div class="summary-panel__metrics"> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Duration</div> <div class="summary-panel__metric-value">68.1 s</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Estimated cost</div> <div class="summary-panel__metric-value">$0.2475</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Sources</div> <div class="summary-panel__metric-value">4</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Output tokens</div> <div class="summary-panel__metric-value">4,147</div> </div> </div> <div class="summary-panel__actions"> <a href="/runs/RUN_03/02-dl-carburanti.result.html" target="_blank" rel="noreferrer">Open HTML</a> <a href="/runs/RUN_03/02-dl-carburanti.result.json" target="_blank" rel="noreferrer">Open JSON</a> <button type="button" data-close-summary>Back to recap</button> </div> </section> </article><article class="result-card" data-context-card="03-dl-pnrr"> <div class="result-card__header"> <div> <div class="result-card__eyebrow">03-dl-pnrr.md</div> <h2 class="result-card__title">DL PNRR</h2> </div> <div class="result-card__count">Experiments ran: 2</div> </div> <div class="run-tabs" role="tablist" aria-label="Runs for 03-dl-pnrr"> <button type="button" role="tab" aria-pressed="false" data-run-tab="RUN_02" data-context-slug="03-dl-pnrr"> RUN_02 </button><button type="button" role="tab" aria-pressed="false" data-run-tab="RUN_03" data-context-slug="03-dl-pnrr"> RUN_03 </button> </div> <section class="recap-panel" data-recap-panel> <div class="stats-grid"> <section class="stat-tile"> <div class="stat-tile__label">Duration</div> <div class="stat-tile__value">94.2 s</div> <div class="stat-tile__meta"> <div>Std dev: 1.98 s</div> <div>Std dev %: 2.1%</div> </div> </section> <section class="stat-tile"> <div class="stat-tile__label">Estimated cost</div> <div class="stat-tile__value">$0.3659</div> <div class="stat-tile__meta"> <div>Std dev: $0.0063</div> <div>Std dev %: 1.72%</div> </div> </section> <section class="stat-tile"> <div class="stat-tile__label">Sources</div> <div class="stat-tile__value">5.5</div> <div class="stat-tile__meta"> <div>Std dev: 0.5</div> <div>Std dev %: 9.09%</div> </div> </section> <section class="stat-tile"> <div class="stat-tile__label">Output tokens</div> <div class="stat-tile__value">4,688</div> <div class="stat-tile__meta"> <div>Std dev: 3</div> <div>Std dev %: 0.05%</div> </div> </section> </div> <p class="help-note">
+Standard deviation shows how much repeated runs vary. Lower values mean more consistent results.
+</p> </section> <section class="summary-panel" data-run-panel="RUN_02" hidden> <h3 class="summary-panel__title">DL PNRR 2026, stato dell’iter alla Camera al 31 marzo 2026</h3> <div class="summary-panel__meta"> <div>Model: gpt-5.4</div> <div>Start time (UTC): 2026-03-31 04:52:06.999 UTC</div> <div>Run ID: <code>run_2026-03-31T04-53-43-216Z_03-dl-pnrr_ee7e1eec</code></div> <div>Response ID: <code>resp_0b145a93650f1a670069cb52f7b3708191a66a91a3403e1e54</code></div> </div> <div class="summary-panel__metrics"> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Duration</div> <div class="summary-panel__metric-value">96.2 s</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Estimated cost</div> <div class="summary-panel__metric-value">$0.3722</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Sources</div> <div class="summary-panel__metric-value">6</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Output tokens</div> <div class="summary-panel__metric-value">4,685</div> </div> </div> <div class="summary-panel__actions"> <a href="/runs/RUN_02/03-dl-pnrr.result.html" target="_blank" rel="noreferrer">Open HTML</a> <a href="/runs/RUN_02/03-dl-pnrr.result.json" target="_blank" rel="noreferrer">Open JSON</a> <button type="button" data-close-summary>Back to recap</button> </div> </section><section class="summary-panel" data-run-panel="RUN_03" hidden> <h3 class="summary-panel__title">DL PNRR 2026: stato dell’iter al 31 marzo 2026</h3> <div class="summary-panel__meta"> <div>Model: gpt-5.4</div> <div>Start time (UTC): 2026-03-31 05:30:13.951 UTC</div> <div>Run ID: <code>run_2026-03-31T05-31-46-208Z_03-dl-pnrr_b6f0978e</code></div> <div>Response ID: <code>resp_05537bec5fb1aabe0069cb5be72170819684fe4753c3060859</code></div> </div> <div class="summary-panel__metrics"> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Duration</div> <div class="summary-panel__metric-value">92.3 s</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Estimated cost</div> <div class="summary-panel__metric-value">$0.3596</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Sources</div> <div class="summary-panel__metric-value">5</div> </div> <div class="summary-panel__metric"> <div class="summary-panel__metric-label">Output tokens</div> <div class="summary-panel__metric-value">4,690</div> </div> </div> <div class="summary-panel__actions"> <a href="/runs/RUN_03/03-dl-pnrr.result.html" target="_blank" rel="noreferrer">Open HTML</a> <a href="/runs/RUN_03/03-dl-pnrr.result.json" target="_blank" rel="noreferrer">Open JSON</a> <button type="button" data-close-summary>Back to recap</button> </div> </section> </article> </section> </main> <script>
+    const cards = document.querySelectorAll('[data-context-card]');
+
+    for (const card of cards) {
+      const recapPanel = card.querySelector('[data-recap-panel]');
+      const tabs = Array.from(card.querySelectorAll('[data-run-tab]'));
+      const panels = Array.from(card.querySelectorAll('[data-run-panel]'));
+
+      const showRecap = () => {
+        if (recapPanel) recapPanel.hidden = false;
+        for (const tab of tabs) tab.setAttribute('aria-pressed', 'false');
+        for (const panel of panels) panel.hidden = true;
+      };
+
+      const showRun = (runLabel) => {
+        if (recapPanel) recapPanel.hidden = true;
+        for (const tab of tabs) {
+          tab.setAttribute('aria-pressed', tab.dataset.runTab === runLabel ? 'true' : 'false');
+        }
+        for (const panel of panels) {
+          panel.hidden = panel.dataset.runPanel !== runLabel;
+        }
+      };
+
+      for (const tab of tabs) {
+        tab.addEventListener('click', () => {
+          const runLabel = tab.dataset.runTab;
+          if (!runLabel) return;
+          const isSelected = tab.getAttribute('aria-pressed') === 'true';
+          if (isSelected) {
+            showRecap();
+            return;
+          }
+          showRun(runLabel);
+        });
       }
-      body { font-family: Inter, ui-sans-serif, system-ui, sans-serif; margin: 0; background: var(--bg); color: var(--text); }
-      main { max-width: 1040px; margin: 0 auto; padding: 32px 20px 48px; }
-      .page-card { background: var(--surface); border: 1px solid var(--border); border-radius: 18px; padding: 24px 26px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.05); }
-      h1 { margin-top: 0; margin-bottom: 8px; }
-      p { line-height: 1.55; }
-      a { color: var(--accent); text-decoration: none; }
-      a:hover { text-decoration: underline; }
-      code { font-family: Consolas, monospace; font-size: 12px; }
-      .empty { color: var(--muted); }
-      .result-list { display: grid; gap: 16px; margin-top: 22px; }
-      .result-card { background: #fbfcff; border: 1px solid var(--border); border-radius: 16px; padding: 18px 20px; }
-      .result-card__topline { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 8px; }
-      .result-card__context { font-size: 20px; font-weight: 700; }
-      .result-card__pill { white-space: nowrap; font-size: 13px; color: var(--muted); background: #eef3ff; border: 1px solid #d6e2ff; padding: 6px 10px; border-radius: 999px; }
-      .result-card__title { margin: 0 0 16px; font-size: 24px; line-height: 1.25; }
-      .result-card__title a { color: inherit; }
-      .result-card__metrics { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 14px; }
-      .metric { min-width: 180px; background: white; border: 1px solid var(--border); border-radius: 14px; padding: 12px 14px; }
-      .metric__label { font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
-      .metric__value { font-size: 22px; font-weight: 700; }
-      .result-card__meta { display: grid; gap: 6px; color: var(--muted); font-size: 13px; margin-bottom: 14px; }
-      .meta-label { font-weight: 600; color: #475467; margin-right: 6px; }
-      .result-card__actions { display: flex; gap: 14px; font-size: 14px; }
-      @media (max-width: 640px) {
-        .result-card__topline { flex-direction: column; align-items: flex-start; }
-        .result-card__context { font-size: 18px; }
-        .result-card__title { font-size: 20px; }
-        .metric { min-width: 0; width: 100%; }
+
+      for (const button of card.querySelectorAll('[data-close-summary]')) {
+        button.addEventListener('click', () => {
+          showRecap();
+        });
       }
-    </style>
-  </head>
-  <body>
-    <main>
-      <section class="page-card">
-        <h1>OpenAI Web Responses</h1>
-        <p>Static demo of AI-generated research summaries built from fixed context files and a shared prompt.</p>
-        <p>Outputs include source links and may vary across runs because live web search is enabled.</p>
-        <div class="result-list"><article class="result-card">
-        <div class="result-card__topline">
-          <a class="result-card__context" href="./01-accelerator-act.result.html">01-accelerator-act.md</a>
-          <div class="result-card__pill">gpt-5.4</div>
-        </div>
 
-        <h2 class="result-card__title">
-          <a href="./01-accelerator-act.result.html">Industrial Accelerator Act: stato dell’iter al 26 marzo 2026</a>
-        </h2>
-
-        <div class="result-card__metrics">
-          <div class="metric">
-            <div class="metric__label">Duration</div>
-            <div class="metric__value">37.0 s</div>
-          </div>
-          <div class="metric">
-            <div class="metric__label">Estimated cost</div>
-            <div class="metric__value">$0.0871</div>
-          </div>
-        </div>
-
-        <div class="result-card__meta">
-          <div><span class="meta-label">Start time (UTC)</span> 2026-03-26 10:21:44 UTC</div>
-          <div><span class="meta-label">Run ID</span> <code>run_2026-03-26T10-22-21-539Z_01-accelerator-act_77616915</code></div>
-          <div><span class="meta-label">Response ID</span> <code>resp_06b370b462772d010069c508b829f0819ea50a6dc79a693c51</code></div>
-        </div>
-
-        <div class="result-card__actions">
-          <a href="./01-accelerator-act.result.html">Open HTML</a>
-          <a href="./01-accelerator-act.result.json">Open JSON</a>
-        </div>
-      </article>
-<article class="result-card">
-        <div class="result-card__topline">
-          <a class="result-card__context" href="./02-dl-carburanti.result.html">02-dl-carburanti.md</a>
-          <div class="result-card__pill">gpt-5.4</div>
-        </div>
-
-        <h2 class="result-card__title">
-          <a href="./02-dl-carburanti.result.html">Report stato provvedimento: DL Carburanti</a>
-        </h2>
-
-        <div class="result-card__metrics">
-          <div class="metric">
-            <div class="metric__label">Duration</div>
-            <div class="metric__value">53.0 s</div>
-          </div>
-          <div class="metric">
-            <div class="metric__label">Estimated cost</div>
-            <div class="metric__value">$0.1988</div>
-          </div>
-        </div>
-
-        <div class="result-card__meta">
-          <div><span class="meta-label">Start time (UTC)</span> 2026-03-26 10:22:22 UTC</div>
-          <div><span class="meta-label">Run ID</span> <code>run_2026-03-26T10-23-15-670Z_02-dl-carburanti_d3903c6a</code></div>
-          <div><span class="meta-label">Response ID</span> <code>resp_029b8540dedc46490069c508de3290819eb64788e0d4e26d56</code></div>
-        </div>
-
-        <div class="result-card__actions">
-          <a href="./02-dl-carburanti.result.html">Open HTML</a>
-          <a href="./02-dl-carburanti.result.json">Open JSON</a>
-        </div>
-      </article>
-<article class="result-card">
-        <div class="result-card__topline">
-          <a class="result-card__context" href="./03-dl-pnrr.result.html">03-dl-pnrr.md</a>
-          <div class="result-card__pill">gpt-5.4</div>
-        </div>
-
-        <h2 class="result-card__title">
-          <a href="./03-dl-pnrr.result.html">DL PNRR 2026: stato dell’iter parlamentare</a>
-        </h2>
-
-        <div class="result-card__metrics">
-          <div class="metric">
-            <div class="metric__label">Duration</div>
-            <div class="metric__value">48.0 s</div>
-          </div>
-          <div class="metric">
-            <div class="metric__label">Estimated cost</div>
-            <div class="metric__value">$0.1653</div>
-          </div>
-        </div>
-
-        <div class="result-card__meta">
-          <div><span class="meta-label">Start time (UTC)</span> 2026-03-26 10:23:16 UTC</div>
-          <div><span class="meta-label">Run ID</span> <code>run_2026-03-26T10-24-04-918Z_03-dl-pnrr_6a1368ee</code></div>
-          <div><span class="meta-label">Response ID</span> <code>resp_04e98ccf6154ca320069c5091458a8819c9135d590d638c752</code></div>
-        </div>
-
-        <div class="result-card__actions">
-          <a href="./03-dl-pnrr.result.html">Open HTML</a>
-          <a href="./03-dl-pnrr.result.json">Open JSON</a>
-        </div>
-      </article></div>
-      </section>
-    </main>
-  </body>
-</html>
+      showRecap();
+    }
+  </script>  </body></html>

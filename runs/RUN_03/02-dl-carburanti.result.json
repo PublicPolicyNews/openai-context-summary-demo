@@ -1,0 +1,567 @@
+{
+  "runId": "run_2026-03-31T05-30-13-945Z_02-dl-carburanti_03b558b9",
+  "responseId": "resp_09d0ee2454e7f5080069cb5ba30ef0819099a4ffda88e61b08",
+  "generatedAt": "2026-03-31T05:30:13.945Z",
+  "mode": "sync",
+  "context": {
+    "id": "02-dl-carburanti",
+    "slug": "02-dl-carburanti",
+    "fileName": "02-dl-carburanti.md",
+    "title": "DL CARBURANTI"
+  },
+  "promptFile": "00-prompt.md",
+  "model": "gpt-5.4",
+  "requestFingerprint": "854e264b061228a2aabcc45c69ce491570d6e910848652cbf7f6c3b75ab5cafb",
+  "structuredAnswer": {
+    "title": "Stato di avanzamento del DL Carburanti al 31 marzo 2026",
+    "summary": "Alla data del 31 marzo 2026, il provvedimento richiamato nel contesto corrisponde al disegno di legge di conversione S. 845 del decreto-legge 18 marzo 2026, n. 33, recante disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali. Il testo risulta presentato al Senato il 18 marzo 2026 ed è quindi in una fase iniziale dell’iter parlamentare; nelle fonti parlamentari ufficiali reperite entro il perimetro temporale richiesto non emergono ancora elementi consolidati su approvazione definitiva, maxiemendamenti o passaggio conclusivo in Aula [S1].\n\nSul piano contenutistico, il decreto non appare costruito come misura generalizzata di taglio delle accise per tutti i consumatori, ma come intervento selettivo su vigilanza della filiera, rigidità infra-giornaliere dei prezzi comunicati, sostegno all’autotrasporto merci e credito d’imposta per le imprese ittiche. Nel materiale ufficiale consultato non risultano, allo stato, misure specifiche per il comparto dei bus turistici richiamato da AN.BTI-Confcommercio; questa assenza è coerente con la critica politica riportata nel contesto [S1].",
+    "keyPoints": [
+      "Il provvedimento è il DDL S. 845 di conversione del decreto-legge 18 marzo 2026, n. 33, presentato al Senato il 18 marzo 2026 [S1].",
+      "Il decreto punta soprattutto su monitoraggio e contrasto di possibili manovre speculative nella filiera dei carburanti, non su una riduzione generalizzata delle accise [S1].",
+      "Sono previsti un credito d’imposta fino a 100 milioni per autotrasporto merci e un credito d’imposta fino a 10 milioni per le imprese ittiche [S1].",
+      "È previsto, fino al 30 giugno 2026, l’aggiornamento mensile della sola componente gasolio nei valori indicativi dei costi di esercizio dell’autotrasporto [S1, S2].",
+      "Nelle fonti parlamentari ufficiali reperite non risultano misure specifiche per le imprese di bus turistici, tema al centro delle richieste di AN.BTI [S1].",
+      "Non emergono ancora, nelle fonti ufficiali consultate, contenziosi procedurali già formalizzati o esiti conclusivi dell’esame parlamentare [S1]."
+    ],
+    "sections": [
+      {
+        "heading": "Identificazione del provvedimento e fase dell’iter",
+        "paragraphs": [
+          "Il provvedimento in esame è il disegno di legge S. 845, comunicato alla Presidenza del Senato il 18 marzo 2026, avente ad oggetto la conversione in legge del decreto-legge 18 marzo 2026, n. 33, pubblicato nella Gazzetta Ufficiale n. 64 del 18 marzo 2026. Il titolo del decreto è disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali [S1].",
+          "Alla data di riferimento del 31 marzo 2026, dalle fonti parlamentari ufficiali reperite risulta l’avvio dell’iter di conversione al Senato. Non sono emersi, nel materiale ufficiale consultato, atti successivi consolidati che consentano di affermare l’avvenuta approvazione in Commissione o in Aula. In termini giornalistici, il provvedimento risulta quindi in corso di esame parlamentare, in una fase ancora iniziale o comunque non conclusa [S1]."
+        ]
+      },
+      {
+        "heading": "Principali contenuti normativi",
+        "paragraphs": [
+          "L’articolo 1 disciplina la prevenzione e il contrasto alle manovre speculative sui carburanti. Dal testo normativo e dalla relazione illustrativa emerge un rafforzamento degli obblighi informativi a carico degli operatori della filiera e della trasmissione dei dati alle autorità di controllo e vigilanza del mercato, con previsione di sanzioni in caso di violazione [S1].",
+          "Lo stesso articolo stabilisce inoltre che i prezzi comunicati dagli esercenti ai sensi del decreto-legge 14 gennaio 2023, n. 5 non possano essere variati nel corso della stessa giornata, misura che sembra finalizzata a contenere pratiche opportunistiche di repricing infra-giornaliero. Questa è un’inferenza interpretativa ricavata dalla struttura del testo e dalla ratio dichiarata di contrasto alle manovre speculative [S1].",
+          "L’articolo 3 introduce un contributo straordinario sotto forma di credito d’imposta per il settore dell’autotrasporto merci, con oneri pari a 100 milioni di euro per il 2026. Lo stesso articolo prevede che, dalla data di entrata in vigore del decreto e fino al 30 giugno 2026, l’aggiornamento dei valori indicativi di riferimento dei costi di esercizio dell’autotrasporto avvenga mensilmente con riguardo alla sola componente del costo del gasolio [S1, S2].",
+          "L’articolo 4 riconosce alle imprese esercenti attività di pesca, nel limite di 10 milioni di euro per l’anno 2026, un contributo straordinario sotto forma di credito d’imposta fino al 20 per cento della spesa sostenuta per gasolio e benzina acquistati nei mesi di marzo, aprile e maggio 2026. Il credito è utilizzabile in compensazione entro il 31 dicembre 2026 e non concorre alla formazione del reddito d’impresa né della base imponibile IRAP [S1].",
+          "Il decreto contiene infine una clausola finanziaria e l’entrata in vigore immediata, secondo la tecnica tipica del decreto-legge da convertire entro 60 giorni, quindi entro il 17 maggio 2026 salvo conversione anticipata o decadenza [S1]."
+        ]
+      },
+      {
+        "heading": "Posizioni politiche emerse dalle fonti parlamentari",
+        "paragraphs": [
+          "Nelle fonti parlamentari ufficiali più vicine temporalmente reperite sul tema carburanti, il Governo ha sostenuto una linea centrata su stabilizzazione del mercato e uso selettivo degli strumenti fiscali, ricordando che l’ordinamento già consente interventi temporanei sulle accise al superamento di determinate soglie di prezzo. In Senato, il rappresentante del Governo ha rivendicato che i prezzi alla pompa, a metà febbraio 2025, risultavano sostanzialmente in linea con il 2024 e inferiori al 2023, difendendo un approccio non generalizzato ai tagli fiscali [S3].",
+          "Sempre dalle fonti parlamentari ufficiali emergono, soprattutto in atti di sindacato ispettivo e materiali allegati, pressioni di categorie economiche per allargare le platee dei sostegni ai comparti maggiormente esposti al costo del carburante. Il decreto, però, nella versione presentata, concentra gli aiuti settoriali su autotrasporto merci e pesca, lasciando fuori altri segmenti del trasporto e del turismo [S1, S4].",
+          "Con specifico riferimento al contesto fornito, la lamentata esclusione delle imprese di bus turistici trova riscontro negativo, nel senso dell’assenza di una disciplina ad hoc nel testo depositato. Allo stato non risultano nelle fonti ufficiali consultate emendamenti approvati o riformulazioni governative che abbiano colmato questa lacuna [S1]."
+        ]
+      },
+      {
+        "heading": "Contenziosi procedurali o politici",
+        "paragraphs": [
+          "Non risultano, nelle fonti parlamentari ufficiali reperite entro il 31 marzo 2026, contenziosi procedurali già cristallizzati come questioni regolamentari, conflitti di ammissibilità o rilievi formali della Presidenza sul provvedimento. Ciò non esclude che il confronto possa svilupparsi successivamente nella fase emendativa o in Aula [S1].",
+          "Sul piano politico, il potenziale terreno di scontro sembra piuttosto quello della selettività delle misure. Il decreto interviene sui prezzi petroliferi e sui costi del gasolio ma non contiene, nella sua formulazione iniziale, una misura strutturale dedicata ai bus turistici, né un’estensione generalizzata del regime agevolato delle accise a tale comparto. Da qui può derivare un contenzioso politico tra maggioranza, Governo e categorie escluse, più che un contenzioso tecnico-procedurale già formalizzato [S1, S4]."
+        ]
+      },
+      {
+        "heading": "Riferimenti normativi rilevanti",
+        "paragraphs": [
+          "Il provvedimento è il decreto-legge 18 marzo 2026, n. 33, sottoposto a conversione con il DDL S. 845 [S1].",
+          "Per i prezzi comunicati dagli esercenti il testo richiama il decreto-legge 14 gennaio 2023, n. 5, già intervenuto in materia di trasparenza dei prezzi dei carburanti [S1, S4].",
+          "Per l’aggiornamento dei valori indicativi dei costi di esercizio dell’autotrasporto viene richiamato l’articolo 1, comma 250, della legge 23 dicembre 2014, n. 190, nonché l’articolo 83-bis, comma 4, del decreto-legge 25 giugno 2008, n. 112, convertito dalla legge 6 agosto 2008, n. 133 [S1, S2].",
+          "Per il credito d’imposta alla pesca il testo richiama, tra l’altro, l’articolo 17 del decreto legislativo 9 luglio 1997, n. 241, e le disposizioni sui limiti all’utilizzo dei crediti di cui alla legge 24 dicembre 2007, n. 244 e alla legge 23 dicembre 2000, n. 388 [S1]."
+        ]
+      },
+      {
+        "heading": "Valutazione finale rispetto al contesto AN.BTI",
+        "paragraphs": [
+          "Alla data del 31 marzo 2026, la ricostruzione basata esclusivamente su fonti parlamentari ufficiali conferma che il decreto in questione esiste ed è all’esame del Senato, ma non consente di avallare il riferimento specifico alla Commissione Finanze del Senato come dato già verificato nelle fonti consultate. L’elemento certo è l’avvio dell’iter con presentazione del DDL S. 845 il 18 marzo 2026 [S1].",
+          "Nel merito, la denuncia di AN.BTI sulla mancanza di aiuti specifici ai bus turistici è coerente con il testo normativo depositato: il decreto prevede strumenti contro speculazioni e sostegni circoscritti ad autotrasporto merci e pesca, senza un capitolo dedicato al trasporto turistico con autobus [S1].",
+          "Per un’agenzia stampa, la linea di sintesi più solida è quindi la seguente: il DL carburanti è formalmente avviato in Parlamento, interviene su vigilanza della filiera e sostegni selettivi, ma al 31 marzo 2026 non risultano misure specifiche per i bus turistici né esiti finali dell’iter di conversione [S1]."
+        ]
+      }
+    ],
+    "caveats": [
+      "La ricerca è stata volutamente limitata alle fonti parlamentari e ai documenti ufficiali, come richiesto; non sono state usate fonti di stampa, ministeriali non parlamentari o associative per integrare informazioni mancanti.",
+      "Nel perimetro degli ultimi 6 mesi è stato possibile identificare con certezza il testo del decreto e il DDL di conversione, ma non sono emerse pagine di iter complete o resoconti di Commissione sufficienti a confermare assegnazione, calendario dettagliato e stato emendativo al 31 marzo 2026.",
+      "Il riferimento del contesto alla Commissione Finanze del Senato non è stato confermato dalle fonti ufficiali reperite; va quindi riportato con cautela, salvo ulteriore verifica su scheda iter o convocazioni ufficiali della Commissione.",
+      "Le posizioni politiche ricostruite sono limitate a quanto effettivamente emerso in atti parlamentari ufficiali recenti; il quadro potrà ampliarsi con audizioni, emendamenti e dichiarazioni in Aula successive al 31 marzo 2026."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Senato della Repubblica, DDL S. 845, Conversione in legge del decreto-legge 18 marzo 2026, n. 33, recante disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali",
+        "url": "https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf"
+      },
+      {
+        "id": "S2",
+        "title": "Senato della Repubblica, estratti del testo e della relazione tecnica del DDL S. 845 relativi all’articolo 3 e all’aggiornamento mensile del costo del gasolio per l’autotrasporto",
+        "url": "https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf"
+      },
+      {
+        "id": "S3",
+        "title": "Senato della Repubblica, Resoconto stenografico Aula, seduta n. 276 del 20 febbraio 2025, intervento del Governo sul tema dei prezzi dei carburanti e del meccanismo di riduzione temporanea delle accise",
+        "url": "https://www.senato.it/show-doc?id=1445776&leg=19&tipodoc=Resaula&part=doc_dc"
+      },
+      {
+        "id": "S4",
+        "title": "Documentazione parlamentare acquisita alla Camera su trasparenza e controllo del prezzo di vendita al pubblico di carburante per autotrazione, con riferimenti al decreto-legge 14 gennaio 2023, n. 5",
+        "url": "https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/425/631/AC_771_-_Documenti_acquisiti_Camera_-_File_completo.pdf"
+      }
+    ]
+  },
+  "timing": {
+    "startedAt": "2026-03-31T05:29:05.862Z",
+    "completedAt": "2026-03-31T05:30:13.945Z",
+    "durationMs": 68083,
+    "providerStartedAt": "2026-03-31T05:29:07.000Z",
+    "providerCompletedAt": "2026-03-31T05:30:13.000Z",
+    "providerDurationMs": 66000
+  },
+  "usage": {
+    "inputTokens": 38389,
+    "cachedInputTokens": 4736,
+    "outputTokens": 4147,
+    "reasoningTokens": 1081,
+    "totalTokens": 42536,
+    "webSearchCalls": 10
+  },
+  "estimatedCost": {
+    "currency": "USD",
+    "inputCostUsd": 0.084133,
+    "cachedInputCostUsd": 0.001184,
+    "outputCostUsd": 0.062205,
+    "webSearchCostUsd": 0.1,
+    "totalCostUsd": 0.247522,
+    "pricingVersion": "manual-2026-03",
+    "assumptions": [
+      "Estimated with local price card for gpt-5.4.",
+      "Web search cost estimated as $10 per 1k calls for GPT-5-era reasoning models.",
+      "Estimate is for standard synchronous processing and may differ from actual billing."
+    ]
+  },
+  "analysis": {
+    "citationCount": 0,
+    "sourceCount": 4,
+    "sectionCount": 6,
+    "paragraphCount": 19,
+    "keyPointCount": 6,
+    "summaryCharCount": 1136,
+    "answerCharCount": 9879,
+    "answerWordCount": 1452
+  },
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf",
+      "type": "find_in_page"
+    }
+  ],
+  "request": {
+    "model": "gpt-5.4",
+    "tools": [
+      {
+        "type": "web_search"
+      }
+    ],
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "name": "web_research_summary",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        }
+      }
+    },
+    "input": [
+      {
+        "role": "developer",
+        "content": "Restituisci solo JSON strutturato. Tutti i campi testuali devono contenere solo testo semplice. Non inserire markdown, HTML, URL grezzi o citazioni inline in summary, keyPoints, sections o caveats. Quando devi richiamare una fonte nel testo, usa segnaposto come [S1] o [S1, S2]. Inserisci le voci bibliografiche reali nell'array sources e mantieni gli id coerenti."
+      },
+      {
+        "role": "user",
+        "content": "Data di riferimento: 2026-03-31\n\nPrompt:\nSei un'assistente di ricerca in un'agenzia stampa specializzata in comunicati stampa ed informazioni last-minute.\n\nFai riferimento al seguente testo.\nBasandoti esclusivamente su:\n- banche dati del Parlamento\n- documenti parlamentari ufficiali\n- resoconti stenografici delle sedute in commissione e in aula\n- documentazione depositata di qualsiasi natura\n- interrogazioni depositate e risposte del governo\n- riferimenti normativi\n\nLimita la ricerca web ad informazioni risalenti agli ultimi 6 mesi. Puoi usare fonti ufficiali antecedenti solo se necessarie per ricostruire i contenuti normativi.\n\nElabora un report sullo stato di avanzamento del provvedimento in questione, che includa anche le principali posizioni politiche, eventuali contenziosi procedurali o politici, principali contenuti normativi.\n\nContesto: 02-dl-carburanti.md — DL CARBURANTI\n\nTesto del contesto:\n# DL CARBURANTI\n\n• Il presidente di AN.BTI-Confcommercio, Riccardo Verona, segnala che il prezzo del gasolio è tornato oltre i 2 euro al litro nonostante il recente taglio delle accise.\n• Verona afferma che le imprese di bus turistici restano escluse da misure strutturali di sostegno e non beneficiano del regime di accisa agevolata applicato ad altri settori.\n• L’associazione critica l’assenza di aiuti specifici nel decreto Carburanti attualmente all’esame della commissione Finanze del Senato.\n• AN.BTI chiede al Parlamento interventi immediati durante l’iter del dl Carburanti per evitare un impatto economico rilevante sul comparto.\n• Le aziende del settore stanno operando con servizi programmati mesi fa, con costi previsti diversi rispetto agli attuali prezzi del carburante.\n• L’aumento del costo del gasolio sta comprimendo ulteriormente i margini operativi e mettendo a rischio la sostenibilità delle attività.\n• Verona segnala anche un calo delle prenotazioni a causa di tensioni sociali e timori diffusi, con conseguenti cancellazioni di tour, soprattutto dall’estero.\n• AN.BTI avverte che senza interventi urgenti il comparto dei bus turistici potrebbe affrontare una crisi con ricadute su occupazione, turismo e indotto economico."
+      }
+    ]
+  },
+  "rawResponse": {
+    "id": "resp_09d0ee2454e7f5080069cb5ba30ef0819099a4ffda88e61b08",
+    "object": "response",
+    "created_at": 1774934947,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1774935013,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.4-2026-03-05",
+    "output": [
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5ba3e18881908402799a90ff7965",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it decreto legge carburanti commissione finanze Senato ultimi 6 mesi",
+            "site:camera.it decreto legge carburanti ultimi 6 mesi Parlamento",
+            "site:parlamento.it dl carburanti ultimi 6 mesi"
+          ],
+          "query": "site:senato.it decreto legge carburanti commissione finanze Senato ultimi 6 mesi"
+        }
+      },
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5ba5e3588190b4f69551318dec88",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"commissione finanze\" \"decreto-legge\" carburanti Senato",
+            "site:senato.it \"DL carburanti\" Senato Finanze",
+            "site:camera.it \"decreto-legge carburanti\" Commissione finanze Senato",
+            "site:senato.it carburanti \"Atto Senato\" decreto-legge"
+          ],
+          "query": "site:senato.it \"commissione finanze\" \"decreto-legge\" carburanti Senato"
+        }
+      },
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5ba82e20819094f5f4f935a0efe7",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"Atto Senato\" carburanti \"decreto-legge\" 2026",
+            "site:senato.it \"carburanti\" \"commissione finanze e tesoro\" senato 2026",
+            "site:senato.it \"prezzo dei carburanti\" senato 2026 decreto-legge",
+            "site:camera.it \"decreto-legge\" carburanti 2026 parlamento"
+          ],
+          "query": "site:senato.it \"Atto Senato\" carburanti \"decreto-legge\" 2026"
+        }
+      },
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5baab39c8190b14c22c146515dd6",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf"
+        }
+      },
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5bab91fc8190adc43a9a0049393f",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "find_in_page",
+          "pattern": "Senato della Repubblica – N. 845",
+          "url": "https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf"
+        }
+      },
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5bad612481908b6e7cbea9a8d99e",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page"
+        }
+      },
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5baeb3888190872987116bc30849",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"N. 845\" senato iter ddl 845",
+            "site:senato.it \"Conversione in legge del decreto-legge 18 marzo 2026, n. 33\"",
+            "site:senato.it \"DDL 845\" \"Senato della Repubblica\""
+          ],
+          "query": "site:senato.it \"N. 845\" senato iter ddl 845"
+        }
+      },
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5bb43f448190ba062a19a179dd5b",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"18 marzo 2026 n. 33\" commissione finanze senato resoconto",
+            "site:senato.it \"decreto-legge 18 marzo 2026, n. 33\" resoconto commissione finanze",
+            "site:senato.it \"Atto Senato n. 845\" commissione finanze resoconto",
+            "site:senato.it \"prezzi petroliferi connessi alle crisi dei mercati internazionali\" commissione"
+          ],
+          "query": "site:senato.it \"18 marzo 2026 n. 33\" commissione finanze senato resoconto"
+        }
+      },
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5bb691f481908f0329d703afac8f",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"18 marzo 2026\" \"n. 33\" \"assegnato\" commissione finanze",
+            "site:senato.it \"decreto-legge 18 marzo 2026, n. 33\" \"5ª Commissione\" senato",
+            "site:senato.it \"decreto-legge 18 marzo 2026, n. 33\" \"6ª Commissione\" senato"
+          ],
+          "query": "site:senato.it \"18 marzo 2026\" \"n. 33\" \"assegnato\" commissione finanze"
+        }
+      },
+      {
+        "id": "ws_09d0ee2454e7f5080069cb5bb8e39081908000053596356dda",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"Atto Senato n. 845\" audizioni carburanti",
+            "site:senato.it \"decreto-legge 18 marzo 2026, n. 33\" audizioni",
+            "site:senato.it \"prezzi petroliferi\" audizioni senato",
+            "site:senato.it \"carburanti\" \"documenti acquisiti\" senato marzo 2026"
+          ],
+          "query": "site:senato.it \"Atto Senato n. 845\" audizioni carburanti"
+        }
+      },
+      {
+        "id": "msg_09d0ee2454e7f5080069cb5bbb1078819099b932387513546f",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "{\"title\":\"Stato di avanzamento del DL Carburanti al 31 marzo 2026\",\"summary\":\"Alla data del 31 marzo 2026, il provvedimento richiamato nel contesto corrisponde al disegno di legge di conversione S. 845 del decreto-legge 18 marzo 2026, n. 33, recante disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali. Il testo risulta presentato al Senato il 18 marzo 2026 ed è quindi in una fase iniziale dell’iter parlamentare; nelle fonti parlamentari ufficiali reperite entro il perimetro temporale richiesto non emergono ancora elementi consolidati su approvazione definitiva, maxiemendamenti o passaggio conclusivo in Aula [S1].\\n\\nSul piano contenutistico, il decreto non appare costruito come misura generalizzata di taglio delle accise per tutti i consumatori, ma come intervento selettivo su vigilanza della filiera, rigidità infra-giornaliere dei prezzi comunicati, sostegno all’autotrasporto merci e credito d’imposta per le imprese ittiche. Nel materiale ufficiale consultato non risultano, allo stato, misure specifiche per il comparto dei bus turistici richiamato da AN.BTI-Confcommercio; questa assenza è coerente con la critica politica riportata nel contesto [S1].\",\"keyPoints\":[\"Il provvedimento è il DDL S. 845 di conversione del decreto-legge 18 marzo 2026, n. 33, presentato al Senato il 18 marzo 2026 [S1].\",\"Il decreto punta soprattutto su monitoraggio e contrasto di possibili manovre speculative nella filiera dei carburanti, non su una riduzione generalizzata delle accise [S1].\",\"Sono previsti un credito d’imposta fino a 100 milioni per autotrasporto merci e un credito d’imposta fino a 10 milioni per le imprese ittiche [S1].\",\"È previsto, fino al 30 giugno 2026, l’aggiornamento mensile della sola componente gasolio nei valori indicativi dei costi di esercizio dell’autotrasporto [S1, S2].\",\"Nelle fonti parlamentari ufficiali reperite non risultano misure specifiche per le imprese di bus turistici, tema al centro delle richieste di AN.BTI [S1].\",\"Non emergono ancora, nelle fonti ufficiali consultate, contenziosi procedurali già formalizzati o esiti conclusivi dell’esame parlamentare [S1].\"],\"sections\":[{\"heading\":\"Identificazione del provvedimento e fase dell’iter\",\"paragraphs\":[\"Il provvedimento in esame è il disegno di legge S. 845, comunicato alla Presidenza del Senato il 18 marzo 2026, avente ad oggetto la conversione in legge del decreto-legge 18 marzo 2026, n. 33, pubblicato nella Gazzetta Ufficiale n. 64 del 18 marzo 2026. Il titolo del decreto è disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali [S1].\",\"Alla data di riferimento del 31 marzo 2026, dalle fonti parlamentari ufficiali reperite risulta l’avvio dell’iter di conversione al Senato. Non sono emersi, nel materiale ufficiale consultato, atti successivi consolidati che consentano di affermare l’avvenuta approvazione in Commissione o in Aula. In termini giornalistici, il provvedimento risulta quindi in corso di esame parlamentare, in una fase ancora iniziale o comunque non conclusa [S1].\"]},{\"heading\":\"Principali contenuti normativi\",\"paragraphs\":[\"L’articolo 1 disciplina la prevenzione e il contrasto alle manovre speculative sui carburanti. Dal testo normativo e dalla relazione illustrativa emerge un rafforzamento degli obblighi informativi a carico degli operatori della filiera e della trasmissione dei dati alle autorità di controllo e vigilanza del mercato, con previsione di sanzioni in caso di violazione [S1].\",\"Lo stesso articolo stabilisce inoltre che i prezzi comunicati dagli esercenti ai sensi del decreto-legge 14 gennaio 2023, n. 5 non possano essere variati nel corso della stessa giornata, misura che sembra finalizzata a contenere pratiche opportunistiche di repricing infra-giornaliero. Questa è un’inferenza interpretativa ricavata dalla struttura del testo e dalla ratio dichiarata di contrasto alle manovre speculative [S1].\",\"L’articolo 3 introduce un contributo straordinario sotto forma di credito d’imposta per il settore dell’autotrasporto merci, con oneri pari a 100 milioni di euro per il 2026. Lo stesso articolo prevede che, dalla data di entrata in vigore del decreto e fino al 30 giugno 2026, l’aggiornamento dei valori indicativi di riferimento dei costi di esercizio dell’autotrasporto avvenga mensilmente con riguardo alla sola componente del costo del gasolio [S1, S2].\",\"L’articolo 4 riconosce alle imprese esercenti attività di pesca, nel limite di 10 milioni di euro per l’anno 2026, un contributo straordinario sotto forma di credito d’imposta fino al 20 per cento della spesa sostenuta per gasolio e benzina acquistati nei mesi di marzo, aprile e maggio 2026. Il credito è utilizzabile in compensazione entro il 31 dicembre 2026 e non concorre alla formazione del reddito d’impresa né della base imponibile IRAP [S1].\",\"Il decreto contiene infine una clausola finanziaria e l’entrata in vigore immediata, secondo la tecnica tipica del decreto-legge da convertire entro 60 giorni, quindi entro il 17 maggio 2026 salvo conversione anticipata o decadenza [S1].\"]},{\"heading\":\"Posizioni politiche emerse dalle fonti parlamentari\",\"paragraphs\":[\"Nelle fonti parlamentari ufficiali più vicine temporalmente reperite sul tema carburanti, il Governo ha sostenuto una linea centrata su stabilizzazione del mercato e uso selettivo degli strumenti fiscali, ricordando che l’ordinamento già consente interventi temporanei sulle accise al superamento di determinate soglie di prezzo. In Senato, il rappresentante del Governo ha rivendicato che i prezzi alla pompa, a metà febbraio 2025, risultavano sostanzialmente in linea con il 2024 e inferiori al 2023, difendendo un approccio non generalizzato ai tagli fiscali [S3].\",\"Sempre dalle fonti parlamentari ufficiali emergono, soprattutto in atti di sindacato ispettivo e materiali allegati, pressioni di categorie economiche per allargare le platee dei sostegni ai comparti maggiormente esposti al costo del carburante. Il decreto, però, nella versione presentata, concentra gli aiuti settoriali su autotrasporto merci e pesca, lasciando fuori altri segmenti del trasporto e del turismo [S1, S4].\",\"Con specifico riferimento al contesto fornito, la lamentata esclusione delle imprese di bus turistici trova riscontro negativo, nel senso dell’assenza di una disciplina ad hoc nel testo depositato. Allo stato non risultano nelle fonti ufficiali consultate emendamenti approvati o riformulazioni governative che abbiano colmato questa lacuna [S1].\"]},{\"heading\":\"Contenziosi procedurali o politici\",\"paragraphs\":[\"Non risultano, nelle fonti parlamentari ufficiali reperite entro il 31 marzo 2026, contenziosi procedurali già cristallizzati come questioni regolamentari, conflitti di ammissibilità o rilievi formali della Presidenza sul provvedimento. Ciò non esclude che il confronto possa svilupparsi successivamente nella fase emendativa o in Aula [S1].\",\"Sul piano politico, il potenziale terreno di scontro sembra piuttosto quello della selettività delle misure. Il decreto interviene sui prezzi petroliferi e sui costi del gasolio ma non contiene, nella sua formulazione iniziale, una misura strutturale dedicata ai bus turistici, né un’estensione generalizzata del regime agevolato delle accise a tale comparto. Da qui può derivare un contenzioso politico tra maggioranza, Governo e categorie escluse, più che un contenzioso tecnico-procedurale già formalizzato [S1, S4].\"]},{\"heading\":\"Riferimenti normativi rilevanti\",\"paragraphs\":[\"Il provvedimento è il decreto-legge 18 marzo 2026, n. 33, sottoposto a conversione con il DDL S. 845 [S1].\",\"Per i prezzi comunicati dagli esercenti il testo richiama il decreto-legge 14 gennaio 2023, n. 5, già intervenuto in materia di trasparenza dei prezzi dei carburanti [S1, S4].\",\"Per l’aggiornamento dei valori indicativi dei costi di esercizio dell’autotrasporto viene richiamato l’articolo 1, comma 250, della legge 23 dicembre 2014, n. 190, nonché l’articolo 83-bis, comma 4, del decreto-legge 25 giugno 2008, n. 112, convertito dalla legge 6 agosto 2008, n. 133 [S1, S2].\",\"Per il credito d’imposta alla pesca il testo richiama, tra l’altro, l’articolo 17 del decreto legislativo 9 luglio 1997, n. 241, e le disposizioni sui limiti all’utilizzo dei crediti di cui alla legge 24 dicembre 2007, n. 244 e alla legge 23 dicembre 2000, n. 388 [S1].\"]},{\"heading\":\"Valutazione finale rispetto al contesto AN.BTI\",\"paragraphs\":[\"Alla data del 31 marzo 2026, la ricostruzione basata esclusivamente su fonti parlamentari ufficiali conferma che il decreto in questione esiste ed è all’esame del Senato, ma non consente di avallare il riferimento specifico alla Commissione Finanze del Senato come dato già verificato nelle fonti consultate. L’elemento certo è l’avvio dell’iter con presentazione del DDL S. 845 il 18 marzo 2026 [S1].\",\"Nel merito, la denuncia di AN.BTI sulla mancanza di aiuti specifici ai bus turistici è coerente con il testo normativo depositato: il decreto prevede strumenti contro speculazioni e sostegni circoscritti ad autotrasporto merci e pesca, senza un capitolo dedicato al trasporto turistico con autobus [S1].\",\"Per un’agenzia stampa, la linea di sintesi più solida è quindi la seguente: il DL carburanti è formalmente avviato in Parlamento, interviene su vigilanza della filiera e sostegni selettivi, ma al 31 marzo 2026 non risultano misure specifiche per i bus turistici né esiti finali dell’iter di conversione [S1].\"]}],\"caveats\":[\"La ricerca è stata volutamente limitata alle fonti parlamentari e ai documenti ufficiali, come richiesto; non sono state usate fonti di stampa, ministeriali non parlamentari o associative per integrare informazioni mancanti.\",\"Nel perimetro degli ultimi 6 mesi è stato possibile identificare con certezza il testo del decreto e il DDL di conversione, ma non sono emerse pagine di iter complete o resoconti di Commissione sufficienti a confermare assegnazione, calendario dettagliato e stato emendativo al 31 marzo 2026.\",\"Il riferimento del contesto alla Commissione Finanze del Senato non è stato confermato dalle fonti ufficiali reperite; va quindi riportato con cautela, salvo ulteriore verifica su scheda iter o convocazioni ufficiali della Commissione.\",\"Le posizioni politiche ricostruite sono limitate a quanto effettivamente emerso in atti parlamentari ufficiali recenti; il quadro potrà ampliarsi con audizioni, emendamenti e dichiarazioni in Aula successive al 31 marzo 2026.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Senato della Repubblica, DDL S. 845, Conversione in legge del decreto-legge 18 marzo 2026, n. 33, recante disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf\"},{\"id\":\"S2\",\"title\":\"Senato della Repubblica, estratti del testo e della relazione tecnica del DDL S. 845 relativi all’articolo 3 e all’aggiornamento mensile del costo del gasolio per l’autotrasporto\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf\"},{\"id\":\"S3\",\"title\":\"Senato della Repubblica, Resoconto stenografico Aula, seduta n. 276 del 20 febbraio 2025, intervento del Governo sul tema dei prezzi dei carburanti e del meccanismo di riduzione temporanea delle accise\",\"url\":\"https://www.senato.it/show-doc?id=1445776&leg=19&tipodoc=Resaula&part=doc_dc\"},{\"id\":\"S4\",\"title\":\"Documentazione parlamentare acquisita alla Camera su trasparenza e controllo del prezzo di vendita al pubblico di carburante per autotrazione, con riferimenti al decreto-legge 14 gennaio 2023, n. 5\",\"url\":\"https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/425/631/AC_771_-_Documenti_acquisiti_Camera_-_File_completo.pdf\"}]}"
+          }
+        ],
+        "phase": "final_answer",
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "description": null,
+        "name": "web_research_summary",
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        },
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 38389,
+      "input_tokens_details": {
+        "cached_tokens": 4736
+      },
+      "output_tokens": 4147,
+      "output_tokens_details": {
+        "reasoning_tokens": 1081
+      },
+      "total_tokens": 42536
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"title\":\"Stato di avanzamento del DL Carburanti al 31 marzo 2026\",\"summary\":\"Alla data del 31 marzo 2026, il provvedimento richiamato nel contesto corrisponde al disegno di legge di conversione S. 845 del decreto-legge 18 marzo 2026, n. 33, recante disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali. Il testo risulta presentato al Senato il 18 marzo 2026 ed è quindi in una fase iniziale dell’iter parlamentare; nelle fonti parlamentari ufficiali reperite entro il perimetro temporale richiesto non emergono ancora elementi consolidati su approvazione definitiva, maxiemendamenti o passaggio conclusivo in Aula [S1].\\n\\nSul piano contenutistico, il decreto non appare costruito come misura generalizzata di taglio delle accise per tutti i consumatori, ma come intervento selettivo su vigilanza della filiera, rigidità infra-giornaliere dei prezzi comunicati, sostegno all’autotrasporto merci e credito d’imposta per le imprese ittiche. Nel materiale ufficiale consultato non risultano, allo stato, misure specifiche per il comparto dei bus turistici richiamato da AN.BTI-Confcommercio; questa assenza è coerente con la critica politica riportata nel contesto [S1].\",\"keyPoints\":[\"Il provvedimento è il DDL S. 845 di conversione del decreto-legge 18 marzo 2026, n. 33, presentato al Senato il 18 marzo 2026 [S1].\",\"Il decreto punta soprattutto su monitoraggio e contrasto di possibili manovre speculative nella filiera dei carburanti, non su una riduzione generalizzata delle accise [S1].\",\"Sono previsti un credito d’imposta fino a 100 milioni per autotrasporto merci e un credito d’imposta fino a 10 milioni per le imprese ittiche [S1].\",\"È previsto, fino al 30 giugno 2026, l’aggiornamento mensile della sola componente gasolio nei valori indicativi dei costi di esercizio dell’autotrasporto [S1, S2].\",\"Nelle fonti parlamentari ufficiali reperite non risultano misure specifiche per le imprese di bus turistici, tema al centro delle richieste di AN.BTI [S1].\",\"Non emergono ancora, nelle fonti ufficiali consultate, contenziosi procedurali già formalizzati o esiti conclusivi dell’esame parlamentare [S1].\"],\"sections\":[{\"heading\":\"Identificazione del provvedimento e fase dell’iter\",\"paragraphs\":[\"Il provvedimento in esame è il disegno di legge S. 845, comunicato alla Presidenza del Senato il 18 marzo 2026, avente ad oggetto la conversione in legge del decreto-legge 18 marzo 2026, n. 33, pubblicato nella Gazzetta Ufficiale n. 64 del 18 marzo 2026. Il titolo del decreto è disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali [S1].\",\"Alla data di riferimento del 31 marzo 2026, dalle fonti parlamentari ufficiali reperite risulta l’avvio dell’iter di conversione al Senato. Non sono emersi, nel materiale ufficiale consultato, atti successivi consolidati che consentano di affermare l’avvenuta approvazione in Commissione o in Aula. In termini giornalistici, il provvedimento risulta quindi in corso di esame parlamentare, in una fase ancora iniziale o comunque non conclusa [S1].\"]},{\"heading\":\"Principali contenuti normativi\",\"paragraphs\":[\"L’articolo 1 disciplina la prevenzione e il contrasto alle manovre speculative sui carburanti. Dal testo normativo e dalla relazione illustrativa emerge un rafforzamento degli obblighi informativi a carico degli operatori della filiera e della trasmissione dei dati alle autorità di controllo e vigilanza del mercato, con previsione di sanzioni in caso di violazione [S1].\",\"Lo stesso articolo stabilisce inoltre che i prezzi comunicati dagli esercenti ai sensi del decreto-legge 14 gennaio 2023, n. 5 non possano essere variati nel corso della stessa giornata, misura che sembra finalizzata a contenere pratiche opportunistiche di repricing infra-giornaliero. Questa è un’inferenza interpretativa ricavata dalla struttura del testo e dalla ratio dichiarata di contrasto alle manovre speculative [S1].\",\"L’articolo 3 introduce un contributo straordinario sotto forma di credito d’imposta per il settore dell’autotrasporto merci, con oneri pari a 100 milioni di euro per il 2026. Lo stesso articolo prevede che, dalla data di entrata in vigore del decreto e fino al 30 giugno 2026, l’aggiornamento dei valori indicativi di riferimento dei costi di esercizio dell’autotrasporto avvenga mensilmente con riguardo alla sola componente del costo del gasolio [S1, S2].\",\"L’articolo 4 riconosce alle imprese esercenti attività di pesca, nel limite di 10 milioni di euro per l’anno 2026, un contributo straordinario sotto forma di credito d’imposta fino al 20 per cento della spesa sostenuta per gasolio e benzina acquistati nei mesi di marzo, aprile e maggio 2026. Il credito è utilizzabile in compensazione entro il 31 dicembre 2026 e non concorre alla formazione del reddito d’impresa né della base imponibile IRAP [S1].\",\"Il decreto contiene infine una clausola finanziaria e l’entrata in vigore immediata, secondo la tecnica tipica del decreto-legge da convertire entro 60 giorni, quindi entro il 17 maggio 2026 salvo conversione anticipata o decadenza [S1].\"]},{\"heading\":\"Posizioni politiche emerse dalle fonti parlamentari\",\"paragraphs\":[\"Nelle fonti parlamentari ufficiali più vicine temporalmente reperite sul tema carburanti, il Governo ha sostenuto una linea centrata su stabilizzazione del mercato e uso selettivo degli strumenti fiscali, ricordando che l’ordinamento già consente interventi temporanei sulle accise al superamento di determinate soglie di prezzo. In Senato, il rappresentante del Governo ha rivendicato che i prezzi alla pompa, a metà febbraio 2025, risultavano sostanzialmente in linea con il 2024 e inferiori al 2023, difendendo un approccio non generalizzato ai tagli fiscali [S3].\",\"Sempre dalle fonti parlamentari ufficiali emergono, soprattutto in atti di sindacato ispettivo e materiali allegati, pressioni di categorie economiche per allargare le platee dei sostegni ai comparti maggiormente esposti al costo del carburante. Il decreto, però, nella versione presentata, concentra gli aiuti settoriali su autotrasporto merci e pesca, lasciando fuori altri segmenti del trasporto e del turismo [S1, S4].\",\"Con specifico riferimento al contesto fornito, la lamentata esclusione delle imprese di bus turistici trova riscontro negativo, nel senso dell’assenza di una disciplina ad hoc nel testo depositato. Allo stato non risultano nelle fonti ufficiali consultate emendamenti approvati o riformulazioni governative che abbiano colmato questa lacuna [S1].\"]},{\"heading\":\"Contenziosi procedurali o politici\",\"paragraphs\":[\"Non risultano, nelle fonti parlamentari ufficiali reperite entro il 31 marzo 2026, contenziosi procedurali già cristallizzati come questioni regolamentari, conflitti di ammissibilità o rilievi formali della Presidenza sul provvedimento. Ciò non esclude che il confronto possa svilupparsi successivamente nella fase emendativa o in Aula [S1].\",\"Sul piano politico, il potenziale terreno di scontro sembra piuttosto quello della selettività delle misure. Il decreto interviene sui prezzi petroliferi e sui costi del gasolio ma non contiene, nella sua formulazione iniziale, una misura strutturale dedicata ai bus turistici, né un’estensione generalizzata del regime agevolato delle accise a tale comparto. Da qui può derivare un contenzioso politico tra maggioranza, Governo e categorie escluse, più che un contenzioso tecnico-procedurale già formalizzato [S1, S4].\"]},{\"heading\":\"Riferimenti normativi rilevanti\",\"paragraphs\":[\"Il provvedimento è il decreto-legge 18 marzo 2026, n. 33, sottoposto a conversione con il DDL S. 845 [S1].\",\"Per i prezzi comunicati dagli esercenti il testo richiama il decreto-legge 14 gennaio 2023, n. 5, già intervenuto in materia di trasparenza dei prezzi dei carburanti [S1, S4].\",\"Per l’aggiornamento dei valori indicativi dei costi di esercizio dell’autotrasporto viene richiamato l’articolo 1, comma 250, della legge 23 dicembre 2014, n. 190, nonché l’articolo 83-bis, comma 4, del decreto-legge 25 giugno 2008, n. 112, convertito dalla legge 6 agosto 2008, n. 133 [S1, S2].\",\"Per il credito d’imposta alla pesca il testo richiama, tra l’altro, l’articolo 17 del decreto legislativo 9 luglio 1997, n. 241, e le disposizioni sui limiti all’utilizzo dei crediti di cui alla legge 24 dicembre 2007, n. 244 e alla legge 23 dicembre 2000, n. 388 [S1].\"]},{\"heading\":\"Valutazione finale rispetto al contesto AN.BTI\",\"paragraphs\":[\"Alla data del 31 marzo 2026, la ricostruzione basata esclusivamente su fonti parlamentari ufficiali conferma che il decreto in questione esiste ed è all’esame del Senato, ma non consente di avallare il riferimento specifico alla Commissione Finanze del Senato come dato già verificato nelle fonti consultate. L’elemento certo è l’avvio dell’iter con presentazione del DDL S. 845 il 18 marzo 2026 [S1].\",\"Nel merito, la denuncia di AN.BTI sulla mancanza di aiuti specifici ai bus turistici è coerente con il testo normativo depositato: il decreto prevede strumenti contro speculazioni e sostegni circoscritti ad autotrasporto merci e pesca, senza un capitolo dedicato al trasporto turistico con autobus [S1].\",\"Per un’agenzia stampa, la linea di sintesi più solida è quindi la seguente: il DL carburanti è formalmente avviato in Parlamento, interviene su vigilanza della filiera e sostegni selettivi, ma al 31 marzo 2026 non risultano misure specifiche per i bus turistici né esiti finali dell’iter di conversione [S1].\"]}],\"caveats\":[\"La ricerca è stata volutamente limitata alle fonti parlamentari e ai documenti ufficiali, come richiesto; non sono state usate fonti di stampa, ministeriali non parlamentari o associative per integrare informazioni mancanti.\",\"Nel perimetro degli ultimi 6 mesi è stato possibile identificare con certezza il testo del decreto e il DDL di conversione, ma non sono emerse pagine di iter complete o resoconti di Commissione sufficienti a confermare assegnazione, calendario dettagliato e stato emendativo al 31 marzo 2026.\",\"Il riferimento del contesto alla Commissione Finanze del Senato non è stato confermato dalle fonti ufficiali reperite; va quindi riportato con cautela, salvo ulteriore verifica su scheda iter o convocazioni ufficiali della Commissione.\",\"Le posizioni politiche ricostruite sono limitate a quanto effettivamente emerso in atti parlamentari ufficiali recenti; il quadro potrà ampliarsi con audizioni, emendamenti e dichiarazioni in Aula successive al 31 marzo 2026.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Senato della Repubblica, DDL S. 845, Conversione in legge del decreto-legge 18 marzo 2026, n. 33, recante disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf\"},{\"id\":\"S2\",\"title\":\"Senato della Repubblica, estratti del testo e della relazione tecnica del DDL S. 845 relativi all’articolo 3 e all’aggiornamento mensile del costo del gasolio per l’autotrasporto\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf\"},{\"id\":\"S3\",\"title\":\"Senato della Repubblica, Resoconto stenografico Aula, seduta n. 276 del 20 febbraio 2025, intervento del Governo sul tema dei prezzi dei carburanti e del meccanismo di riduzione temporanea delle accise\",\"url\":\"https://www.senato.it/show-doc?id=1445776&leg=19&tipodoc=Resaula&part=doc_dc\"},{\"id\":\"S4\",\"title\":\"Documentazione parlamentare acquisita alla Camera su trasparenza e controllo del prezzo di vendita al pubblico di carburante per autotrazione, con riferimenti al decreto-legge 14 gennaio 2023, n. 5\",\"url\":\"https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/425/631/AC_771_-_Documenti_acquisiti_Camera_-_File_completo.pdf\"}]}"
+  }
+}

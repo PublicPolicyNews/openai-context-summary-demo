@@ -1,0 +1,626 @@
+{
+  "runId": "run_2026-03-31T05-31-46-208Z_03-dl-pnrr_b6f0978e",
+  "responseId": "resp_05537bec5fb1aabe0069cb5be72170819684fe4753c3060859",
+  "generatedAt": "2026-03-31T05:31:46.208Z",
+  "mode": "sync",
+  "context": {
+    "id": "03-dl-pnrr",
+    "slug": "03-dl-pnrr",
+    "fileName": "03-dl-pnrr.md",
+    "title": "DL PNRR"
+  },
+  "promptFile": "00-prompt.md",
+  "model": "gpt-5.4",
+  "requestFingerprint": "6b8af996d8f6e45765e6a4232c0f793443eb500df7f106035d76969d25827cb4",
+  "structuredAnswer": {
+    "title": "DL PNRR 2026: stato dell’iter al 31 marzo 2026",
+    "summary": "Alla data del 31 marzo 2026 il provvedimento di riferimento è il disegno di legge di conversione A.C. 2807 del decreto-legge 19 febbraio 2026, n. 19, recante ulteriori disposizioni urgenti per l’attuazione del PNRR e in materia di politiche di coesione. L’iter risulta ancora in corso in V Commissione Bilancio della Camera, dove l’esame referente è iniziato il 25 febbraio 2026 e proseguito almeno fino al 25 marzo, con pubblicazione delle proposte emendative presentate e, successivamente, delle proposte emendative segnalate. I pareri delle commissioni consultive risultano in larga parte già acquisiti entro il 25 marzo. [S1, S2]\n\nSul piano contenutistico il decreto è un classico omnibus PNRR-coesione: rafforza strutture amministrative e di missione, interviene su semplificazioni procedurali, giustizia, scuola, università, infrastrutture ferroviarie, investimenti e misure settoriali collegate all’attuazione delle milestone. Nel quadro normativo rileva anche una disposizione, già entrata nell’ordinamento attraverso altro veicolo normativo di febbraio 2026, che proroga al 2026 la convenzione per la trasmissione radiofonica delle sedute parlamentari con autorizzazione di spesa pari a 4 milioni di euro; gli emendamenti politici richiamati nel contesto puntano a raddoppiare tale importo a 8 milioni per il 2026, ma allo stato dei materiali parlamentari consultati non emerge ancora un esito formale in Commissione su quel punto. [S3, S4, S5]",
+    "keyPoints": [
+      "Il provvedimento è l’A.C. 2807, conversione del decreto-legge 19 febbraio 2026, n. 19, presentato il 19 febbraio 2026 e assegnato alla V Commissione Bilancio il 20 febbraio 2026. [S1]",
+      "L’esame referente in V Commissione è iniziato il 25 febbraio 2026 ed è proseguito con sedute il 4, 12, 13 e 25 marzo 2026; al 31 marzo non risulta concluso nella scheda ufficiale. [S1]",
+      "Il 12 marzo sono state pubblicate le proposte emendative presentate; il 25 marzo risultano pubblicate le proposte emendative segnalate, passaggio che conferma una selezione interna del fascicolo emendativo. [S1, S2]",
+      "Molte commissioni consultive hanno già espresso parere entro il 25 marzo, in genere favorevole o favorevole con osservazioni; tra queste II, VI, VII, VIII, IX, X, XI, XII e XIV, oltre al Comitato per la legislazione. [S1]",
+      "I principali contenuti normativi riguardano governance PNRR, rafforzamento amministrativo, giustizia, istruzione, università, infrastrutture ferroviarie, investimenti e riallocazioni attuative collegate a milestone e target del Piano. [S4, S5]",
+      "Sul dossier Radio Radicale, la base normativa vigente per il 2026 è di 4 milioni; la richiesta politica di portare lo stanziamento a 8 milioni è dunque emendativa e non ancora consolidata negli atti finali disponibili al 31 marzo. [S3, S5]"
+    ],
+    "sections": [
+      {
+        "heading": "Identificazione del provvedimento e stato dell’iter",
+        "paragraphs": [
+          "La scheda ufficiale della Camera identifica il provvedimento come A.C. 2807, conversione in legge del decreto-legge 19 febbraio 2026, n. 19. La fase dell’iter indicata è In corso di esame in Commissione. Il disegno di legge è stato presentato il 19 febbraio 2026 e assegnato alla V Commissione Bilancio e Tesoro in sede referente il 20 febbraio 2026. I relatori risultano Vanessa Cattoi, Roberto Pella, Francesco Saverio Romano e Paolo Trancassini. [S1]",
+          "L’esame in V Commissione è formalmente iniziato il 25 febbraio 2026. La scheda elenca successive tappe istruttorie il 4 marzo, il 12 marzo, il 13 marzo e il 25 marzo 2026, tutte concluse con rinvio. Alla data di riferimento del 31 marzo 2026 non risulta ancora registrata nella scheda la conclusione dell’esame referente né l’approdo in Assemblea. [S1]",
+          "Sul piano documentale, il 12 marzo è stato pubblicato l’elenco delle proposte emendative presentate; il 25 marzo è stato pubblicato l’elenco delle proposte emendative segnalate. Questo conferma che la Commissione si trovava nella fase di scrematura delle proposte prima del voto sugli emendamenti. [S1, S2]"
+        ]
+      },
+      {
+        "heading": "Quadro dei pareri e attività conoscitiva",
+        "paragraphs": [
+          "Le commissioni consultive avevano già svolto gran parte del loro lavoro entro il 25 marzo. Dalla scheda risultano: II Giustizia con parere favorevole l’11 marzo; VI Finanze con parere favorevole con osservazione il 3 marzo; VII Cultura con parere favorevole il 4 marzo; VIII Ambiente con parere favorevole il 25 marzo; IX Trasporti con parere favorevole con osservazioni l’11 marzo; X Attività produttive con parere favorevole l’11 marzo; XI Lavoro con parere favorevole il 25 marzo; XII Affari sociali con parere favorevole il 25 marzo; XIV Politiche UE con parere favorevole con osservazione il 25 marzo; Comitato per la legislazione con parere contenente osservazioni e una raccomandazione il 3 marzo. [S1]",
+          "La V Commissione ha inoltre svolto audizioni informali il 2 marzo 2026 con un ventaglio ampio di soggetti: Fondazione GIMBE, UDU, Italia Solare, FISH, CNA, Confartigianato, Casartigiani, Confimprenditori, Confcommercio, Invitalia, Assonime, ASSTRA e ANCE. La presenza di memorie depositate segnala un confronto istruttorio esteso su sanità, università, energia, disabilità, imprese e attuazione operativa del Piano. [S1]"
+        ]
+      },
+      {
+        "heading": "Principali contenuti normativi",
+        "paragraphs": [
+          "Il dossier parlamentare di documentazione descrive il decreto come un intervento trasversale su governance del PNRR e politiche di coesione. Tra le prime misure figurano proroghe e rafforzamenti delle strutture di missione e delle capacità amministrative delle amministrazioni coinvolte nell’attuazione del Piano, inclusi interventi su personale, incarichi dirigenziali, supporto tecnico-amministrativo e monitoraggio. [S4, S5]",
+          "Il decreto contiene anche disposizioni di settore. Nel capitolo giustizia interviene sull’attuazione delle riforme PNRR in materia di giustizia tributaria e giustizia civile. Nel capitolo istruzione e merito reca misure urgenti su riforma degli istituti tecnici e professionali, riorganizzazione del sistema scolastico, reclutamento docenti, formazione e verifiche sugli investimenti della Missione 4. Nel capitolo università introduce misure su alloggi e residenze per studenti. [S5]",
+          "Sul versante infrastrutture e trasporti, il dossier segnala norme sulla riforma per il rafforzamento dell’efficienza dell’infrastruttura ferroviaria, sugli investimenti ferroviari della Missione 3 e sul fondo per gli investimenti infrastrutturali e la sicurezza nel settore idrico. Nel capitolo investimenti compaiono misure attuative su Transizione 4.0 e su ulteriori investimenti del Ministero delle imprese e del made in Italy. [S5]",
+          "Una linea generale del provvedimento è dunque quella di accelerare l’esecuzione, prorogare o adeguare apparati amministrativi e correggere assetti attuativi in prossimità delle scadenze finali del PNRR 2026. Questa impostazione è coerente anche con il richiamo nel dossier alla revisione del PNRR e alla necessità di mantenere efficaci le semplificazioni già previste da precedenti decreti PNRR. [S4, S5]"
+        ]
+      },
+      {
+        "heading": "Posizioni politiche emerse",
+        "paragraphs": [
+          "Dagli atti ufficiali consultati emerge un quadro politico in cui la maggioranza sostiene l’impianto generale del decreto come strumento urgente di manutenzione normativa del PNRR e della coesione, mentre le opposizioni hanno concentrato parte del confronto su emendamenti correttivi e su alcuni dossier simbolici o settoriali. La scheda degli emendamenti segnala infatti un numero molto elevato di proposte provenienti sia dai gruppi di maggioranza sia da quelli di opposizione, poi ridotto nella fase delle segnalazioni. [S1, S2]",
+          "Il tema Radio Radicale, richiamato nel contesto, si innesta su una base normativa già definita da altra disposizione del febbraio 2026, che ha prorogato al 2026 il contratto e autorizzato 4 milioni di euro per l’anno 2026. Gli emendamenti bipartisan citati nel contesto mirano quindi a modificare questo assetto riallineando lo stanziamento 2026 agli 8 milioni del 2025. Nei materiali ufficiali esaminati non si rinviene però, al 31 marzo, un esito conclusivo della Commissione su questa partita. [S3, S5]",
+          "Le audizioni mostrano inoltre pressioni politiche e tecnico-settoriali su più fronti: sanità, alloggi universitari, riforma della disabilità, semplificazioni per le imprese, energia e attuazione infrastrutturale. In termini politici, questo suggerisce che il decreto sia stato utilizzato anche come veicolo di correzione puntuale di diversi segmenti del PNRR, con la consueta competizione tra esigenze di accelerazione e richieste di ampliamento delle coperture. [S1]"
+        ]
+      },
+      {
+        "heading": "Contenziosi procedurali e criticità politiche",
+        "paragraphs": [
+          "Sul piano procedurale, il primo elemento di criticità è l’ampiezza materiale del decreto. Il Comitato per la legislazione ha espresso un parere con osservazioni e raccomandazione, segnale tipico di attenzione ai profili di omogeneità, coordinamento normativo e qualità del testo nei decreti-legge a contenuto plurimo. [S1]",
+          "Un secondo nodo è la gestione del fascicolo emendativo. Gli atti ufficiali attestano la pubblicazione degli emendamenti presentati il 12 marzo e delle proposte segnalate il 25 marzo; il passaggio dalla massa iniziale alla rosa dei segnalati conferma una fase istruttoria complessa e selettiva, compatibile con la necessità di verifiche di copertura e con il filtro politico tra Governo, relatori e gruppi. [S1, S2]",
+          "Il dossier Radio Radicale rappresenta la criticità politica più riconoscibile nel materiale fornito dal contesto: non riguarda l’esistenza della copertura base, già prevista in altra norma, ma l’eventuale incremento a 8 milioni tramite emendamento. Proprio perché si tratta di un aumento di spesa rispetto al vigente, il punto dipende da una verifica finanziaria e dall’accordo politico tra gruppi e Governo. Negli atti ufficiali disponibili al 31 marzo non compare ancora un’approvazione definitiva di tale incremento. [S3, S5]"
+        ]
+      },
+      {
+        "heading": "Valutazione sintetica dello stato di avanzamento",
+        "paragraphs": [
+          "Alla data del 31 marzo 2026 il decreto è in una fase avanzata ma non conclusa dell’esame alla Camera. L’istruttoria tecnica e politica appare sostanzialmente matura: i pareri delle commissioni consultive sono quasi tutti acquisiti, le audizioni sono state svolte e il fascicolo emendativo è già stato ridotto alle proposte segnalate. Manca però, sulla base della scheda ufficiale, la chiusura formale del referente con mandato ai relatori e trasmissione all’Assemblea. [S1, S2]",
+          "Il provvedimento si conferma rilevante sia per la manutenzione finale del PNRR sia per l’aggiustamento di specifiche politiche di coesione. Politicamente il testo appare sostenuto dalla maggioranza, ma attraversato da negoziati emendativi su coperture e misure puntuali. Le principali controversie non sembrano, allo stato, di natura regolamentare-bloccante, bensì di tipo politico-finanziario e di tenuta dell’eterogeneità del contenuto. [S1, S3, S5]"
+        ]
+      }
+    ],
+    "caveats": [
+      "La ricerca è stata limitata a fonti parlamentari ufficiali e documentazione parlamentare, come richiesto.",
+      "Non è stato possibile verificare con atto ufficiale, entro il perimetro consultato e alla data del 31 marzo 2026, l’eventuale decisione definitiva della Conferenza dei capigruppo sull’approdo in Aula l’8 aprile con fiducia; questo elemento compare nel contesto fornito ma non è stato confermato nei documenti ufficiali accessibili durante la ricerca.",
+      "Per il tema Radio Radicale gli atti ufficiali consultati consentono di ricostruire la base normativa vigente dei 4 milioni per il 2026, ma non l’esito finale degli emendamenti che puntano a 8 milioni.",
+      "L’assenza, al 31 marzo, della conclusione dell’esame referente nella scheda della Camera suggerisce cautela nel descrivere come definiti passaggi che risultano ancora in corso."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Camera dei deputati, scheda del progetto di legge A.C. 2807, Conversione in legge del decreto-legge 19 febbraio 2026, n. 19",
+        "url": "https://www.camera.it/leg19/126?idDocumento=2807&leg=19"
+      },
+      {
+        "id": "S2",
+        "title": "Camera dei deputati, elenco delle proposte emendative pubblicate nel Bollettino della V Commissione del 25 marzo 2026, C. 2807",
+        "url": "https://documenti.camera.it/apps/emendamenti/getProposteEmendativeSeduta.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=20260325&sedeEsame=referente&tipoListaEmendamenti=1&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente"
+      },
+      {
+        "id": "S3",
+        "title": "Senato della Repubblica, dossier su disposizione che proroga al 2026 il contratto con Radio Radicale e autorizza 4 milioni per il 2026",
+        "url": "https://www.senato.it/service/PDF/PDFServer/BGT/1494100.pdf"
+      },
+      {
+        "id": "S4",
+        "title": "Camera dei deputati, dossier NC0162 su ulteriori disposizioni urgenti per l’attuazione del Piano",
+        "url": "https://documenti.camera.it/leg19/dossier/pdf/NC0162.pdf"
+      },
+      {
+        "id": "S5",
+        "title": "Camera dei deputati e Senato della Repubblica, dossier di documentazione D26019 sul DL 19 del 2026 PNRR e politiche di coesione",
+        "url": "https://documenti.camera.it/leg19/dossier/pdf/D26019.pdf"
+      }
+    ]
+  },
+  "timing": {
+    "startedAt": "2026-03-31T05:30:13.951Z",
+    "completedAt": "2026-03-31T05:31:46.206Z",
+    "durationMs": 92255,
+    "providerStartedAt": "2026-03-31T05:30:15.000Z",
+    "providerCompletedAt": "2026-03-31T05:31:46.000Z",
+    "providerDurationMs": 91000
+  },
+  "usage": {
+    "inputTokens": 55955,
+    "cachedInputTokens": 4736,
+    "outputTokens": 4690,
+    "reasoningTokens": 1200,
+    "totalTokens": 60645,
+    "webSearchCalls": 16
+  },
+  "estimatedCost": {
+    "currency": "USD",
+    "inputCostUsd": 0.128048,
+    "cachedInputCostUsd": 0.001184,
+    "outputCostUsd": 0.07035,
+    "webSearchCostUsd": 0.16,
+    "totalCostUsd": 0.359582,
+    "pricingVersion": "manual-2026-03",
+    "assumptions": [
+      "Estimated with local price card for gpt-5.4.",
+      "Web search cost estimated as $10 per 1k calls for GPT-5-era reasoning models.",
+      "Estimate is for standard synchronous processing and may differ from actual billing."
+    ]
+  },
+  "analysis": {
+    "citationCount": 0,
+    "sourceCount": 5,
+    "sectionCount": 6,
+    "paragraphCount": 17,
+    "keyPointCount": 6,
+    "summaryCharCount": 1453,
+    "answerCharCount": 11280,
+    "answerWordCount": 1642
+  },
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://documenti.camera.it/leg19/dossier/pdf/NC0162.pdf",
+      "type": "open_page"
+    },
+    {
+      "url": "https://documenti.camera.it/leg19/dossier/pdf/D26019.pdf",
+      "type": "find_in_page"
+    },
+    {
+      "url": "https://www.camera.it/leg19/126?idDocumento=2807&leg=19",
+      "type": "open_page"
+    },
+    {
+      "url": "https://www.camera.it/leg19/410?idSeduta=0628&tipo=documenti_seduta",
+      "type": "open_page"
+    },
+    {
+      "url": "https://documenti.camera.it/apps/emendamenti/getProposteEmendativeSeduta.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=20260312&sedeEsame=referente&tipoListaEmendamenti=1&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente",
+      "type": "open_page"
+    },
+    {
+      "url": "https://documenti.camera.it/apps/emendamenti/getProposteEmendativeSeduta.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=20260325&sedeEsame=referente&tipoListaEmendamenti=1&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente",
+      "type": "open_page"
+    }
+  ],
+  "request": {
+    "model": "gpt-5.4",
+    "tools": [
+      {
+        "type": "web_search"
+      }
+    ],
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "name": "web_research_summary",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        }
+      }
+    },
+    "input": [
+      {
+        "role": "developer",
+        "content": "Restituisci solo JSON strutturato. Tutti i campi testuali devono contenere solo testo semplice. Non inserire markdown, HTML, URL grezzi o citazioni inline in summary, keyPoints, sections o caveats. Quando devi richiamare una fonte nel testo, usa segnaposto come [S1] o [S1, S2]. Inserisci le voci bibliografiche reali nell'array sources e mantieni gli id coerenti."
+      },
+      {
+        "role": "user",
+        "content": "Data di riferimento: 2026-03-31\n\nPrompt:\nSei un'assistente di ricerca in un'agenzia stampa specializzata in comunicati stampa ed informazioni last-minute.\n\nFai riferimento al seguente testo.\nBasandoti esclusivamente su:\n- banche dati del Parlamento\n- documenti parlamentari ufficiali\n- resoconti stenografici delle sedute in commissione e in aula\n- documentazione depositata di qualsiasi natura\n- interrogazioni depositate e risposte del governo\n- riferimenti normativi\n\nLimita la ricerca web ad informazioni risalenti agli ultimi 6 mesi. Puoi usare fonti ufficiali antecedenti solo se necessarie per ricostruire i contenuti normativi.\n\nElabora un report sullo stato di avanzamento del provvedimento in questione, che includa anche le principali posizioni politiche, eventuali contenziosi procedurali o politici, principali contenuti normativi.\n\nContesto: 03-dl-pnrr.md — DL PNRR\n\nTesto del contesto:\n# DL PNRR\n\n• Il ministro per gli Affari europei, il Pnrr e le Politiche di coesione, Tommaso Foti, ha dichiarato di non essere pessimista sulla possibilità di incrementare le risorse destinate alla convenzione con Radio Radicale tramite emendamenti bipartisan al dl Pnrr.\n• Gli emendamenti proposti da gruppi di maggioranza e opposizione mirano ad aumentare da 4 a 8 milioni di euro i fondi per la convenzione, riportando per il 2026 lo stanziamento al livello previsto per il 2025.\n• In commissione Bilancio sono stati segnalati circa 250 emendamenti, sui quali si attendono i pareri del Ministero dell’Economia; il totale iniziale era di circa 900 proposte.\n• Foti ha riferito che il Governo attende verifiche sulla copertura finanziaria e che alcuni emendamenti richiederanno un’istruttoria approfondita.\n• È previsto un incontro tra Governo e opposizioni prima della presentazione di un nuovo pacchetto di emendamenti, atteso nei prossimi giorni e composto da una decina di proposte dei relatori e dell’Esecutivo.\n• Le prime votazioni in commissione Bilancio dovrebbero iniziare martedì 31 marzo.\n• La conferenza dei capigruppo della Camera ha stabilito che l’esame del dl Pnrr in aula inizierà l’8 aprile, con discussione generale alle 12 e apposizione della fiducia alle 14."
+      }
+    ]
+  },
+  "rawResponse": {
+    "id": "resp_05537bec5fb1aabe0069cb5be72170819684fe4753c3060859",
+    "object": "response",
+    "created_at": 1774935015,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1774935106,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.4-2026-03-05",
+    "output": [
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5be7eed08196940bf8c7ce6c0d5b",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:camera.it decreto-legge PNRR commissione bilancio 31 marzo 2026 radio radicale emendamenti Foti",
+            "site:senato.it decreto-legge PNRR 2026 Radio Radicale emendamenti Foti",
+            "site:camera.it resoconto stenografico commissione bilancio dl pnrr 2026",
+            "site:parlamento.it dl pnrr 2026 camera aula 8 aprile fiducia"
+          ],
+          "query": "site:camera.it decreto-legge PNRR commissione bilancio 31 marzo 2026 radio radicale emendamenti Foti"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5beafb348196b12fb9a8a670d9eb",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:camera.it/leg19/126 decreto-legge ulteriore disposizioni urgenti per l'attuazione del PNRR 2026 camera",
+            "site:camera.it/leg19 commissione bilancio decreto-legge pnrr 2026 emendamenti segnalati radio radicale",
+            "site:documenti.camera.it PNRR radio radicale 8 milioni 2026 commissione bilancio",
+            "site:camera.it capigruppo 8 aprile 2026 dl pnrr fiducia"
+          ],
+          "query": "site:camera.it/leg19/126 decreto-legge ulteriore disposizioni urgenti per l'attuazione del PNRR 2026 camera"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5bed98e881969212573ad2d403db",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://documenti.camera.it/leg19/dossier/pdf/NC0162.pdf"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5beeda888196b0b544eccbccb9ab",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "find_in_page",
+          "pattern": "A.C.",
+          "url": "https://documenti.camera.it/leg19/dossier/pdf/D26019.pdf"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5bf0ee8c8196ac9e3ed2529e4e94",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:camera.it/leg19/126 A.C. 2807 decreto-legge 19 2026",
+            "site:camera.it A.C. 2807 conversione decreto-legge 19 2026 PNRR",
+            "site:camera.it/leg19/126?idDocumento=2807 scheda progetto di legge"
+          ],
+          "query": "site:camera.it/leg19/126 A.C. 2807 decreto-legge 19 2026"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5bf5c3c48196b3de51fedc31d6bf",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.camera.it/leg19/126?idDocumento=2807&leg=19"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5bf6c87881968ac62fe1f5d47956",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.camera.it/leg19/126?idDocumento=2807&leg=19"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5bf7b9d081969dd4f0e6961148aa",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.camera.it/leg19/126?idDocumento=2807&leg=19"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5bfb567081969d4a62a2de86488a",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0628&tipo=documenti_seduta"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5bfcd6ec8196b41becc7a1fe5738",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:camera.it conferenza dei presidenti di gruppo 8 aprile 2026 fiducia dl 19/2026 pnrr camera",
+            "site:camera.it calendario assemblea 8 aprile 2026 dl 19 2026 pnrr",
+            "site:camera.it ordine del giorno assemblea 8 aprile 2026 dl pnrr 2807"
+          ],
+          "query": "site:camera.it conferenza dei presidenti di gruppo 8 aprile 2026 fiducia dl 19/2026 pnrr camera"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5c008ca88196900f8842c4783697",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5c0181c08196a47fbb49bd9a6921",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5c05ae508196b1e6ccd553dd14b9",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5c07010881969a67af975204e3e3",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://documenti.camera.it/apps/emendamenti/getProposteEmendativeSeduta.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=20260312&sedeEsame=referente&tipoListaEmendamenti=1&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5c089c848196a490de21ad10e081",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "find_in_page",
+          "pattern": "radio",
+          "url": "https://documenti.camera.it/apps/emendamenti/getProposteEmendativeSeduta.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=20260325&sedeEsame=referente&tipoListaEmendamenti=1&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente"
+        }
+      },
+      {
+        "id": "ws_05537bec5fb1aabe0069cb5c0c9e9081968121c35efba1fdfc",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://documenti.camera.it/apps/emendamenti/getProposteEmendativeSeduta.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=20260325&sedeEsame=referente&tipoListaEmendamenti=1&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente"
+        }
+      },
+      {
+        "id": "msg_05537bec5fb1aabe0069cb5c0dd07c8196900ab5e049ae1665",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "{\"title\":\"DL PNRR 2026: stato dell’iter al 31 marzo 2026\",\"summary\":\"Alla data del 31 marzo 2026 il provvedimento di riferimento è il disegno di legge di conversione A.C. 2807 del decreto-legge 19 febbraio 2026, n. 19, recante ulteriori disposizioni urgenti per l’attuazione del PNRR e in materia di politiche di coesione. L’iter risulta ancora in corso in V Commissione Bilancio della Camera, dove l’esame referente è iniziato il 25 febbraio 2026 e proseguito almeno fino al 25 marzo, con pubblicazione delle proposte emendative presentate e, successivamente, delle proposte emendative segnalate. I pareri delle commissioni consultive risultano in larga parte già acquisiti entro il 25 marzo. [S1, S2]\\n\\nSul piano contenutistico il decreto è un classico omnibus PNRR-coesione: rafforza strutture amministrative e di missione, interviene su semplificazioni procedurali, giustizia, scuola, università, infrastrutture ferroviarie, investimenti e misure settoriali collegate all’attuazione delle milestone. Nel quadro normativo rileva anche una disposizione, già entrata nell’ordinamento attraverso altro veicolo normativo di febbraio 2026, che proroga al 2026 la convenzione per la trasmissione radiofonica delle sedute parlamentari con autorizzazione di spesa pari a 4 milioni di euro; gli emendamenti politici richiamati nel contesto puntano a raddoppiare tale importo a 8 milioni per il 2026, ma allo stato dei materiali parlamentari consultati non emerge ancora un esito formale in Commissione su quel punto. [S3, S4, S5]\",\"keyPoints\":[\"Il provvedimento è l’A.C. 2807, conversione del decreto-legge 19 febbraio 2026, n. 19, presentato il 19 febbraio 2026 e assegnato alla V Commissione Bilancio il 20 febbraio 2026. [S1]\",\"L’esame referente in V Commissione è iniziato il 25 febbraio 2026 ed è proseguito con sedute il 4, 12, 13 e 25 marzo 2026; al 31 marzo non risulta concluso nella scheda ufficiale. [S1]\",\"Il 12 marzo sono state pubblicate le proposte emendative presentate; il 25 marzo risultano pubblicate le proposte emendative segnalate, passaggio che conferma una selezione interna del fascicolo emendativo. [S1, S2]\",\"Molte commissioni consultive hanno già espresso parere entro il 25 marzo, in genere favorevole o favorevole con osservazioni; tra queste II, VI, VII, VIII, IX, X, XI, XII e XIV, oltre al Comitato per la legislazione. [S1]\",\"I principali contenuti normativi riguardano governance PNRR, rafforzamento amministrativo, giustizia, istruzione, università, infrastrutture ferroviarie, investimenti e riallocazioni attuative collegate a milestone e target del Piano. [S4, S5]\",\"Sul dossier Radio Radicale, la base normativa vigente per il 2026 è di 4 milioni; la richiesta politica di portare lo stanziamento a 8 milioni è dunque emendativa e non ancora consolidata negli atti finali disponibili al 31 marzo. [S3, S5]\"],\"sections\":[{\"heading\":\"Identificazione del provvedimento e stato dell’iter\",\"paragraphs\":[\"La scheda ufficiale della Camera identifica il provvedimento come A.C. 2807, conversione in legge del decreto-legge 19 febbraio 2026, n. 19. La fase dell’iter indicata è In corso di esame in Commissione. Il disegno di legge è stato presentato il 19 febbraio 2026 e assegnato alla V Commissione Bilancio e Tesoro in sede referente il 20 febbraio 2026. I relatori risultano Vanessa Cattoi, Roberto Pella, Francesco Saverio Romano e Paolo Trancassini. [S1]\",\"L’esame in V Commissione è formalmente iniziato il 25 febbraio 2026. La scheda elenca successive tappe istruttorie il 4 marzo, il 12 marzo, il 13 marzo e il 25 marzo 2026, tutte concluse con rinvio. Alla data di riferimento del 31 marzo 2026 non risulta ancora registrata nella scheda la conclusione dell’esame referente né l’approdo in Assemblea. [S1]\",\"Sul piano documentale, il 12 marzo è stato pubblicato l’elenco delle proposte emendative presentate; il 25 marzo è stato pubblicato l’elenco delle proposte emendative segnalate. Questo conferma che la Commissione si trovava nella fase di scrematura delle proposte prima del voto sugli emendamenti. [S1, S2]\"]},{\"heading\":\"Quadro dei pareri e attività conoscitiva\",\"paragraphs\":[\"Le commissioni consultive avevano già svolto gran parte del loro lavoro entro il 25 marzo. Dalla scheda risultano: II Giustizia con parere favorevole l’11 marzo; VI Finanze con parere favorevole con osservazione il 3 marzo; VII Cultura con parere favorevole il 4 marzo; VIII Ambiente con parere favorevole il 25 marzo; IX Trasporti con parere favorevole con osservazioni l’11 marzo; X Attività produttive con parere favorevole l’11 marzo; XI Lavoro con parere favorevole il 25 marzo; XII Affari sociali con parere favorevole il 25 marzo; XIV Politiche UE con parere favorevole con osservazione il 25 marzo; Comitato per la legislazione con parere contenente osservazioni e una raccomandazione il 3 marzo. [S1]\",\"La V Commissione ha inoltre svolto audizioni informali il 2 marzo 2026 con un ventaglio ampio di soggetti: Fondazione GIMBE, UDU, Italia Solare, FISH, CNA, Confartigianato, Casartigiani, Confimprenditori, Confcommercio, Invitalia, Assonime, ASSTRA e ANCE. La presenza di memorie depositate segnala un confronto istruttorio esteso su sanità, università, energia, disabilità, imprese e attuazione operativa del Piano. [S1]\"]},{\"heading\":\"Principali contenuti normativi\",\"paragraphs\":[\"Il dossier parlamentare di documentazione descrive il decreto come un intervento trasversale su governance del PNRR e politiche di coesione. Tra le prime misure figurano proroghe e rafforzamenti delle strutture di missione e delle capacità amministrative delle amministrazioni coinvolte nell’attuazione del Piano, inclusi interventi su personale, incarichi dirigenziali, supporto tecnico-amministrativo e monitoraggio. [S4, S5]\",\"Il decreto contiene anche disposizioni di settore. Nel capitolo giustizia interviene sull’attuazione delle riforme PNRR in materia di giustizia tributaria e giustizia civile. Nel capitolo istruzione e merito reca misure urgenti su riforma degli istituti tecnici e professionali, riorganizzazione del sistema scolastico, reclutamento docenti, formazione e verifiche sugli investimenti della Missione 4. Nel capitolo università introduce misure su alloggi e residenze per studenti. [S5]\",\"Sul versante infrastrutture e trasporti, il dossier segnala norme sulla riforma per il rafforzamento dell’efficienza dell’infrastruttura ferroviaria, sugli investimenti ferroviari della Missione 3 e sul fondo per gli investimenti infrastrutturali e la sicurezza nel settore idrico. Nel capitolo investimenti compaiono misure attuative su Transizione 4.0 e su ulteriori investimenti del Ministero delle imprese e del made in Italy. [S5]\",\"Una linea generale del provvedimento è dunque quella di accelerare l’esecuzione, prorogare o adeguare apparati amministrativi e correggere assetti attuativi in prossimità delle scadenze finali del PNRR 2026. Questa impostazione è coerente anche con il richiamo nel dossier alla revisione del PNRR e alla necessità di mantenere efficaci le semplificazioni già previste da precedenti decreti PNRR. [S4, S5]\"]},{\"heading\":\"Posizioni politiche emerse\",\"paragraphs\":[\"Dagli atti ufficiali consultati emerge un quadro politico in cui la maggioranza sostiene l’impianto generale del decreto come strumento urgente di manutenzione normativa del PNRR e della coesione, mentre le opposizioni hanno concentrato parte del confronto su emendamenti correttivi e su alcuni dossier simbolici o settoriali. La scheda degli emendamenti segnala infatti un numero molto elevato di proposte provenienti sia dai gruppi di maggioranza sia da quelli di opposizione, poi ridotto nella fase delle segnalazioni. [S1, S2]\",\"Il tema Radio Radicale, richiamato nel contesto, si innesta su una base normativa già definita da altra disposizione del febbraio 2026, che ha prorogato al 2026 il contratto e autorizzato 4 milioni di euro per l’anno 2026. Gli emendamenti bipartisan citati nel contesto mirano quindi a modificare questo assetto riallineando lo stanziamento 2026 agli 8 milioni del 2025. Nei materiali ufficiali esaminati non si rinviene però, al 31 marzo, un esito conclusivo della Commissione su questa partita. [S3, S5]\",\"Le audizioni mostrano inoltre pressioni politiche e tecnico-settoriali su più fronti: sanità, alloggi universitari, riforma della disabilità, semplificazioni per le imprese, energia e attuazione infrastrutturale. In termini politici, questo suggerisce che il decreto sia stato utilizzato anche come veicolo di correzione puntuale di diversi segmenti del PNRR, con la consueta competizione tra esigenze di accelerazione e richieste di ampliamento delle coperture. [S1]\"]},{\"heading\":\"Contenziosi procedurali e criticità politiche\",\"paragraphs\":[\"Sul piano procedurale, il primo elemento di criticità è l’ampiezza materiale del decreto. Il Comitato per la legislazione ha espresso un parere con osservazioni e raccomandazione, segnale tipico di attenzione ai profili di omogeneità, coordinamento normativo e qualità del testo nei decreti-legge a contenuto plurimo. [S1]\",\"Un secondo nodo è la gestione del fascicolo emendativo. Gli atti ufficiali attestano la pubblicazione degli emendamenti presentati il 12 marzo e delle proposte segnalate il 25 marzo; il passaggio dalla massa iniziale alla rosa dei segnalati conferma una fase istruttoria complessa e selettiva, compatibile con la necessità di verifiche di copertura e con il filtro politico tra Governo, relatori e gruppi. [S1, S2]\",\"Il dossier Radio Radicale rappresenta la criticità politica più riconoscibile nel materiale fornito dal contesto: non riguarda l’esistenza della copertura base, già prevista in altra norma, ma l’eventuale incremento a 8 milioni tramite emendamento. Proprio perché si tratta di un aumento di spesa rispetto al vigente, il punto dipende da una verifica finanziaria e dall’accordo politico tra gruppi e Governo. Negli atti ufficiali disponibili al 31 marzo non compare ancora un’approvazione definitiva di tale incremento. [S3, S5]\"]},{\"heading\":\"Valutazione sintetica dello stato di avanzamento\",\"paragraphs\":[\"Alla data del 31 marzo 2026 il decreto è in una fase avanzata ma non conclusa dell’esame alla Camera. L’istruttoria tecnica e politica appare sostanzialmente matura: i pareri delle commissioni consultive sono quasi tutti acquisiti, le audizioni sono state svolte e il fascicolo emendativo è già stato ridotto alle proposte segnalate. Manca però, sulla base della scheda ufficiale, la chiusura formale del referente con mandato ai relatori e trasmissione all’Assemblea. [S1, S2]\",\"Il provvedimento si conferma rilevante sia per la manutenzione finale del PNRR sia per l’aggiustamento di specifiche politiche di coesione. Politicamente il testo appare sostenuto dalla maggioranza, ma attraversato da negoziati emendativi su coperture e misure puntuali. Le principali controversie non sembrano, allo stato, di natura regolamentare-bloccante, bensì di tipo politico-finanziario e di tenuta dell’eterogeneità del contenuto. [S1, S3, S5]\"]}],\"caveats\":[\"La ricerca è stata limitata a fonti parlamentari ufficiali e documentazione parlamentare, come richiesto.\",\"Non è stato possibile verificare con atto ufficiale, entro il perimetro consultato e alla data del 31 marzo 2026, l’eventuale decisione definitiva della Conferenza dei capigruppo sull’approdo in Aula l’8 aprile con fiducia; questo elemento compare nel contesto fornito ma non è stato confermato nei documenti ufficiali accessibili durante la ricerca.\",\"Per il tema Radio Radicale gli atti ufficiali consultati consentono di ricostruire la base normativa vigente dei 4 milioni per il 2026, ma non l’esito finale degli emendamenti che puntano a 8 milioni.\",\"L’assenza, al 31 marzo, della conclusione dell’esame referente nella scheda della Camera suggerisce cautela nel descrivere come definiti passaggi che risultano ancora in corso.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Camera dei deputati, scheda del progetto di legge A.C. 2807, Conversione in legge del decreto-legge 19 febbraio 2026, n. 19\",\"url\":\"https://www.camera.it/leg19/126?idDocumento=2807&leg=19\"},{\"id\":\"S2\",\"title\":\"Camera dei deputati, elenco delle proposte emendative pubblicate nel Bollettino della V Commissione del 25 marzo 2026, C. 2807\",\"url\":\"https://documenti.camera.it/apps/emendamenti/getProposteEmendativeSeduta.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=20260325&sedeEsame=referente&tipoListaEmendamenti=1&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente\"},{\"id\":\"S3\",\"title\":\"Senato della Repubblica, dossier su disposizione che proroga al 2026 il contratto con Radio Radicale e autorizza 4 milioni per il 2026\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/BGT/1494100.pdf\"},{\"id\":\"S4\",\"title\":\"Camera dei deputati, dossier NC0162 su ulteriori disposizioni urgenti per l’attuazione del Piano\",\"url\":\"https://documenti.camera.it/leg19/dossier/pdf/NC0162.pdf\"},{\"id\":\"S5\",\"title\":\"Camera dei deputati e Senato della Repubblica, dossier di documentazione D26019 sul DL 19 del 2026 PNRR e politiche di coesione\",\"url\":\"https://documenti.camera.it/leg19/dossier/pdf/D26019.pdf\"}]}"
+          }
+        ],
+        "phase": "final_answer",
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "description": null,
+        "name": "web_research_summary",
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        },
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 55955,
+      "input_tokens_details": {
+        "cached_tokens": 4736
+      },
+      "output_tokens": 4690,
+      "output_tokens_details": {
+        "reasoning_tokens": 1200
+      },
+      "total_tokens": 60645
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"title\":\"DL PNRR 2026: stato dell’iter al 31 marzo 2026\",\"summary\":\"Alla data del 31 marzo 2026 il provvedimento di riferimento è il disegno di legge di conversione A.C. 2807 del decreto-legge 19 febbraio 2026, n. 19, recante ulteriori disposizioni urgenti per l’attuazione del PNRR e in materia di politiche di coesione. L’iter risulta ancora in corso in V Commissione Bilancio della Camera, dove l’esame referente è iniziato il 25 febbraio 2026 e proseguito almeno fino al 25 marzo, con pubblicazione delle proposte emendative presentate e, successivamente, delle proposte emendative segnalate. I pareri delle commissioni consultive risultano in larga parte già acquisiti entro il 25 marzo. [S1, S2]\\n\\nSul piano contenutistico il decreto è un classico omnibus PNRR-coesione: rafforza strutture amministrative e di missione, interviene su semplificazioni procedurali, giustizia, scuola, università, infrastrutture ferroviarie, investimenti e misure settoriali collegate all’attuazione delle milestone. Nel quadro normativo rileva anche una disposizione, già entrata nell’ordinamento attraverso altro veicolo normativo di febbraio 2026, che proroga al 2026 la convenzione per la trasmissione radiofonica delle sedute parlamentari con autorizzazione di spesa pari a 4 milioni di euro; gli emendamenti politici richiamati nel contesto puntano a raddoppiare tale importo a 8 milioni per il 2026, ma allo stato dei materiali parlamentari consultati non emerge ancora un esito formale in Commissione su quel punto. [S3, S4, S5]\",\"keyPoints\":[\"Il provvedimento è l’A.C. 2807, conversione del decreto-legge 19 febbraio 2026, n. 19, presentato il 19 febbraio 2026 e assegnato alla V Commissione Bilancio il 20 febbraio 2026. [S1]\",\"L’esame referente in V Commissione è iniziato il 25 febbraio 2026 ed è proseguito con sedute il 4, 12, 13 e 25 marzo 2026; al 31 marzo non risulta concluso nella scheda ufficiale. [S1]\",\"Il 12 marzo sono state pubblicate le proposte emendative presentate; il 25 marzo risultano pubblicate le proposte emendative segnalate, passaggio che conferma una selezione interna del fascicolo emendativo. [S1, S2]\",\"Molte commissioni consultive hanno già espresso parere entro il 25 marzo, in genere favorevole o favorevole con osservazioni; tra queste II, VI, VII, VIII, IX, X, XI, XII e XIV, oltre al Comitato per la legislazione. [S1]\",\"I principali contenuti normativi riguardano governance PNRR, rafforzamento amministrativo, giustizia, istruzione, università, infrastrutture ferroviarie, investimenti e riallocazioni attuative collegate a milestone e target del Piano. [S4, S5]\",\"Sul dossier Radio Radicale, la base normativa vigente per il 2026 è di 4 milioni; la richiesta politica di portare lo stanziamento a 8 milioni è dunque emendativa e non ancora consolidata negli atti finali disponibili al 31 marzo. [S3, S5]\"],\"sections\":[{\"heading\":\"Identificazione del provvedimento e stato dell’iter\",\"paragraphs\":[\"La scheda ufficiale della Camera identifica il provvedimento come A.C. 2807, conversione in legge del decreto-legge 19 febbraio 2026, n. 19. La fase dell’iter indicata è In corso di esame in Commissione. Il disegno di legge è stato presentato il 19 febbraio 2026 e assegnato alla V Commissione Bilancio e Tesoro in sede referente il 20 febbraio 2026. I relatori risultano Vanessa Cattoi, Roberto Pella, Francesco Saverio Romano e Paolo Trancassini. [S1]\",\"L’esame in V Commissione è formalmente iniziato il 25 febbraio 2026. La scheda elenca successive tappe istruttorie il 4 marzo, il 12 marzo, il 13 marzo e il 25 marzo 2026, tutte concluse con rinvio. Alla data di riferimento del 31 marzo 2026 non risulta ancora registrata nella scheda la conclusione dell’esame referente né l’approdo in Assemblea. [S1]\",\"Sul piano documentale, il 12 marzo è stato pubblicato l’elenco delle proposte emendative presentate; il 25 marzo è stato pubblicato l’elenco delle proposte emendative segnalate. Questo conferma che la Commissione si trovava nella fase di scrematura delle proposte prima del voto sugli emendamenti. [S1, S2]\"]},{\"heading\":\"Quadro dei pareri e attività conoscitiva\",\"paragraphs\":[\"Le commissioni consultive avevano già svolto gran parte del loro lavoro entro il 25 marzo. Dalla scheda risultano: II Giustizia con parere favorevole l’11 marzo; VI Finanze con parere favorevole con osservazione il 3 marzo; VII Cultura con parere favorevole il 4 marzo; VIII Ambiente con parere favorevole il 25 marzo; IX Trasporti con parere favorevole con osservazioni l’11 marzo; X Attività produttive con parere favorevole l’11 marzo; XI Lavoro con parere favorevole il 25 marzo; XII Affari sociali con parere favorevole il 25 marzo; XIV Politiche UE con parere favorevole con osservazione il 25 marzo; Comitato per la legislazione con parere contenente osservazioni e una raccomandazione il 3 marzo. [S1]\",\"La V Commissione ha inoltre svolto audizioni informali il 2 marzo 2026 con un ventaglio ampio di soggetti: Fondazione GIMBE, UDU, Italia Solare, FISH, CNA, Confartigianato, Casartigiani, Confimprenditori, Confcommercio, Invitalia, Assonime, ASSTRA e ANCE. La presenza di memorie depositate segnala un confronto istruttorio esteso su sanità, università, energia, disabilità, imprese e attuazione operativa del Piano. [S1]\"]},{\"heading\":\"Principali contenuti normativi\",\"paragraphs\":[\"Il dossier parlamentare di documentazione descrive il decreto come un intervento trasversale su governance del PNRR e politiche di coesione. Tra le prime misure figurano proroghe e rafforzamenti delle strutture di missione e delle capacità amministrative delle amministrazioni coinvolte nell’attuazione del Piano, inclusi interventi su personale, incarichi dirigenziali, supporto tecnico-amministrativo e monitoraggio. [S4, S5]\",\"Il decreto contiene anche disposizioni di settore. Nel capitolo giustizia interviene sull’attuazione delle riforme PNRR in materia di giustizia tributaria e giustizia civile. Nel capitolo istruzione e merito reca misure urgenti su riforma degli istituti tecnici e professionali, riorganizzazione del sistema scolastico, reclutamento docenti, formazione e verifiche sugli investimenti della Missione 4. Nel capitolo università introduce misure su alloggi e residenze per studenti. [S5]\",\"Sul versante infrastrutture e trasporti, il dossier segnala norme sulla riforma per il rafforzamento dell’efficienza dell’infrastruttura ferroviaria, sugli investimenti ferroviari della Missione 3 e sul fondo per gli investimenti infrastrutturali e la sicurezza nel settore idrico. Nel capitolo investimenti compaiono misure attuative su Transizione 4.0 e su ulteriori investimenti del Ministero delle imprese e del made in Italy. [S5]\",\"Una linea generale del provvedimento è dunque quella di accelerare l’esecuzione, prorogare o adeguare apparati amministrativi e correggere assetti attuativi in prossimità delle scadenze finali del PNRR 2026. Questa impostazione è coerente anche con il richiamo nel dossier alla revisione del PNRR e alla necessità di mantenere efficaci le semplificazioni già previste da precedenti decreti PNRR. [S4, S5]\"]},{\"heading\":\"Posizioni politiche emerse\",\"paragraphs\":[\"Dagli atti ufficiali consultati emerge un quadro politico in cui la maggioranza sostiene l’impianto generale del decreto come strumento urgente di manutenzione normativa del PNRR e della coesione, mentre le opposizioni hanno concentrato parte del confronto su emendamenti correttivi e su alcuni dossier simbolici o settoriali. La scheda degli emendamenti segnala infatti un numero molto elevato di proposte provenienti sia dai gruppi di maggioranza sia da quelli di opposizione, poi ridotto nella fase delle segnalazioni. [S1, S2]\",\"Il tema Radio Radicale, richiamato nel contesto, si innesta su una base normativa già definita da altra disposizione del febbraio 2026, che ha prorogato al 2026 il contratto e autorizzato 4 milioni di euro per l’anno 2026. Gli emendamenti bipartisan citati nel contesto mirano quindi a modificare questo assetto riallineando lo stanziamento 2026 agli 8 milioni del 2025. Nei materiali ufficiali esaminati non si rinviene però, al 31 marzo, un esito conclusivo della Commissione su questa partita. [S3, S5]\",\"Le audizioni mostrano inoltre pressioni politiche e tecnico-settoriali su più fronti: sanità, alloggi universitari, riforma della disabilità, semplificazioni per le imprese, energia e attuazione infrastrutturale. In termini politici, questo suggerisce che il decreto sia stato utilizzato anche come veicolo di correzione puntuale di diversi segmenti del PNRR, con la consueta competizione tra esigenze di accelerazione e richieste di ampliamento delle coperture. [S1]\"]},{\"heading\":\"Contenziosi procedurali e criticità politiche\",\"paragraphs\":[\"Sul piano procedurale, il primo elemento di criticità è l’ampiezza materiale del decreto. Il Comitato per la legislazione ha espresso un parere con osservazioni e raccomandazione, segnale tipico di attenzione ai profili di omogeneità, coordinamento normativo e qualità del testo nei decreti-legge a contenuto plurimo. [S1]\",\"Un secondo nodo è la gestione del fascicolo emendativo. Gli atti ufficiali attestano la pubblicazione degli emendamenti presentati il 12 marzo e delle proposte segnalate il 25 marzo; il passaggio dalla massa iniziale alla rosa dei segnalati conferma una fase istruttoria complessa e selettiva, compatibile con la necessità di verifiche di copertura e con il filtro politico tra Governo, relatori e gruppi. [S1, S2]\",\"Il dossier Radio Radicale rappresenta la criticità politica più riconoscibile nel materiale fornito dal contesto: non riguarda l’esistenza della copertura base, già prevista in altra norma, ma l’eventuale incremento a 8 milioni tramite emendamento. Proprio perché si tratta di un aumento di spesa rispetto al vigente, il punto dipende da una verifica finanziaria e dall’accordo politico tra gruppi e Governo. Negli atti ufficiali disponibili al 31 marzo non compare ancora un’approvazione definitiva di tale incremento. [S3, S5]\"]},{\"heading\":\"Valutazione sintetica dello stato di avanzamento\",\"paragraphs\":[\"Alla data del 31 marzo 2026 il decreto è in una fase avanzata ma non conclusa dell’esame alla Camera. L’istruttoria tecnica e politica appare sostanzialmente matura: i pareri delle commissioni consultive sono quasi tutti acquisiti, le audizioni sono state svolte e il fascicolo emendativo è già stato ridotto alle proposte segnalate. Manca però, sulla base della scheda ufficiale, la chiusura formale del referente con mandato ai relatori e trasmissione all’Assemblea. [S1, S2]\",\"Il provvedimento si conferma rilevante sia per la manutenzione finale del PNRR sia per l’aggiustamento di specifiche politiche di coesione. Politicamente il testo appare sostenuto dalla maggioranza, ma attraversato da negoziati emendativi su coperture e misure puntuali. Le principali controversie non sembrano, allo stato, di natura regolamentare-bloccante, bensì di tipo politico-finanziario e di tenuta dell’eterogeneità del contenuto. [S1, S3, S5]\"]}],\"caveats\":[\"La ricerca è stata limitata a fonti parlamentari ufficiali e documentazione parlamentare, come richiesto.\",\"Non è stato possibile verificare con atto ufficiale, entro il perimetro consultato e alla data del 31 marzo 2026, l’eventuale decisione definitiva della Conferenza dei capigruppo sull’approdo in Aula l’8 aprile con fiducia; questo elemento compare nel contesto fornito ma non è stato confermato nei documenti ufficiali accessibili durante la ricerca.\",\"Per il tema Radio Radicale gli atti ufficiali consultati consentono di ricostruire la base normativa vigente dei 4 milioni per il 2026, ma non l’esito finale degli emendamenti che puntano a 8 milioni.\",\"L’assenza, al 31 marzo, della conclusione dell’esame referente nella scheda della Camera suggerisce cautela nel descrivere come definiti passaggi che risultano ancora in corso.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Camera dei deputati, scheda del progetto di legge A.C. 2807, Conversione in legge del decreto-legge 19 febbraio 2026, n. 19\",\"url\":\"https://www.camera.it/leg19/126?idDocumento=2807&leg=19\"},{\"id\":\"S2\",\"title\":\"Camera dei deputati, elenco delle proposte emendative pubblicate nel Bollettino della V Commissione del 25 marzo 2026, C. 2807\",\"url\":\"https://documenti.camera.it/apps/emendamenti/getProposteEmendativeSeduta.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=20260325&sedeEsame=referente&tipoListaEmendamenti=1&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente\"},{\"id\":\"S3\",\"title\":\"Senato della Repubblica, dossier su disposizione che proroga al 2026 il contratto con Radio Radicale e autorizza 4 milioni per il 2026\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/BGT/1494100.pdf\"},{\"id\":\"S4\",\"title\":\"Camera dei deputati, dossier NC0162 su ulteriori disposizioni urgenti per l’attuazione del Piano\",\"url\":\"https://documenti.camera.it/leg19/dossier/pdf/NC0162.pdf\"},{\"id\":\"S5\",\"title\":\"Camera dei deputati e Senato della Repubblica, dossier di documentazione D26019 sul DL 19 del 2026 PNRR e politiche di coesione\",\"url\":\"https://documenti.camera.it/leg19/dossier/pdf/D26019.pdf\"}]}"
+  }
+}

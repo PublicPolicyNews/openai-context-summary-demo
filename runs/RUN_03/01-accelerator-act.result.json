@@ -1,0 +1,497 @@
+{
+  "runId": "run_2026-03-31T05-29-05-857Z_01-accelerator-act_4ab9c0b8",
+  "responseId": "resp_0ac7588c3ad1eafc0069cb5b6be37c8193ba43546b2374aa49",
+  "generatedAt": "2026-03-31T05:29:05.857Z",
+  "mode": "sync",
+  "context": {
+    "id": "01-accelerator-act",
+    "slug": "01-accelerator-act",
+    "fileName": "01-accelerator-act.md",
+    "title": "ACCELERATOR ACT"
+  },
+  "promptFile": "00-prompt.md",
+  "model": "gpt-5.4",
+  "requestFingerprint": "19790be6b932d4201fb09df70421c688714cd1fd83cb79b22b64f2a3287fe469",
+  "structuredAnswer": {
+    "title": "Stato di avanzamento dell Industrial Accelerator Act al 31 marzo 2026",
+    "summary": "Al 31 marzo 2026 il fascicolo Industrial Accelerator Act è nella fase preparatoria in Parlamento europeo. La proposta della Commissione è stata pubblicata il 4 marzo 2026 come COM(2026)0100 e registrata nella procedura ordinaria 2026/0068(COD). Nei dati ufficiali OEIL il dossier risulta ancora con rinvio parlamentare non definito in via finale, con indicazione di joint committee responsible e stato pending final decision on the referral [S1, S2].\n\nSulla base delle sole fonti istituzionali reperite negli ultimi sei mesi, non emerge ancora una decisione formale pubblicata che attribuisca in via definitiva la competenza esclusiva a ITRE oppure confermi la codecisione tra ITRE, IMCO e INTA. Il nodo procedurale quindi appare effettivo e ancora aperto al 31 marzo 2026. Ne consegue che l esame di merito in commissione non risulta avviato con nomina definitiva dei relatori o calendario sostanziale sul fascicolo. In parallelo, il Consiglio europeo ha già fissato un obiettivo politico di chiusura entro il 2026 nell ambito dell agenda One Europe, One Market [S5].",
+    "keyPoints": [
+      "La proposta legislativa COM(2026)0100 è stata pubblicata il 4 marzo 2026 ed è iscritta come 2026/0068(COD) [S1, S2].",
+      "In OEIL il fascicolo risulta ancora pending final decision on the referral, con assetto parlamentare non definito in via conclusiva [S1, S2].",
+      "Le fonti ufficiali consultate non mostrano ancora, al 31 marzo 2026, una decisione pubblicata sulla controversia tra ITRE, IMCO e INTA [S1, S2].",
+      "Il contenuto normativo combina misure per accelerare capacità industriale e decarbonizzazione in settori strategici, con modifiche ai regolamenti 2018/1724, 2024/1735 e 2024/3110 [S2, S3].",
+      "Il Consiglio europeo ha inserito l accordo dei colegislatori sull Industrial Accelerator Act tra gli obiettivi da conseguire entro la fine del 2026 [S5]."
+    ],
+    "sections": [
+      {
+        "heading": "1. Stato procedurale del fascicolo",
+        "paragraphs": [
+          "Il fascicolo è identificato come 2026/0068(COD), procedura legislativa ordinaria, strumento regolamento. In OEIL risulta in preparatory phase in Parliament. La proposta è stata pubblicata il 4 marzo 2026 come COM(2026)0100 [S1, S2].",
+          "Nella scheda ufficiale OEIL il Parlamento europeo è indicato con joint committee responsible e con la formula pending final decision on the referral. Lo stesso stato di pendenza riguarda anche committee for opinion e committee for budgetary assessment. Questo segnala che il riparto definitivo delle competenze parlamentari non era ancora formalmente chiuso alla data del 31 marzo 2026 [S1].",
+          "Non risultano, nelle fonti ufficiali consultate, relatore o relatori definitivamente nominati per il fascicolo né un primo esame sostanziale in commissione dedicato al testo COM(2026)0100. Anche questo conferma che la fase procedurale preliminare prevale ancora sull esame di merito [S1, S2]."
+        ]
+      },
+      {
+        "heading": "2. Contenzioso procedurale e politico tra commissioni",
+        "paragraphs": [
+          "Il contesto fornito segnala un conflitto di competenza tra ITRE, IMCO e INTA e un ricorso di ITRE per ottenere la competenza esclusiva. Nelle fonti ufficiali esaminate non è stato rinvenuto, entro il 31 marzo 2026, un atto pubblicato che definisca la controversia. Tuttavia lo stato pending final decision on the referral in OEIL è coerente con l esistenza di un contenzioso procedurale ancora aperto [S1].",
+          "Le agende pubblicate di ITRE e IMCO del 23 e 24 marzo 2026 non riportano ancora l avvio dell esame del fascicolo Industrial Accelerator Act, mentre mostrano soltanto sessioni di dialogo strutturato con il vicepresidente esecutivo Stéphane Séjourné e altri lavori ordinari. Anche questo è un indizio istituzionale del fatto che il dossier non sia entrato nella fase ordinaria di trattazione parlamentare [S6, S7].",
+          "Sul piano politico, la posta in gioco nella scelta della commissione capofila è elevata perché il testo incrocia almeno tre assi materiali: politica industriale e competitività, mercato interno e appalti, politica commerciale ed eventuali profili di origine dei prodotti. In assenza di una decisione finale pubblicata, la controversia resta aperta sia sul piano procedurale sia su quello dell indirizzo politico del dossier [S1, S3]."
+        ]
+      },
+      {
+        "heading": "3. Principali contenuti normativi della proposta",
+        "paragraphs": [
+          "La base giuridica indicata è il TFUE, articoli 114 e 207 paragrafo 2, il che conferma la duplice natura del testo: mercato interno e politica commerciale comune [S1, S3].",
+          "Il regolamento proposto istituisce un quadro di misure per accelerare la capacità industriale e la decarbonizzazione nei settori strategici. I settori richiamati nella documentazione ufficiale comprendono tecnologie pulite e digitali, industrie energivore e settore automobilistico, con l obiettivo di rafforzare resilienza, sicurezza economica e mantenimento della capacità produttiva nell Unione [S3, S4].",
+          "Tra i contenuti più rilevanti emergono: aree di accelerazione della manifattura industriale; qualificazione di alcuni progetti come strategic projects; requisiti di sostenibilità, resilienza, basse emissioni e origine dell Unione in taluni appalti pubblici e altre forme di intervento pubblico; regole specifiche per i veicoli; modifica di tre regolamenti già vigenti, cioè il regolamento 2018/1724, il Net Zero Industry Act regolamento 2024/1735 e il Critical Raw Materials Act regolamento 2024/3110 [S1, S3].",
+          "Gli allegati della proposta dettagliano i settori strategici per le aree di accelerazione, i requisiti low carbon e di Union origin per le industrie ad alta intensità energetica, nonché requisiti di origine dell Unione per i veicoli e meccanismi di super credits per piccoli veicoli a zero emissioni. Questi elementi indicano una forte integrazione tra politica industriale, domanda pubblica e criteri di localizzazione produttiva [S3]."
+        ]
+      },
+      {
+        "heading": "4. Posizioni politiche istituzionali fin qui tracciabili",
+        "paragraphs": [
+          "Nelle fonti parlamentari ufficiali degli ultimi sei mesi non emergono ancora relazioni, pareri, emendamenti o resoconti stenografici dedicati al merito del fascicolo, per cui le posizioni dei gruppi non sono ancora cristallizzate in atti formali del Parlamento [S1, S6, S7].",
+          "Esiste però un orientamento politico già espresso dalla Commissione e ripreso in una risposta scritta a interrogazione parlamentare del 2025: l Industrial Accelerator Act è concepito come misura chiave per settori e tecnologie strategiche, con sostegno ai lead markets tramite requisiti di resilienza e sostenibilità per prodotti low carbon e made in Europe [S4].",
+          "Dal lato del Consiglio europeo, nell agenda One Europe, One Market i leader hanno chiesto l accordo dei colegislatori sull Industrial Accelerator Act entro la fine del 2026. Si tratta di una forte pressione politica sui tempi, che può accentuare il conflitto sulla governance parlamentare del fascicolo perché la scelta della commissione competente incide direttamente sulla rapidità dell iter [S5].",
+          "In termini di linee di faglia politiche, i documenti ufficiali consentono di inferire tre possibili poli di confronto: approccio più industriale e di accelerazione autorizzativa; approccio più centrato su mercato interno e procurement; approccio più sensibile alle implicazioni commerciali e alle regole di origine. Questa è un inferenza ricavata dalla base giuridica, dalle materie trattate e dal conflitto di referral, non ancora da posizioni formali approvate [S1, S3]."
+        ]
+      },
+      {
+        "heading": "5. Tempistica e prospettive realistiche al 31 marzo 2026",
+        "paragraphs": [
+          "Alla data di riferimento non risulta pubblicata una decisione finale sul referral. Pertanto l affermazione secondo cui l esame parlamentare non inizierà prima di maggio è compatibile con lo stato documentale disponibile, ma non può essere confermata in modo pieno senza un atto successivo della Conferenza dei presidenti di commissione o della Conferenza dei presidenti dei gruppi politici pubblicato dopo il 31 marzo 2026 [S1].",
+          "La prospettiva di chiudere il fascicolo entro il 2026 resta politicamente perseguita dal Consiglio europeo, ma richiederà una rapida soluzione del conflitto interno al Parlamento, la nomina dei relatori, l adozione del calendario emendativo e l avvio dei negoziati interistituzionali. Al 31 marzo 2026 nessuno di questi passaggi risulta ancora formalizzato nelle fonti consultate per questo dossier [S1, S5]."
+        ]
+      }
+    ],
+    "caveats": [
+      "La ricerca è stata limitata a fonti istituzionali ufficiali e, per il web, agli ultimi sei mesi, come richiesto.",
+      "Non è stato rinvenuto entro il 31 marzo 2026 un documento ufficiale pubblicato che confermi in modo espresso il ricorso di ITRE o una decisione finale della Conferenza dei presidenti di commissione o della Conferenza dei presidenti.",
+      "Non risultano ancora disponibili, nelle fonti consultate, resoconti stenografici o documenti parlamentari sul merito del testo COM(2026)0100; per questo le posizioni politiche sono ricostruite solo nei limiti consentiti dagli atti ufficiali esistenti.",
+      "Le indicazioni temporali del contesto su una decisione attesa a fine aprile 2026 sono successive alla data di riferimento del report e quindi, al 31 marzo 2026, restano prospettiche e non verificabili come fatto compiuto."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Parlamento europeo, OEIL, scheda procedurale 2026/0068(COD), Basic information",
+        "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29"
+      },
+      {
+        "id": "S2",
+        "title": "EUR-Lex, procedura 2026/0068(COD) relativa a COM(2026)0100",
+        "url": "https://eur-lex.europa.eu/procedure/IT/2026_68"
+      },
+      {
+        "id": "S3",
+        "title": "Commissione europea, proposta di regolamento COM(2026)0100 final, Industrial Accelerator Act",
+        "url": "https://eur-lex.europa.eu/legal-content/AUTO/?uri=CELEX%3A52026PC0100"
+      },
+      {
+        "id": "S4",
+        "title": "Parlamento europeo, risposta della Commissione all interrogazione E-003869/2025",
+        "url": "https://www.europarl.europa.eu/doceo/document/E-10-2025-003869-ASW_EN.html"
+      },
+      {
+        "id": "S5",
+        "title": "Consiglio dell Unione europea, pagina di policy Boosting EU competitiveness: the way forward, agenda One Europe, One Market",
+        "url": "https://www.consilium.europa.eu/en/policies/boosting-eu-competitiveness-the-way-forward/"
+      },
+      {
+        "id": "S6",
+        "title": "Parlamento europeo, ITRE draft agenda del 23-24 marzo 2026",
+        "url": "https://www.europarl.europa.eu/doceo/document/ITRE-OJ-2026-03-23-1_EN.html"
+      },
+      {
+        "id": "S7",
+        "title": "Parlamento europeo, IMCO draft agenda del 23-24 marzo 2026",
+        "url": "https://www.europarl.europa.eu/doceo/document/IMCO-OJ-2026-03-23-1_EN.html"
+      }
+    ]
+  },
+  "timing": {
+    "startedAt": "2026-03-31T05:28:10.743Z",
+    "completedAt": "2026-03-31T05:29:05.855Z",
+    "durationMs": 55112,
+    "providerStartedAt": "2026-03-31T05:28:12.000Z",
+    "providerCompletedAt": "2026-03-31T05:29:05.000Z",
+    "providerDurationMs": 53000
+  },
+  "usage": {
+    "inputTokens": 21522,
+    "cachedInputTokens": 0,
+    "outputTokens": 3232,
+    "reasoningTokens": 522,
+    "totalTokens": 24754,
+    "webSearchCalls": 4
+  },
+  "estimatedCost": {
+    "currency": "USD",
+    "inputCostUsd": 0.053805,
+    "cachedInputCostUsd": 0,
+    "outputCostUsd": 0.04848,
+    "webSearchCostUsd": 0.04,
+    "totalCostUsd": 0.142285,
+    "pricingVersion": "manual-2026-03",
+    "assumptions": [
+      "Estimated with local price card for gpt-5.4.",
+      "Web search cost estimated as $10 per 1k calls for GPT-5-era reasoning models.",
+      "Estimate is for standard synchronous processing and may differ from actual billing."
+    ]
+  },
+  "analysis": {
+    "citationCount": 0,
+    "sourceCount": 7,
+    "sectionCount": 5,
+    "paragraphCount": 16,
+    "keyPointCount": 5,
+    "summaryCharCount": 1068,
+    "answerCharCount": 8684,
+    "answerWordCount": 1287
+  },
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29",
+      "type": "open_page"
+    }
+  ],
+  "request": {
+    "model": "gpt-5.4",
+    "tools": [
+      {
+        "type": "web_search"
+      }
+    ],
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "name": "web_research_summary",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        }
+      }
+    },
+    "input": [
+      {
+        "role": "developer",
+        "content": "Restituisci solo JSON strutturato. Tutti i campi testuali devono contenere solo testo semplice. Non inserire markdown, HTML, URL grezzi o citazioni inline in summary, keyPoints, sections o caveats. Quando devi richiamare una fonte nel testo, usa segnaposto come [S1] o [S1, S2]. Inserisci le voci bibliografiche reali nell'array sources e mantieni gli id coerenti."
+      },
+      {
+        "role": "user",
+        "content": "Data di riferimento: 2026-03-31\n\nPrompt:\nSei un'assistente di ricerca in un'agenzia stampa specializzata in comunicati stampa ed informazioni last-minute.\n\nFai riferimento al seguente testo.\nBasandoti esclusivamente su:\n- banche dati del Parlamento\n- documenti parlamentari ufficiali\n- resoconti stenografici delle sedute in commissione e in aula\n- documentazione depositata di qualsiasi natura\n- interrogazioni depositate e risposte del governo\n- riferimenti normativi\n\nLimita la ricerca web ad informazioni risalenti agli ultimi 6 mesi. Puoi usare fonti ufficiali antecedenti solo se necessarie per ricostruire i contenuti normativi.\n\nElabora un report sullo stato di avanzamento del provvedimento in questione, che includa anche le principali posizioni politiche, eventuali contenziosi procedurali o politici, principali contenuti normativi.\n\nContesto: 01-accelerator-act.md — ACCELERATOR ACT\n\nTesto del contesto:\n# ACCELERATOR ACT\n\n• La risoluzione del conflitto di competenze tra le commissioni Itre, Imco e Inta sull’Industrial Accelerator Act è attesa non prima della fine di aprile.\n• Il provvedimento è stato assegnato congiuntamente alle tre commissioni, ma la commissione Industria e energia (Itre) ha presentato ricorso chiedendo la competenza esclusiva.\n• La Conferenza dei presidenti di commissione, organo competente a risolvere il conflitto, si riunirà durante la plenaria del Parlamento europeo prevista dal 27 al 30 aprile.\n• La decisione finale spetterà poi alla Conferenza dei presidenti dei gruppi politici, sulla base del parere della Conferenza dei presidenti di commissione.\n• Il presidente della commissione Itre, Borys Budka, ha confermato il ricorso, affermando che un esame condiviso tra tre commissioni rallenterebbe l’iter legislativo.\n• A causa del ricorso, l’esame parlamentare del provvedimento non inizierà prima degli inizi di maggio.\n• La settimana precedente, il Consiglio europeo ha invitato Parlamento e Consiglio a completare l’esame dell’Industrial Accelerator Act entro la fine dell’anno."
+      }
+    ]
+  },
+  "rawResponse": {
+    "id": "resp_0ac7588c3ad1eafc0069cb5b6be37c8193ba43546b2374aa49",
+    "object": "response",
+    "created_at": 1774934892,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1774934945,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.4-2026-03-05",
+    "output": [
+      {
+        "id": "ws_0ac7588c3ad1eafc0069cb5b6cf82881939d07bca9b9d53e95",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:europarl.europa.eu Industrial Accelerator Act ITRE IMCO INTA Budka Conference of Committee Chairs April 2026",
+            "site:oeil.secure.europarl.europa.eu Industrial Accelerator Act 2026",
+            "site:europarl.europa.eu \"Industrial Accelerator Act\"",
+            "site:consilium.europa.eu European Council complete examination Industrial Accelerator Act by end of the year March 2026"
+          ],
+          "query": "site:europarl.europa.eu Industrial Accelerator Act ITRE IMCO INTA Budka Conference of Committee Chairs April 2026"
+        }
+      },
+      {
+        "id": "ws_0ac7588c3ad1eafc0069cb5b7003708193913478091c1f0a89",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29"
+        }
+      },
+      {
+        "id": "ws_0ac7588c3ad1eafc0069cb5b71bb088193a8efb7dcf8fc0653",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:europarl.europa.eu Borys Budka Industrial Accelerator Act referral appeal exclusive competence ITRE March 2026",
+            "site:europarl.europa.eu 2026/0068(COD) referral committee chairs ITRE IMCO INTA",
+            "site:europarl.europa.eu \"Pending final decision on the referral\" \"2026/0068(COD)\"",
+            "site:europarl.europa.eu \"Industrial Accelerator Act\" committee chairs"
+          ],
+          "query": "site:europarl.europa.eu Borys Budka Industrial Accelerator Act referral appeal exclusive competence ITRE March 2026"
+        }
+      },
+      {
+        "id": "ws_0ac7588c3ad1eafc0069cb5b7542ec8193846f622547367d2c",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:eur-lex.europa.eu COM(2026)0100 Industrial Accelerator Act pdf",
+            "site:eur-lex.europa.eu \"COM(2026) 100\" Industrial Accelerator Act",
+            "site:eur-lex.europa.eu \"Establishing a framework of measures for the acceleration of industrial capacity and decarbonisation in strategic sectors\""
+          ],
+          "query": "site:eur-lex.europa.eu COM(2026)0100 Industrial Accelerator Act pdf"
+        }
+      },
+      {
+        "id": "msg_0ac7588c3ad1eafc0069cb5b78020081939fffe933487b25ca",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "{\"title\":\"Stato di avanzamento dell Industrial Accelerator Act al 31 marzo 2026\",\"summary\":\"Al 31 marzo 2026 il fascicolo Industrial Accelerator Act è nella fase preparatoria in Parlamento europeo. La proposta della Commissione è stata pubblicata il 4 marzo 2026 come COM(2026)0100 e registrata nella procedura ordinaria 2026/0068(COD). Nei dati ufficiali OEIL il dossier risulta ancora con rinvio parlamentare non definito in via finale, con indicazione di joint committee responsible e stato pending final decision on the referral [S1, S2].\\n\\nSulla base delle sole fonti istituzionali reperite negli ultimi sei mesi, non emerge ancora una decisione formale pubblicata che attribuisca in via definitiva la competenza esclusiva a ITRE oppure confermi la codecisione tra ITRE, IMCO e INTA. Il nodo procedurale quindi appare effettivo e ancora aperto al 31 marzo 2026. Ne consegue che l esame di merito in commissione non risulta avviato con nomina definitiva dei relatori o calendario sostanziale sul fascicolo. In parallelo, il Consiglio europeo ha già fissato un obiettivo politico di chiusura entro il 2026 nell ambito dell agenda One Europe, One Market [S5].\",\"keyPoints\":[\"La proposta legislativa COM(2026)0100 è stata pubblicata il 4 marzo 2026 ed è iscritta come 2026/0068(COD) [S1, S2].\",\"In OEIL il fascicolo risulta ancora pending final decision on the referral, con assetto parlamentare non definito in via conclusiva [S1, S2].\",\"Le fonti ufficiali consultate non mostrano ancora, al 31 marzo 2026, una decisione pubblicata sulla controversia tra ITRE, IMCO e INTA [S1, S2].\",\"Il contenuto normativo combina misure per accelerare capacità industriale e decarbonizzazione in settori strategici, con modifiche ai regolamenti 2018/1724, 2024/1735 e 2024/3110 [S2, S3].\",\"Il Consiglio europeo ha inserito l accordo dei colegislatori sull Industrial Accelerator Act tra gli obiettivi da conseguire entro la fine del 2026 [S5].\"],\"sections\":[{\"heading\":\"1. Stato procedurale del fascicolo\",\"paragraphs\":[\"Il fascicolo è identificato come 2026/0068(COD), procedura legislativa ordinaria, strumento regolamento. In OEIL risulta in preparatory phase in Parliament. La proposta è stata pubblicata il 4 marzo 2026 come COM(2026)0100 [S1, S2].\",\"Nella scheda ufficiale OEIL il Parlamento europeo è indicato con joint committee responsible e con la formula pending final decision on the referral. Lo stesso stato di pendenza riguarda anche committee for opinion e committee for budgetary assessment. Questo segnala che il riparto definitivo delle competenze parlamentari non era ancora formalmente chiuso alla data del 31 marzo 2026 [S1].\",\"Non risultano, nelle fonti ufficiali consultate, relatore o relatori definitivamente nominati per il fascicolo né un primo esame sostanziale in commissione dedicato al testo COM(2026)0100. Anche questo conferma che la fase procedurale preliminare prevale ancora sull esame di merito [S1, S2].\"]},{\"heading\":\"2. Contenzioso procedurale e politico tra commissioni\",\"paragraphs\":[\"Il contesto fornito segnala un conflitto di competenza tra ITRE, IMCO e INTA e un ricorso di ITRE per ottenere la competenza esclusiva. Nelle fonti ufficiali esaminate non è stato rinvenuto, entro il 31 marzo 2026, un atto pubblicato che definisca la controversia. Tuttavia lo stato pending final decision on the referral in OEIL è coerente con l esistenza di un contenzioso procedurale ancora aperto [S1].\",\"Le agende pubblicate di ITRE e IMCO del 23 e 24 marzo 2026 non riportano ancora l avvio dell esame del fascicolo Industrial Accelerator Act, mentre mostrano soltanto sessioni di dialogo strutturato con il vicepresidente esecutivo Stéphane Séjourné e altri lavori ordinari. Anche questo è un indizio istituzionale del fatto che il dossier non sia entrato nella fase ordinaria di trattazione parlamentare [S6, S7].\",\"Sul piano politico, la posta in gioco nella scelta della commissione capofila è elevata perché il testo incrocia almeno tre assi materiali: politica industriale e competitività, mercato interno e appalti, politica commerciale ed eventuali profili di origine dei prodotti. In assenza di una decisione finale pubblicata, la controversia resta aperta sia sul piano procedurale sia su quello dell indirizzo politico del dossier [S1, S3].\"]},{\"heading\":\"3. Principali contenuti normativi della proposta\",\"paragraphs\":[\"La base giuridica indicata è il TFUE, articoli 114 e 207 paragrafo 2, il che conferma la duplice natura del testo: mercato interno e politica commerciale comune [S1, S3].\",\"Il regolamento proposto istituisce un quadro di misure per accelerare la capacità industriale e la decarbonizzazione nei settori strategici. I settori richiamati nella documentazione ufficiale comprendono tecnologie pulite e digitali, industrie energivore e settore automobilistico, con l obiettivo di rafforzare resilienza, sicurezza economica e mantenimento della capacità produttiva nell Unione [S3, S4].\",\"Tra i contenuti più rilevanti emergono: aree di accelerazione della manifattura industriale; qualificazione di alcuni progetti come strategic projects; requisiti di sostenibilità, resilienza, basse emissioni e origine dell Unione in taluni appalti pubblici e altre forme di intervento pubblico; regole specifiche per i veicoli; modifica di tre regolamenti già vigenti, cioè il regolamento 2018/1724, il Net Zero Industry Act regolamento 2024/1735 e il Critical Raw Materials Act regolamento 2024/3110 [S1, S3].\",\"Gli allegati della proposta dettagliano i settori strategici per le aree di accelerazione, i requisiti low carbon e di Union origin per le industrie ad alta intensità energetica, nonché requisiti di origine dell Unione per i veicoli e meccanismi di super credits per piccoli veicoli a zero emissioni. Questi elementi indicano una forte integrazione tra politica industriale, domanda pubblica e criteri di localizzazione produttiva [S3].\"]},{\"heading\":\"4. Posizioni politiche istituzionali fin qui tracciabili\",\"paragraphs\":[\"Nelle fonti parlamentari ufficiali degli ultimi sei mesi non emergono ancora relazioni, pareri, emendamenti o resoconti stenografici dedicati al merito del fascicolo, per cui le posizioni dei gruppi non sono ancora cristallizzate in atti formali del Parlamento [S1, S6, S7].\",\"Esiste però un orientamento politico già espresso dalla Commissione e ripreso in una risposta scritta a interrogazione parlamentare del 2025: l Industrial Accelerator Act è concepito come misura chiave per settori e tecnologie strategiche, con sostegno ai lead markets tramite requisiti di resilienza e sostenibilità per prodotti low carbon e made in Europe [S4].\",\"Dal lato del Consiglio europeo, nell agenda One Europe, One Market i leader hanno chiesto l accordo dei colegislatori sull Industrial Accelerator Act entro la fine del 2026. Si tratta di una forte pressione politica sui tempi, che può accentuare il conflitto sulla governance parlamentare del fascicolo perché la scelta della commissione competente incide direttamente sulla rapidità dell iter [S5].\",\"In termini di linee di faglia politiche, i documenti ufficiali consentono di inferire tre possibili poli di confronto: approccio più industriale e di accelerazione autorizzativa; approccio più centrato su mercato interno e procurement; approccio più sensibile alle implicazioni commerciali e alle regole di origine. Questa è un inferenza ricavata dalla base giuridica, dalle materie trattate e dal conflitto di referral, non ancora da posizioni formali approvate [S1, S3].\"]},{\"heading\":\"5. Tempistica e prospettive realistiche al 31 marzo 2026\",\"paragraphs\":[\"Alla data di riferimento non risulta pubblicata una decisione finale sul referral. Pertanto l affermazione secondo cui l esame parlamentare non inizierà prima di maggio è compatibile con lo stato documentale disponibile, ma non può essere confermata in modo pieno senza un atto successivo della Conferenza dei presidenti di commissione o della Conferenza dei presidenti dei gruppi politici pubblicato dopo il 31 marzo 2026 [S1].\",\"La prospettiva di chiudere il fascicolo entro il 2026 resta politicamente perseguita dal Consiglio europeo, ma richiederà una rapida soluzione del conflitto interno al Parlamento, la nomina dei relatori, l adozione del calendario emendativo e l avvio dei negoziati interistituzionali. Al 31 marzo 2026 nessuno di questi passaggi risulta ancora formalizzato nelle fonti consultate per questo dossier [S1, S5].\"]}],\"caveats\":[\"La ricerca è stata limitata a fonti istituzionali ufficiali e, per il web, agli ultimi sei mesi, come richiesto.\",\"Non è stato rinvenuto entro il 31 marzo 2026 un documento ufficiale pubblicato che confermi in modo espresso il ricorso di ITRE o una decisione finale della Conferenza dei presidenti di commissione o della Conferenza dei presidenti.\",\"Non risultano ancora disponibili, nelle fonti consultate, resoconti stenografici o documenti parlamentari sul merito del testo COM(2026)0100; per questo le posizioni politiche sono ricostruite solo nei limiti consentiti dagli atti ufficiali esistenti.\",\"Le indicazioni temporali del contesto su una decisione attesa a fine aprile 2026 sono successive alla data di riferimento del report e quindi, al 31 marzo 2026, restano prospettiche e non verificabili come fatto compiuto.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Parlamento europeo, OEIL, scheda procedurale 2026/0068(COD), Basic information\",\"url\":\"https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29\"},{\"id\":\"S2\",\"title\":\"EUR-Lex, procedura 2026/0068(COD) relativa a COM(2026)0100\",\"url\":\"https://eur-lex.europa.eu/procedure/IT/2026_68\"},{\"id\":\"S3\",\"title\":\"Commissione europea, proposta di regolamento COM(2026)0100 final, Industrial Accelerator Act\",\"url\":\"https://eur-lex.europa.eu/legal-content/AUTO/?uri=CELEX%3A52026PC0100\"},{\"id\":\"S4\",\"title\":\"Parlamento europeo, risposta della Commissione all interrogazione E-003869/2025\",\"url\":\"https://www.europarl.europa.eu/doceo/document/E-10-2025-003869-ASW_EN.html\"},{\"id\":\"S5\",\"title\":\"Consiglio dell Unione europea, pagina di policy Boosting EU competitiveness: the way forward, agenda One Europe, One Market\",\"url\":\"https://www.consilium.europa.eu/en/policies/boosting-eu-competitiveness-the-way-forward/\"},{\"id\":\"S6\",\"title\":\"Parlamento europeo, ITRE draft agenda del 23-24 marzo 2026\",\"url\":\"https://www.europarl.europa.eu/doceo/document/ITRE-OJ-2026-03-23-1_EN.html\"},{\"id\":\"S7\",\"title\":\"Parlamento europeo, IMCO draft agenda del 23-24 marzo 2026\",\"url\":\"https://www.europarl.europa.eu/doceo/document/IMCO-OJ-2026-03-23-1_EN.html\"}]}"
+          }
+        ],
+        "phase": "final_answer",
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "description": null,
+        "name": "web_research_summary",
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        },
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 21522,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 3232,
+      "output_tokens_details": {
+        "reasoning_tokens": 522
+      },
+      "total_tokens": 24754
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"title\":\"Stato di avanzamento dell Industrial Accelerator Act al 31 marzo 2026\",\"summary\":\"Al 31 marzo 2026 il fascicolo Industrial Accelerator Act è nella fase preparatoria in Parlamento europeo. La proposta della Commissione è stata pubblicata il 4 marzo 2026 come COM(2026)0100 e registrata nella procedura ordinaria 2026/0068(COD). Nei dati ufficiali OEIL il dossier risulta ancora con rinvio parlamentare non definito in via finale, con indicazione di joint committee responsible e stato pending final decision on the referral [S1, S2].\\n\\nSulla base delle sole fonti istituzionali reperite negli ultimi sei mesi, non emerge ancora una decisione formale pubblicata che attribuisca in via definitiva la competenza esclusiva a ITRE oppure confermi la codecisione tra ITRE, IMCO e INTA. Il nodo procedurale quindi appare effettivo e ancora aperto al 31 marzo 2026. Ne consegue che l esame di merito in commissione non risulta avviato con nomina definitiva dei relatori o calendario sostanziale sul fascicolo. In parallelo, il Consiglio europeo ha già fissato un obiettivo politico di chiusura entro il 2026 nell ambito dell agenda One Europe, One Market [S5].\",\"keyPoints\":[\"La proposta legislativa COM(2026)0100 è stata pubblicata il 4 marzo 2026 ed è iscritta come 2026/0068(COD) [S1, S2].\",\"In OEIL il fascicolo risulta ancora pending final decision on the referral, con assetto parlamentare non definito in via conclusiva [S1, S2].\",\"Le fonti ufficiali consultate non mostrano ancora, al 31 marzo 2026, una decisione pubblicata sulla controversia tra ITRE, IMCO e INTA [S1, S2].\",\"Il contenuto normativo combina misure per accelerare capacità industriale e decarbonizzazione in settori strategici, con modifiche ai regolamenti 2018/1724, 2024/1735 e 2024/3110 [S2, S3].\",\"Il Consiglio europeo ha inserito l accordo dei colegislatori sull Industrial Accelerator Act tra gli obiettivi da conseguire entro la fine del 2026 [S5].\"],\"sections\":[{\"heading\":\"1. Stato procedurale del fascicolo\",\"paragraphs\":[\"Il fascicolo è identificato come 2026/0068(COD), procedura legislativa ordinaria, strumento regolamento. In OEIL risulta in preparatory phase in Parliament. La proposta è stata pubblicata il 4 marzo 2026 come COM(2026)0100 [S1, S2].\",\"Nella scheda ufficiale OEIL il Parlamento europeo è indicato con joint committee responsible e con la formula pending final decision on the referral. Lo stesso stato di pendenza riguarda anche committee for opinion e committee for budgetary assessment. Questo segnala che il riparto definitivo delle competenze parlamentari non era ancora formalmente chiuso alla data del 31 marzo 2026 [S1].\",\"Non risultano, nelle fonti ufficiali consultate, relatore o relatori definitivamente nominati per il fascicolo né un primo esame sostanziale in commissione dedicato al testo COM(2026)0100. Anche questo conferma che la fase procedurale preliminare prevale ancora sull esame di merito [S1, S2].\"]},{\"heading\":\"2. Contenzioso procedurale e politico tra commissioni\",\"paragraphs\":[\"Il contesto fornito segnala un conflitto di competenza tra ITRE, IMCO e INTA e un ricorso di ITRE per ottenere la competenza esclusiva. Nelle fonti ufficiali esaminate non è stato rinvenuto, entro il 31 marzo 2026, un atto pubblicato che definisca la controversia. Tuttavia lo stato pending final decision on the referral in OEIL è coerente con l esistenza di un contenzioso procedurale ancora aperto [S1].\",\"Le agende pubblicate di ITRE e IMCO del 23 e 24 marzo 2026 non riportano ancora l avvio dell esame del fascicolo Industrial Accelerator Act, mentre mostrano soltanto sessioni di dialogo strutturato con il vicepresidente esecutivo Stéphane Séjourné e altri lavori ordinari. Anche questo è un indizio istituzionale del fatto che il dossier non sia entrato nella fase ordinaria di trattazione parlamentare [S6, S7].\",\"Sul piano politico, la posta in gioco nella scelta della commissione capofila è elevata perché il testo incrocia almeno tre assi materiali: politica industriale e competitività, mercato interno e appalti, politica commerciale ed eventuali profili di origine dei prodotti. In assenza di una decisione finale pubblicata, la controversia resta aperta sia sul piano procedurale sia su quello dell indirizzo politico del dossier [S1, S3].\"]},{\"heading\":\"3. Principali contenuti normativi della proposta\",\"paragraphs\":[\"La base giuridica indicata è il TFUE, articoli 114 e 207 paragrafo 2, il che conferma la duplice natura del testo: mercato interno e politica commerciale comune [S1, S3].\",\"Il regolamento proposto istituisce un quadro di misure per accelerare la capacità industriale e la decarbonizzazione nei settori strategici. I settori richiamati nella documentazione ufficiale comprendono tecnologie pulite e digitali, industrie energivore e settore automobilistico, con l obiettivo di rafforzare resilienza, sicurezza economica e mantenimento della capacità produttiva nell Unione [S3, S4].\",\"Tra i contenuti più rilevanti emergono: aree di accelerazione della manifattura industriale; qualificazione di alcuni progetti come strategic projects; requisiti di sostenibilità, resilienza, basse emissioni e origine dell Unione in taluni appalti pubblici e altre forme di intervento pubblico; regole specifiche per i veicoli; modifica di tre regolamenti già vigenti, cioè il regolamento 2018/1724, il Net Zero Industry Act regolamento 2024/1735 e il Critical Raw Materials Act regolamento 2024/3110 [S1, S3].\",\"Gli allegati della proposta dettagliano i settori strategici per le aree di accelerazione, i requisiti low carbon e di Union origin per le industrie ad alta intensità energetica, nonché requisiti di origine dell Unione per i veicoli e meccanismi di super credits per piccoli veicoli a zero emissioni. Questi elementi indicano una forte integrazione tra politica industriale, domanda pubblica e criteri di localizzazione produttiva [S3].\"]},{\"heading\":\"4. Posizioni politiche istituzionali fin qui tracciabili\",\"paragraphs\":[\"Nelle fonti parlamentari ufficiali degli ultimi sei mesi non emergono ancora relazioni, pareri, emendamenti o resoconti stenografici dedicati al merito del fascicolo, per cui le posizioni dei gruppi non sono ancora cristallizzate in atti formali del Parlamento [S1, S6, S7].\",\"Esiste però un orientamento politico già espresso dalla Commissione e ripreso in una risposta scritta a interrogazione parlamentare del 2025: l Industrial Accelerator Act è concepito come misura chiave per settori e tecnologie strategiche, con sostegno ai lead markets tramite requisiti di resilienza e sostenibilità per prodotti low carbon e made in Europe [S4].\",\"Dal lato del Consiglio europeo, nell agenda One Europe, One Market i leader hanno chiesto l accordo dei colegislatori sull Industrial Accelerator Act entro la fine del 2026. Si tratta di una forte pressione politica sui tempi, che può accentuare il conflitto sulla governance parlamentare del fascicolo perché la scelta della commissione competente incide direttamente sulla rapidità dell iter [S5].\",\"In termini di linee di faglia politiche, i documenti ufficiali consentono di inferire tre possibili poli di confronto: approccio più industriale e di accelerazione autorizzativa; approccio più centrato su mercato interno e procurement; approccio più sensibile alle implicazioni commerciali e alle regole di origine. Questa è un inferenza ricavata dalla base giuridica, dalle materie trattate e dal conflitto di referral, non ancora da posizioni formali approvate [S1, S3].\"]},{\"heading\":\"5. Tempistica e prospettive realistiche al 31 marzo 2026\",\"paragraphs\":[\"Alla data di riferimento non risulta pubblicata una decisione finale sul referral. Pertanto l affermazione secondo cui l esame parlamentare non inizierà prima di maggio è compatibile con lo stato documentale disponibile, ma non può essere confermata in modo pieno senza un atto successivo della Conferenza dei presidenti di commissione o della Conferenza dei presidenti dei gruppi politici pubblicato dopo il 31 marzo 2026 [S1].\",\"La prospettiva di chiudere il fascicolo entro il 2026 resta politicamente perseguita dal Consiglio europeo, ma richiederà una rapida soluzione del conflitto interno al Parlamento, la nomina dei relatori, l adozione del calendario emendativo e l avvio dei negoziati interistituzionali. Al 31 marzo 2026 nessuno di questi passaggi risulta ancora formalizzato nelle fonti consultate per questo dossier [S1, S5].\"]}],\"caveats\":[\"La ricerca è stata limitata a fonti istituzionali ufficiali e, per il web, agli ultimi sei mesi, come richiesto.\",\"Non è stato rinvenuto entro il 31 marzo 2026 un documento ufficiale pubblicato che confermi in modo espresso il ricorso di ITRE o una decisione finale della Conferenza dei presidenti di commissione o della Conferenza dei presidenti.\",\"Non risultano ancora disponibili, nelle fonti consultate, resoconti stenografici o documenti parlamentari sul merito del testo COM(2026)0100; per questo le posizioni politiche sono ricostruite solo nei limiti consentiti dagli atti ufficiali esistenti.\",\"Le indicazioni temporali del contesto su una decisione attesa a fine aprile 2026 sono successive alla data di riferimento del report e quindi, al 31 marzo 2026, restano prospettiche e non verificabili come fatto compiuto.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Parlamento europeo, OEIL, scheda procedurale 2026/0068(COD), Basic information\",\"url\":\"https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29\"},{\"id\":\"S2\",\"title\":\"EUR-Lex, procedura 2026/0068(COD) relativa a COM(2026)0100\",\"url\":\"https://eur-lex.europa.eu/procedure/IT/2026_68\"},{\"id\":\"S3\",\"title\":\"Commissione europea, proposta di regolamento COM(2026)0100 final, Industrial Accelerator Act\",\"url\":\"https://eur-lex.europa.eu/legal-content/AUTO/?uri=CELEX%3A52026PC0100\"},{\"id\":\"S4\",\"title\":\"Parlamento europeo, risposta della Commissione all interrogazione E-003869/2025\",\"url\":\"https://www.europarl.europa.eu/doceo/document/E-10-2025-003869-ASW_EN.html\"},{\"id\":\"S5\",\"title\":\"Consiglio dell Unione europea, pagina di policy Boosting EU competitiveness: the way forward, agenda One Europe, One Market\",\"url\":\"https://www.consilium.europa.eu/en/policies/boosting-eu-competitiveness-the-way-forward/\"},{\"id\":\"S6\",\"title\":\"Parlamento europeo, ITRE draft agenda del 23-24 marzo 2026\",\"url\":\"https://www.europarl.europa.eu/doceo/document/ITRE-OJ-2026-03-23-1_EN.html\"},{\"id\":\"S7\",\"title\":\"Parlamento europeo, IMCO draft agenda del 23-24 marzo 2026\",\"url\":\"https://www.europarl.europa.eu/doceo/document/IMCO-OJ-2026-03-23-1_EN.html\"}]}"
+  }
+}
