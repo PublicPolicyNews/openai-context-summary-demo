@@ -1,0 +1,513 @@
+{
+  "runId": "run_2026-03-31T12-09-20-408Z_01-accelerator-act_10d11ba8",
+  "responseId": "resp_020570a4164dacd90069cbb92e7cf4819499fb288040d568db",
+  "generatedAt": "2026-03-31T12:09:20.408Z",
+  "mode": "sync",
+  "context": {
+    "id": "01-accelerator-act",
+    "slug": "01-accelerator-act",
+    "fileName": "01-accelerator-act.md",
+    "title": "ACCELERATOR ACT"
+  },
+  "promptFile": "00-prompt.md",
+  "model": "gpt-5.4",
+  "requestFingerprint": "19790be6b932d4201fb09df70421c688714cd1fd83cb79b22b64f2a3287fe469",
+  "structuredAnswer": {
+    "title": "Industrial Accelerator Act: stato dell’iter al 31 marzo 2026",
+    "summary": "Alla data del 31 marzo 2026 il fascicolo 2026/0068(COD) sull’Industrial Accelerator Act risulta nella fase preparatoria in Parlamento europeo. La proposta della Commissione è stata pubblicata il 4 marzo 2026 e, nei registri ufficiali del Parlamento, la decisione finale sul rinvio alle commissioni risulta ancora pendente: l’Osservatorio legislativo indica una commissione congiunta responsabile non ancora definita in via definitiva e un relatore indicato in IMCO, Adnan Dibrani, in attesa della decisione finale sul referral [S1, S2].\n\nIl contesto politico-procedurale descritto nel testo di partenza è coerente con quanto emerge dai registri parlamentari ufficiali: il dossier tocca insieme mercato interno, politica industriale, appalti pubblici, investimenti esteri e filiere strategiche, elementi che spiegano il conflitto di competenze tra ITRE, IMCO e INTA. Al 31 marzo non risultano, nelle banche dati ufficiali consultate, né l’avvio dell’esame emendativo in commissione né una decisione definitiva formalizzata sull’assetto delle competenze. Sul merito, la proposta punta ad accelerare permitting e capacità produttiva, introdurre criteri di resilienza e sostenibilità negli acquisti pubblici e nei regimi di sostegno, disciplinare alcuni investimenti esteri e creare mercati guida per prodotti industriali a basse emissioni e tecnologie net-zero [S1, S3, S4, S5].",
+    "keyPoints": [
+      "Il fascicolo è il 2026/0068(COD) e riguarda una proposta di regolamento pubblicata dalla Commissione il 4 marzo 2026 [S1, S2].",
+      "Lo stato ufficiale del procedimento è preparatory phase in Parliament; la definizione della commissione responsabile è ancora pendente [S1, S2].",
+      "Nel registro di trasparenza collegato al fascicolo compare Adnan Dibrani come rapporteur IMCO, ma con formula pending final decision on the referral, segnale di contenzioso procedurale ancora aperto [S1].",
+      "La base giuridica indicata comprende gli articoli 114 e 207, paragrafo 2, TFUE; il riferimento regolamentare interno del Parlamento è la Rule 58 [S1, S2].",
+      "I contenuti principali riguardano accelerazione dei permessi, criteri non di prezzo e requisiti d’origine negli appalti e sostegni pubblici, misure sui prodotti low-carbon e disciplina di alcuni investimenti esteri in settori strategici [S3, S4, S5].",
+      "Non risultano ancora, nelle fonti parlamentari ufficiali esaminate, resoconti stenografici o documenti di commissione del Parlamento europeo che attestino l’avvio sostanziale dell’esame legislativo [S1, S2]."
+    ],
+    "sections": [
+      {
+        "heading": "1. Stato dell’iter parlamentare",
+        "paragraphs": [
+          "L’Industrial Accelerator Act è registrato come procedura 2026/0068(COD). L’Osservatorio legislativo del Parlamento europeo lo qualifica come proposta di regolamento nella fase preparatoria in Parlamento. L’unico evento procedurale formalmente registrato al 31 marzo 2026 è la pubblicazione della proposta legislativa della Commissione il 4 marzo 2026, COM(2026)0100 [S1, S2].",
+          "Nella sezione Key players dell’Osservatorio legislativo, il Parlamento europeo indica ancora Joint committee responsible con relatore da nominare e la dicitura pending final decision on the referral. La stessa formula compare per le eventuali commissioni per parere e per la budgetary assessment. Ciò conferma che il nodo della competenza parlamentare non è ancora stato definito formalmente nei registri ufficiali consultati [S1, S2].",
+          "Sempre nel fascicolo ufficiale compare Adnan Dibrani come rapporteur IMCO nella sezione Transparency, ma questa indicazione va letta con cautela: non equivale a una designazione definitiva della commissione capofila, perché il fascicolo continua a riportare che la decisione finale sul referral è pendente [S1]."
+        ]
+      },
+      {
+        "heading": "2. Contenzioso procedurale e politico",
+        "paragraphs": [
+          "Il testo di contesto segnala un conflitto di competenze fra ITRE, IMCO e INTA, con ricorso di ITRE per ottenere la competenza esclusiva. Le fonti ufficiali consultate non riportano ancora, al 31 marzo 2026, un esito formalizzato del conflitto, ma la situazione è coerente con il profilo sostanziale del dossier, che combina politica industriale, mercato interno, appalti pubblici e profili commerciali esterni [S1, S2, S3].",
+          "La pluralità delle basi materiali del provvedimento spiega la contesa: nell’Osservatorio legislativo i subject includono mercato interno, appalti pubblici, politica industriale, competitività industriale, materie prime e investimenti diretti esteri. Anche la base giuridica della proposta intreccia articolo 114 TFUE, relativo al mercato interno, e articolo 207, paragrafo 2, TFUE, relativo alla politica commerciale comune [S1, S2].",
+          "In termini politici, il conflitto non riguarda solo l’organizzazione interna del Parlamento, ma anche l’impostazione della riforma. Un’impronta più ITRE tenderebbe a valorizzare decarbonizzazione industriale, permitting e politica industriale; una centralità IMCO rafforzerebbe il focus su mercato interno, procurement e regole di accesso; una forte presenza INTA richiamerebbe maggiormente i profili di concorrenza internazionale, origine dei prodotti e dipendenze strategiche. Questa è una inferenza ricavata dalla struttura del testo legislativo e dall’oggetto materiale del fascicolo, non una posizione ufficialmente verbalizzata in un resoconto parlamentare già disponibile [S1, S3]."
+        ]
+      },
+      {
+        "heading": "3. Principali contenuti normativi della proposta",
+        "paragraphs": [
+          "La proposta della Commissione istituisce un quadro di misure per accelerare capacità industriale e decarbonizzazione nei settori strategici, con l’obiettivo dichiarato di rafforzare resilienza economica, autonomia strategica e competitività dell’Unione. Nell’esposizione dei motivi la Commissione collega il provvedimento al Clean Industrial Deal e afferma di voler invertire entro il 2035 il declino del manifatturiero, riportandone il peso al 20 per cento del PIL dell’UE [S3].",
+          "Il testo individua tre problemi principali: vulnerabilità delle catene del valore in settori e tecnologie strategiche; insufficiente domanda per prodotti industriali low-carbon europei; lentezza e frammentazione delle procedure autorizzative per progetti industriali e di decarbonizzazione. Su questa base, la proposta combina misure lato offerta e lato domanda [S3].",
+          "Sul lato autorizzativo, la proposta prevede un sistema digitale nazionale per il permitting, con presentazione, tracciamento e decisione paperless delle domande, e mira a collegare tutte le autorità pubbliche rilevanti. Vi è inoltre il riferimento a industrial manufacturing acceleration areas, da coordinare con altri strumenti UE e da localizzare privilegiando superfici artificiali, siti industriali e brownfield [S3].",
+          "Sul lato domanda, il testo introduce o rafforza criteri non di prezzo e requisiti di resilienza, sostenibilità, cybersicurezza e, in alcuni casi, origine, negli appalti pubblici e nei regimi di sostegno. In alcuni passaggi il testo fissa pesi minimi e combinati per tali criteri nell’aggiudicazione. Per i prodotti di alcuni settori energivori e per i veicoli sono previste regole specifiche richiamate negli allegati della proposta [S3].",
+          "La proposta contiene anche disposizioni sugli investimenti esteri in comparti strategici. I considerando chiariscono che rientrano sia investimenti greenfield sia brownfield entro certe soglie e che il nuovo quadro opererebbe in parallelo, e non in sostituzione, del meccanismo generale di screening previsto dal regolamento UE 2019/452 [S3].",
+          "Un altro pilastro è la creazione di mercati guida per prodotti industriali a basse emissioni. Nei documenti preparatori parlamentari relativi al Clean Industrial Deal e nel testo della proposta emerge il riferimento a misure per acciaio, cemento, alluminio e altre filiere strategiche, nonché a un’etichetta di intensità carbonica almeno per alcune categorie di prodotti, con particolare attenzione a settori energivori, tecnologie net-zero e filiera automotive [S3, S4, S5]."
+        ]
+      },
+      {
+        "heading": "4. Principali posizioni politiche emergenti dalle fonti ufficiali",
+        "paragraphs": [
+          "Al 31 marzo 2026 le banche dati parlamentari ufficiali consultate non mostrano ancora resoconti stenografici di commissione o d’aula sul fascicolo né documenti parlamentari emendativi che consentano di attribuire posizioni definitive ai gruppi politici sul testo. Il quadro delle posizioni va quindi ricostruito in forma preliminare e con prudenza, a partire dall’architettura del dossier e dagli elementi ufficialmente registrati [S1, S2].",
+          "Una linea favorevole a un’istruttoria rapida e concentrata in ITRE è coerente con l’argomento, riportato nel contesto, secondo cui una gestione congiunta fra tre commissioni rallenterebbe l’iter. Questa posizione trova una plausibile base oggettiva nel fatto che la proposta insiste molto su decarbonizzazione industriale, aree di accelerazione, permitting e filiere manifatturiere strategiche [S3, S5].",
+          "Una linea più sensibile alle prerogative IMCO appare compatibile con il peso dato nel testo a mercato interno, procurement, accesso al mercato, criteri di aggiudicazione e modifica di regolamenti già connessi al funzionamento del mercato unico. La presenza del nome di Adnan Dibrani come rapporteur IMCO nel registro di trasparenza del fascicolo rafforza l’idea che IMCO rivendichi un ruolo centrale, pur senza che ciò equivalga ancora a una decisione definitiva [S1, S3].",
+          "Una linea attenta ai profili INTA è coerente con la base giuridica commerciale, con il riferimento alle dipendenze strategiche e con le disposizioni che incidono su investimenti esteri, provenienza dei componenti e accesso di operatori di Paesi terzi ad alcune procedure. Anche in questo caso, però, nelle fonti ufficiali consultate non risultano ancora prese di posizione formalizzate in resoconti stenografici del Parlamento [S2, S3]."
+        ]
+      },
+      {
+        "heading": "5. Valutazione dello stato di avanzamento rispetto alla scadenza politica di fine anno",
+        "paragraphs": [
+          "Il contesto segnala che il Consiglio europeo ha chiesto di concludere l’esame entro fine 2026. Alla luce dello stato procedurale registrato al 31 marzo 2026, il dossier è ancora in una fase iniziale: non risultano commissione capofila definitivamente definita, relazione parlamentare depositata, calendario di esame sostanziale o votazioni in commissione [S1, S2].",
+          "Ne deriva che il primo vero passaggio politico-istituzionale resta la soluzione del conflitto sul referral. Finché tale nodo non sarà sciolto, è difficile che il Parlamento apra pienamente la fase emendativa. In termini di avanzamento, il provvedimento è quindi ancora fermo alla definizione della governance interna del fascicolo più che al negoziato sul merito [S1, S2].",
+          "Se la decisione sul rinvio alle commissioni dovesse effettivamente slittare a fine aprile, come indicato nel contesto, l’avvio concreto dei lavori parlamentari si collocherebbe verosimilmente a maggio 2026. Questa è una deduzione coerente con lo stato ufficiale del fascicolo al 31 marzo, ma non è ancora attestata da un calendario parlamentare definitivo rintracciabile nelle fonti ufficiali consultate [S1, S2]."
+        ]
+      }
+    ],
+    "caveats": [
+      "La ricerca è stata limitata a fonti ufficiali parlamentari e normative, entro l’orizzonte degli ultimi 6 mesi per le informazioni di attualità, come richiesto.",
+      "Nelle fonti ufficiali consultate non sono emersi, al 31 marzo 2026, resoconti stenografici di commissione o d’aula specificamente dedicati a questo fascicolo; perciò le posizioni politiche sono ricostruite in modo prudenziale e in parte inferenziale.",
+      "Il contesto cita organi interni come la Conferenza dei presidenti di commissione e la successiva decisione della Conferenza dei presidenti dei gruppi; tali passaggi risultano coerenti con il quadro procedurale, ma al 31 marzo 2026 non compare ancora nelle banche dati consultate un atto finale formalizzato sul conflitto di competenze.",
+      "Non sono state utilizzate fonti giornalistiche o dichiarazioni politiche esterne ai registri ufficiali; ciò aumenta l’affidabilità istituzionale del report ma può ridurre il dettaglio sulle dinamiche negoziali informali."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "European Parliament Legislative Observatory, Procedure file 2026/0068(COD), Industrial Accelerator Act",
+        "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026%2F0068%28COD%29"
+      },
+      {
+        "id": "S2",
+        "title": "European Parliament Legislative Observatory, Basic information PDF for 2026/0068(COD)",
+        "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29"
+      },
+      {
+        "id": "S3",
+        "title": "European Commission proposal COM(2026) 100 final, establishing a framework of measures for the acceleration of industrial capacity and decarbonisation in strategic sectors",
+        "url": "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0100/COM_COM%282026%290100_EN.pdf"
+      },
+      {
+        "id": "S4",
+        "title": "EUR-Lex procedure page for 2026/0068/COD and COM(2026) 100",
+        "url": "https://eur-lex.europa.eu/procedure/EN/2026_68"
+      },
+      {
+        "id": "S5",
+        "title": "European Parliamentary Research Service briefing, Energy dimension of the Clean Industrial Deal",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772851/EPRS_BRI%282025%29772851_EN.pdf"
+      }
+    ]
+  },
+  "timing": {
+    "startedAt": "2026-03-31T12:08:13.489Z",
+    "completedAt": "2026-03-31T12:09:20.405Z",
+    "durationMs": 66916,
+    "providerStartedAt": "2026-03-31T12:08:14.000Z",
+    "providerCompletedAt": "2026-03-31T12:09:20.000Z",
+    "providerDurationMs": 66000
+  },
+  "usage": {
+    "inputTokens": 29461,
+    "cachedInputTokens": 0,
+    "outputTokens": 3828,
+    "reasoningTokens": 567,
+    "totalTokens": 33289,
+    "webSearchCalls": 6
+  },
+  "estimatedCost": {
+    "currency": "USD",
+    "inputCostUsd": 0.073653,
+    "cachedInputCostUsd": 0,
+    "outputCostUsd": 0.05742,
+    "webSearchCostUsd": 0.06,
+    "totalCostUsd": 0.191073,
+    "pricingVersion": "manual-2026-03",
+    "assumptions": [
+      "Estimated with local price card for gpt-5.4.",
+      "Web search cost estimated as $10 per 1k calls for GPT-5-era reasoning models.",
+      "Estimate is for standard synchronous processing and may differ from actual billing."
+    ]
+  },
+  "analysis": {
+    "citationCount": 0,
+    "sourceCount": 5,
+    "sectionCount": 5,
+    "paragraphCount": 19,
+    "keyPointCount": 6,
+    "summaryCharCount": 1375,
+    "answerCharCount": 11540,
+    "answerWordCount": 1613
+  },
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29",
+      "type": "open_page"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=celex%3A52026SC0070",
+      "type": "open_page"
+    },
+    {
+      "url": "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0100/COM_COM%282026%290100_EN.pdf",
+      "type": "find_in_page"
+    }
+  ],
+  "request": {
+    "model": "gpt-5.4",
+    "tools": [
+      {
+        "type": "web_search"
+      }
+    ],
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "name": "web_research_summary",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        }
+      }
+    },
+    "input": [
+      {
+        "role": "developer",
+        "content": "Restituisci solo JSON strutturato. Tutti i campi testuali devono contenere solo testo semplice. Non inserire markdown, HTML, URL grezzi o citazioni inline in summary, keyPoints, sections o caveats. Quando devi richiamare una fonte nel testo, usa segnaposto come [S1] o [S1, S2]. Inserisci le voci bibliografiche reali nell'array sources e mantieni gli id coerenti."
+      },
+      {
+        "role": "user",
+        "content": "Data di riferimento: 2026-03-31\n\nPrompt:\nSei un'assistente di ricerca in un'agenzia stampa specializzata in comunicati stampa ed informazioni last-minute.\n\nFai riferimento al seguente testo.\nBasandoti esclusivamente su:\n- banche dati del Parlamento\n- documenti parlamentari ufficiali\n- resoconti stenografici delle sedute in commissione e in aula\n- documentazione depositata di qualsiasi natura\n- interrogazioni depositate e risposte del governo\n- riferimenti normativi\n\nLimita la ricerca web ad informazioni risalenti agli ultimi 6 mesi. Puoi usare fonti ufficiali antecedenti solo se necessarie per ricostruire i contenuti normativi.\n\nElabora un report sullo stato di avanzamento del provvedimento in questione, che includa anche le principali posizioni politiche, eventuali contenziosi procedurali o politici, principali contenuti normativi.\n\nContesto: 01-accelerator-act.md — ACCELERATOR ACT\n\nTesto del contesto:\n# ACCELERATOR ACT\n\n• La risoluzione del conflitto di competenze tra le commissioni Itre, Imco e Inta sull’Industrial Accelerator Act è attesa non prima della fine di aprile.\n• Il provvedimento è stato assegnato congiuntamente alle tre commissioni, ma la commissione Industria e energia (Itre) ha presentato ricorso chiedendo la competenza esclusiva.\n• La Conferenza dei presidenti di commissione, organo competente a risolvere il conflitto, si riunirà durante la plenaria del Parlamento europeo prevista dal 27 al 30 aprile.\n• La decisione finale spetterà poi alla Conferenza dei presidenti dei gruppi politici, sulla base del parere della Conferenza dei presidenti di commissione.\n• Il presidente della commissione Itre, Borys Budka, ha confermato il ricorso, affermando che un esame condiviso tra tre commissioni rallenterebbe l’iter legislativo.\n• A causa del ricorso, l’esame parlamentare del provvedimento non inizierà prima degli inizi di maggio.\n• La settimana precedente, il Consiglio europeo ha invitato Parlamento e Consiglio a completare l’esame dell’Industrial Accelerator Act entro la fine dell’anno."
+      }
+    ]
+  },
+  "rawResponse": {
+    "id": "resp_020570a4164dacd90069cbb92e7cf4819499fb288040d568db",
+    "object": "response",
+    "created_at": 1774958894,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1774958960,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.4-2026-03-05",
+    "output": [
+      {
+        "id": "ws_020570a4164dacd90069cbb92f8d548194ae9b17424d258f62",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:europarl.europa.eu \"Industrial Accelerator Act\" Parliament committee ITRE IMCO INTA Borys Budka March 2026",
+            "site:europarl.europa.eu \"Accelerator Act\" ITRE IMCO INTA April 2026",
+            "site:oeil.secure.europarl.europa.eu \"Industrial Accelerator Act\"",
+            "site:europarl.europa.eu \"Conference of Committee Chairs\" ITRE IMCO INTA Industrial Accelerator Act"
+          ],
+          "query": "site:europarl.europa.eu \"Industrial Accelerator Act\" Parliament committee ITRE IMCO INTA Borys Budka March 2026"
+        }
+      },
+      {
+        "id": "ws_020570a4164dacd90069cbb93405ac8194b68ce02ed7599406",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29"
+        }
+      },
+      {
+        "id": "ws_020570a4164dacd90069cbb934f5188194946b531841cec5e9",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:eur-lex.europa.eu COM(2026) 100 Industrial Accelerator Act",
+            "site:eur-lex.europa.eu SWD(2026) 70 Industrial Accelerator Act",
+            "site:europarl.europa.eu \"Industrial Accelerator Act\" \"Borys Budka\"",
+            "site:europarl.europa.eu \"2026/0068(COD)\" ITRE IMCO INTA"
+          ],
+          "query": "site:eur-lex.europa.eu COM(2026) 100 Industrial Accelerator Act"
+        }
+      },
+      {
+        "id": "ws_020570a4164dacd90069cbb9375438819484efa58c4a9ba53a",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=celex%3A52026SC0070"
+        }
+      },
+      {
+        "id": "ws_020570a4164dacd90069cbb938549481949322efed58bfdc7a",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0100/COM_COM%282026%290100_EN.pdf"
+        }
+      },
+      {
+        "id": "ws_020570a4164dacd90069cbb93a2cc88194bc8afc7203553671",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "find_in_page",
+          "pattern": "Joint committee responsible",
+          "url": "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0100/COM_COM%282026%290100_EN.pdf"
+        }
+      },
+      {
+        "id": "msg_020570a4164dacd90069cbb93d8fd48194a093d48375a74a33",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "{\"title\":\"Industrial Accelerator Act: stato dell’iter al 31 marzo 2026\",\"summary\":\"Alla data del 31 marzo 2026 il fascicolo 2026/0068(COD) sull’Industrial Accelerator Act risulta nella fase preparatoria in Parlamento europeo. La proposta della Commissione è stata pubblicata il 4 marzo 2026 e, nei registri ufficiali del Parlamento, la decisione finale sul rinvio alle commissioni risulta ancora pendente: l’Osservatorio legislativo indica una commissione congiunta responsabile non ancora definita in via definitiva e un relatore indicato in IMCO, Adnan Dibrani, in attesa della decisione finale sul referral [S1, S2].\\n\\nIl contesto politico-procedurale descritto nel testo di partenza è coerente con quanto emerge dai registri parlamentari ufficiali: il dossier tocca insieme mercato interno, politica industriale, appalti pubblici, investimenti esteri e filiere strategiche, elementi che spiegano il conflitto di competenze tra ITRE, IMCO e INTA. Al 31 marzo non risultano, nelle banche dati ufficiali consultate, né l’avvio dell’esame emendativo in commissione né una decisione definitiva formalizzata sull’assetto delle competenze. Sul merito, la proposta punta ad accelerare permitting e capacità produttiva, introdurre criteri di resilienza e sostenibilità negli acquisti pubblici e nei regimi di sostegno, disciplinare alcuni investimenti esteri e creare mercati guida per prodotti industriali a basse emissioni e tecnologie net-zero [S1, S3, S4, S5].\",\"keyPoints\":[\"Il fascicolo è il 2026/0068(COD) e riguarda una proposta di regolamento pubblicata dalla Commissione il 4 marzo 2026 [S1, S2].\",\"Lo stato ufficiale del procedimento è preparatory phase in Parliament; la definizione della commissione responsabile è ancora pendente [S1, S2].\",\"Nel registro di trasparenza collegato al fascicolo compare Adnan Dibrani come rapporteur IMCO, ma con formula pending final decision on the referral, segnale di contenzioso procedurale ancora aperto [S1].\",\"La base giuridica indicata comprende gli articoli 114 e 207, paragrafo 2, TFUE; il riferimento regolamentare interno del Parlamento è la Rule 58 [S1, S2].\",\"I contenuti principali riguardano accelerazione dei permessi, criteri non di prezzo e requisiti d’origine negli appalti e sostegni pubblici, misure sui prodotti low-carbon e disciplina di alcuni investimenti esteri in settori strategici [S3, S4, S5].\",\"Non risultano ancora, nelle fonti parlamentari ufficiali esaminate, resoconti stenografici o documenti di commissione del Parlamento europeo che attestino l’avvio sostanziale dell’esame legislativo [S1, S2].\"],\"sections\":[{\"heading\":\"1. Stato dell’iter parlamentare\",\"paragraphs\":[\"L’Industrial Accelerator Act è registrato come procedura 2026/0068(COD). L’Osservatorio legislativo del Parlamento europeo lo qualifica come proposta di regolamento nella fase preparatoria in Parlamento. L’unico evento procedurale formalmente registrato al 31 marzo 2026 è la pubblicazione della proposta legislativa della Commissione il 4 marzo 2026, COM(2026)0100 [S1, S2].\",\"Nella sezione Key players dell’Osservatorio legislativo, il Parlamento europeo indica ancora Joint committee responsible con relatore da nominare e la dicitura pending final decision on the referral. La stessa formula compare per le eventuali commissioni per parere e per la budgetary assessment. Ciò conferma che il nodo della competenza parlamentare non è ancora stato definito formalmente nei registri ufficiali consultati [S1, S2].\",\"Sempre nel fascicolo ufficiale compare Adnan Dibrani come rapporteur IMCO nella sezione Transparency, ma questa indicazione va letta con cautela: non equivale a una designazione definitiva della commissione capofila, perché il fascicolo continua a riportare che la decisione finale sul referral è pendente [S1].\"]},{\"heading\":\"2. Contenzioso procedurale e politico\",\"paragraphs\":[\"Il testo di contesto segnala un conflitto di competenze fra ITRE, IMCO e INTA, con ricorso di ITRE per ottenere la competenza esclusiva. Le fonti ufficiali consultate non riportano ancora, al 31 marzo 2026, un esito formalizzato del conflitto, ma la situazione è coerente con il profilo sostanziale del dossier, che combina politica industriale, mercato interno, appalti pubblici e profili commerciali esterni [S1, S2, S3].\",\"La pluralità delle basi materiali del provvedimento spiega la contesa: nell’Osservatorio legislativo i subject includono mercato interno, appalti pubblici, politica industriale, competitività industriale, materie prime e investimenti diretti esteri. Anche la base giuridica della proposta intreccia articolo 114 TFUE, relativo al mercato interno, e articolo 207, paragrafo 2, TFUE, relativo alla politica commerciale comune [S1, S2].\",\"In termini politici, il conflitto non riguarda solo l’organizzazione interna del Parlamento, ma anche l’impostazione della riforma. Un’impronta più ITRE tenderebbe a valorizzare decarbonizzazione industriale, permitting e politica industriale; una centralità IMCO rafforzerebbe il focus su mercato interno, procurement e regole di accesso; una forte presenza INTA richiamerebbe maggiormente i profili di concorrenza internazionale, origine dei prodotti e dipendenze strategiche. Questa è una inferenza ricavata dalla struttura del testo legislativo e dall’oggetto materiale del fascicolo, non una posizione ufficialmente verbalizzata in un resoconto parlamentare già disponibile [S1, S3].\"]},{\"heading\":\"3. Principali contenuti normativi della proposta\",\"paragraphs\":[\"La proposta della Commissione istituisce un quadro di misure per accelerare capacità industriale e decarbonizzazione nei settori strategici, con l’obiettivo dichiarato di rafforzare resilienza economica, autonomia strategica e competitività dell’Unione. Nell’esposizione dei motivi la Commissione collega il provvedimento al Clean Industrial Deal e afferma di voler invertire entro il 2035 il declino del manifatturiero, riportandone il peso al 20 per cento del PIL dell’UE [S3].\",\"Il testo individua tre problemi principali: vulnerabilità delle catene del valore in settori e tecnologie strategiche; insufficiente domanda per prodotti industriali low-carbon europei; lentezza e frammentazione delle procedure autorizzative per progetti industriali e di decarbonizzazione. Su questa base, la proposta combina misure lato offerta e lato domanda [S3].\",\"Sul lato autorizzativo, la proposta prevede un sistema digitale nazionale per il permitting, con presentazione, tracciamento e decisione paperless delle domande, e mira a collegare tutte le autorità pubbliche rilevanti. Vi è inoltre il riferimento a industrial manufacturing acceleration areas, da coordinare con altri strumenti UE e da localizzare privilegiando superfici artificiali, siti industriali e brownfield [S3].\",\"Sul lato domanda, il testo introduce o rafforza criteri non di prezzo e requisiti di resilienza, sostenibilità, cybersicurezza e, in alcuni casi, origine, negli appalti pubblici e nei regimi di sostegno. In alcuni passaggi il testo fissa pesi minimi e combinati per tali criteri nell’aggiudicazione. Per i prodotti di alcuni settori energivori e per i veicoli sono previste regole specifiche richiamate negli allegati della proposta [S3].\",\"La proposta contiene anche disposizioni sugli investimenti esteri in comparti strategici. I considerando chiariscono che rientrano sia investimenti greenfield sia brownfield entro certe soglie e che il nuovo quadro opererebbe in parallelo, e non in sostituzione, del meccanismo generale di screening previsto dal regolamento UE 2019/452 [S3].\",\"Un altro pilastro è la creazione di mercati guida per prodotti industriali a basse emissioni. Nei documenti preparatori parlamentari relativi al Clean Industrial Deal e nel testo della proposta emerge il riferimento a misure per acciaio, cemento, alluminio e altre filiere strategiche, nonché a un’etichetta di intensità carbonica almeno per alcune categorie di prodotti, con particolare attenzione a settori energivori, tecnologie net-zero e filiera automotive [S3, S4, S5].\"]},{\"heading\":\"4. Principali posizioni politiche emergenti dalle fonti ufficiali\",\"paragraphs\":[\"Al 31 marzo 2026 le banche dati parlamentari ufficiali consultate non mostrano ancora resoconti stenografici di commissione o d’aula sul fascicolo né documenti parlamentari emendativi che consentano di attribuire posizioni definitive ai gruppi politici sul testo. Il quadro delle posizioni va quindi ricostruito in forma preliminare e con prudenza, a partire dall’architettura del dossier e dagli elementi ufficialmente registrati [S1, S2].\",\"Una linea favorevole a un’istruttoria rapida e concentrata in ITRE è coerente con l’argomento, riportato nel contesto, secondo cui una gestione congiunta fra tre commissioni rallenterebbe l’iter. Questa posizione trova una plausibile base oggettiva nel fatto che la proposta insiste molto su decarbonizzazione industriale, aree di accelerazione, permitting e filiere manifatturiere strategiche [S3, S5].\",\"Una linea più sensibile alle prerogative IMCO appare compatibile con il peso dato nel testo a mercato interno, procurement, accesso al mercato, criteri di aggiudicazione e modifica di regolamenti già connessi al funzionamento del mercato unico. La presenza del nome di Adnan Dibrani come rapporteur IMCO nel registro di trasparenza del fascicolo rafforza l’idea che IMCO rivendichi un ruolo centrale, pur senza che ciò equivalga ancora a una decisione definitiva [S1, S3].\",\"Una linea attenta ai profili INTA è coerente con la base giuridica commerciale, con il riferimento alle dipendenze strategiche e con le disposizioni che incidono su investimenti esteri, provenienza dei componenti e accesso di operatori di Paesi terzi ad alcune procedure. Anche in questo caso, però, nelle fonti ufficiali consultate non risultano ancora prese di posizione formalizzate in resoconti stenografici del Parlamento [S2, S3].\"]},{\"heading\":\"5. Valutazione dello stato di avanzamento rispetto alla scadenza politica di fine anno\",\"paragraphs\":[\"Il contesto segnala che il Consiglio europeo ha chiesto di concludere l’esame entro fine 2026. Alla luce dello stato procedurale registrato al 31 marzo 2026, il dossier è ancora in una fase iniziale: non risultano commissione capofila definitivamente definita, relazione parlamentare depositata, calendario di esame sostanziale o votazioni in commissione [S1, S2].\",\"Ne deriva che il primo vero passaggio politico-istituzionale resta la soluzione del conflitto sul referral. Finché tale nodo non sarà sciolto, è difficile che il Parlamento apra pienamente la fase emendativa. In termini di avanzamento, il provvedimento è quindi ancora fermo alla definizione della governance interna del fascicolo più che al negoziato sul merito [S1, S2].\",\"Se la decisione sul rinvio alle commissioni dovesse effettivamente slittare a fine aprile, come indicato nel contesto, l’avvio concreto dei lavori parlamentari si collocherebbe verosimilmente a maggio 2026. Questa è una deduzione coerente con lo stato ufficiale del fascicolo al 31 marzo, ma non è ancora attestata da un calendario parlamentare definitivo rintracciabile nelle fonti ufficiali consultate [S1, S2].\"]}],\"caveats\":[\"La ricerca è stata limitata a fonti ufficiali parlamentari e normative, entro l’orizzonte degli ultimi 6 mesi per le informazioni di attualità, come richiesto.\",\"Nelle fonti ufficiali consultate non sono emersi, al 31 marzo 2026, resoconti stenografici di commissione o d’aula specificamente dedicati a questo fascicolo; perciò le posizioni politiche sono ricostruite in modo prudenziale e in parte inferenziale.\",\"Il contesto cita organi interni come la Conferenza dei presidenti di commissione e la successiva decisione della Conferenza dei presidenti dei gruppi; tali passaggi risultano coerenti con il quadro procedurale, ma al 31 marzo 2026 non compare ancora nelle banche dati consultate un atto finale formalizzato sul conflitto di competenze.\",\"Non sono state utilizzate fonti giornalistiche o dichiarazioni politiche esterne ai registri ufficiali; ciò aumenta l’affidabilità istituzionale del report ma può ridurre il dettaglio sulle dinamiche negoziali informali.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"European Parliament Legislative Observatory, Procedure file 2026/0068(COD), Industrial Accelerator Act\",\"url\":\"https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026%2F0068%28COD%29\"},{\"id\":\"S2\",\"title\":\"European Parliament Legislative Observatory, Basic information PDF for 2026/0068(COD)\",\"url\":\"https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29\"},{\"id\":\"S3\",\"title\":\"European Commission proposal COM(2026) 100 final, establishing a framework of measures for the acceleration of industrial capacity and decarbonisation in strategic sectors\",\"url\":\"https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0100/COM_COM%282026%290100_EN.pdf\"},{\"id\":\"S4\",\"title\":\"EUR-Lex procedure page for 2026/0068/COD and COM(2026) 100\",\"url\":\"https://eur-lex.europa.eu/procedure/EN/2026_68\"},{\"id\":\"S5\",\"title\":\"European Parliamentary Research Service briefing, Energy dimension of the Clean Industrial Deal\",\"url\":\"https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772851/EPRS_BRI%282025%29772851_EN.pdf\"}]}"
+          }
+        ],
+        "phase": "final_answer",
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "description": null,
+        "name": "web_research_summary",
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        },
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 29461,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 3828,
+      "output_tokens_details": {
+        "reasoning_tokens": 567
+      },
+      "total_tokens": 33289
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"title\":\"Industrial Accelerator Act: stato dell’iter al 31 marzo 2026\",\"summary\":\"Alla data del 31 marzo 2026 il fascicolo 2026/0068(COD) sull’Industrial Accelerator Act risulta nella fase preparatoria in Parlamento europeo. La proposta della Commissione è stata pubblicata il 4 marzo 2026 e, nei registri ufficiali del Parlamento, la decisione finale sul rinvio alle commissioni risulta ancora pendente: l’Osservatorio legislativo indica una commissione congiunta responsabile non ancora definita in via definitiva e un relatore indicato in IMCO, Adnan Dibrani, in attesa della decisione finale sul referral [S1, S2].\\n\\nIl contesto politico-procedurale descritto nel testo di partenza è coerente con quanto emerge dai registri parlamentari ufficiali: il dossier tocca insieme mercato interno, politica industriale, appalti pubblici, investimenti esteri e filiere strategiche, elementi che spiegano il conflitto di competenze tra ITRE, IMCO e INTA. Al 31 marzo non risultano, nelle banche dati ufficiali consultate, né l’avvio dell’esame emendativo in commissione né una decisione definitiva formalizzata sull’assetto delle competenze. Sul merito, la proposta punta ad accelerare permitting e capacità produttiva, introdurre criteri di resilienza e sostenibilità negli acquisti pubblici e nei regimi di sostegno, disciplinare alcuni investimenti esteri e creare mercati guida per prodotti industriali a basse emissioni e tecnologie net-zero [S1, S3, S4, S5].\",\"keyPoints\":[\"Il fascicolo è il 2026/0068(COD) e riguarda una proposta di regolamento pubblicata dalla Commissione il 4 marzo 2026 [S1, S2].\",\"Lo stato ufficiale del procedimento è preparatory phase in Parliament; la definizione della commissione responsabile è ancora pendente [S1, S2].\",\"Nel registro di trasparenza collegato al fascicolo compare Adnan Dibrani come rapporteur IMCO, ma con formula pending final decision on the referral, segnale di contenzioso procedurale ancora aperto [S1].\",\"La base giuridica indicata comprende gli articoli 114 e 207, paragrafo 2, TFUE; il riferimento regolamentare interno del Parlamento è la Rule 58 [S1, S2].\",\"I contenuti principali riguardano accelerazione dei permessi, criteri non di prezzo e requisiti d’origine negli appalti e sostegni pubblici, misure sui prodotti low-carbon e disciplina di alcuni investimenti esteri in settori strategici [S3, S4, S5].\",\"Non risultano ancora, nelle fonti parlamentari ufficiali esaminate, resoconti stenografici o documenti di commissione del Parlamento europeo che attestino l’avvio sostanziale dell’esame legislativo [S1, S2].\"],\"sections\":[{\"heading\":\"1. Stato dell’iter parlamentare\",\"paragraphs\":[\"L’Industrial Accelerator Act è registrato come procedura 2026/0068(COD). L’Osservatorio legislativo del Parlamento europeo lo qualifica come proposta di regolamento nella fase preparatoria in Parlamento. L’unico evento procedurale formalmente registrato al 31 marzo 2026 è la pubblicazione della proposta legislativa della Commissione il 4 marzo 2026, COM(2026)0100 [S1, S2].\",\"Nella sezione Key players dell’Osservatorio legislativo, il Parlamento europeo indica ancora Joint committee responsible con relatore da nominare e la dicitura pending final decision on the referral. La stessa formula compare per le eventuali commissioni per parere e per la budgetary assessment. Ciò conferma che il nodo della competenza parlamentare non è ancora stato definito formalmente nei registri ufficiali consultati [S1, S2].\",\"Sempre nel fascicolo ufficiale compare Adnan Dibrani come rapporteur IMCO nella sezione Transparency, ma questa indicazione va letta con cautela: non equivale a una designazione definitiva della commissione capofila, perché il fascicolo continua a riportare che la decisione finale sul referral è pendente [S1].\"]},{\"heading\":\"2. Contenzioso procedurale e politico\",\"paragraphs\":[\"Il testo di contesto segnala un conflitto di competenze fra ITRE, IMCO e INTA, con ricorso di ITRE per ottenere la competenza esclusiva. Le fonti ufficiali consultate non riportano ancora, al 31 marzo 2026, un esito formalizzato del conflitto, ma la situazione è coerente con il profilo sostanziale del dossier, che combina politica industriale, mercato interno, appalti pubblici e profili commerciali esterni [S1, S2, S3].\",\"La pluralità delle basi materiali del provvedimento spiega la contesa: nell’Osservatorio legislativo i subject includono mercato interno, appalti pubblici, politica industriale, competitività industriale, materie prime e investimenti diretti esteri. Anche la base giuridica della proposta intreccia articolo 114 TFUE, relativo al mercato interno, e articolo 207, paragrafo 2, TFUE, relativo alla politica commerciale comune [S1, S2].\",\"In termini politici, il conflitto non riguarda solo l’organizzazione interna del Parlamento, ma anche l’impostazione della riforma. Un’impronta più ITRE tenderebbe a valorizzare decarbonizzazione industriale, permitting e politica industriale; una centralità IMCO rafforzerebbe il focus su mercato interno, procurement e regole di accesso; una forte presenza INTA richiamerebbe maggiormente i profili di concorrenza internazionale, origine dei prodotti e dipendenze strategiche. Questa è una inferenza ricavata dalla struttura del testo legislativo e dall’oggetto materiale del fascicolo, non una posizione ufficialmente verbalizzata in un resoconto parlamentare già disponibile [S1, S3].\"]},{\"heading\":\"3. Principali contenuti normativi della proposta\",\"paragraphs\":[\"La proposta della Commissione istituisce un quadro di misure per accelerare capacità industriale e decarbonizzazione nei settori strategici, con l’obiettivo dichiarato di rafforzare resilienza economica, autonomia strategica e competitività dell’Unione. Nell’esposizione dei motivi la Commissione collega il provvedimento al Clean Industrial Deal e afferma di voler invertire entro il 2035 il declino del manifatturiero, riportandone il peso al 20 per cento del PIL dell’UE [S3].\",\"Il testo individua tre problemi principali: vulnerabilità delle catene del valore in settori e tecnologie strategiche; insufficiente domanda per prodotti industriali low-carbon europei; lentezza e frammentazione delle procedure autorizzative per progetti industriali e di decarbonizzazione. Su questa base, la proposta combina misure lato offerta e lato domanda [S3].\",\"Sul lato autorizzativo, la proposta prevede un sistema digitale nazionale per il permitting, con presentazione, tracciamento e decisione paperless delle domande, e mira a collegare tutte le autorità pubbliche rilevanti. Vi è inoltre il riferimento a industrial manufacturing acceleration areas, da coordinare con altri strumenti UE e da localizzare privilegiando superfici artificiali, siti industriali e brownfield [S3].\",\"Sul lato domanda, il testo introduce o rafforza criteri non di prezzo e requisiti di resilienza, sostenibilità, cybersicurezza e, in alcuni casi, origine, negli appalti pubblici e nei regimi di sostegno. In alcuni passaggi il testo fissa pesi minimi e combinati per tali criteri nell’aggiudicazione. Per i prodotti di alcuni settori energivori e per i veicoli sono previste regole specifiche richiamate negli allegati della proposta [S3].\",\"La proposta contiene anche disposizioni sugli investimenti esteri in comparti strategici. I considerando chiariscono che rientrano sia investimenti greenfield sia brownfield entro certe soglie e che il nuovo quadro opererebbe in parallelo, e non in sostituzione, del meccanismo generale di screening previsto dal regolamento UE 2019/452 [S3].\",\"Un altro pilastro è la creazione di mercati guida per prodotti industriali a basse emissioni. Nei documenti preparatori parlamentari relativi al Clean Industrial Deal e nel testo della proposta emerge il riferimento a misure per acciaio, cemento, alluminio e altre filiere strategiche, nonché a un’etichetta di intensità carbonica almeno per alcune categorie di prodotti, con particolare attenzione a settori energivori, tecnologie net-zero e filiera automotive [S3, S4, S5].\"]},{\"heading\":\"4. Principali posizioni politiche emergenti dalle fonti ufficiali\",\"paragraphs\":[\"Al 31 marzo 2026 le banche dati parlamentari ufficiali consultate non mostrano ancora resoconti stenografici di commissione o d’aula sul fascicolo né documenti parlamentari emendativi che consentano di attribuire posizioni definitive ai gruppi politici sul testo. Il quadro delle posizioni va quindi ricostruito in forma preliminare e con prudenza, a partire dall’architettura del dossier e dagli elementi ufficialmente registrati [S1, S2].\",\"Una linea favorevole a un’istruttoria rapida e concentrata in ITRE è coerente con l’argomento, riportato nel contesto, secondo cui una gestione congiunta fra tre commissioni rallenterebbe l’iter. Questa posizione trova una plausibile base oggettiva nel fatto che la proposta insiste molto su decarbonizzazione industriale, aree di accelerazione, permitting e filiere manifatturiere strategiche [S3, S5].\",\"Una linea più sensibile alle prerogative IMCO appare compatibile con il peso dato nel testo a mercato interno, procurement, accesso al mercato, criteri di aggiudicazione e modifica di regolamenti già connessi al funzionamento del mercato unico. La presenza del nome di Adnan Dibrani come rapporteur IMCO nel registro di trasparenza del fascicolo rafforza l’idea che IMCO rivendichi un ruolo centrale, pur senza che ciò equivalga ancora a una decisione definitiva [S1, S3].\",\"Una linea attenta ai profili INTA è coerente con la base giuridica commerciale, con il riferimento alle dipendenze strategiche e con le disposizioni che incidono su investimenti esteri, provenienza dei componenti e accesso di operatori di Paesi terzi ad alcune procedure. Anche in questo caso, però, nelle fonti ufficiali consultate non risultano ancora prese di posizione formalizzate in resoconti stenografici del Parlamento [S2, S3].\"]},{\"heading\":\"5. Valutazione dello stato di avanzamento rispetto alla scadenza politica di fine anno\",\"paragraphs\":[\"Il contesto segnala che il Consiglio europeo ha chiesto di concludere l’esame entro fine 2026. Alla luce dello stato procedurale registrato al 31 marzo 2026, il dossier è ancora in una fase iniziale: non risultano commissione capofila definitivamente definita, relazione parlamentare depositata, calendario di esame sostanziale o votazioni in commissione [S1, S2].\",\"Ne deriva che il primo vero passaggio politico-istituzionale resta la soluzione del conflitto sul referral. Finché tale nodo non sarà sciolto, è difficile che il Parlamento apra pienamente la fase emendativa. In termini di avanzamento, il provvedimento è quindi ancora fermo alla definizione della governance interna del fascicolo più che al negoziato sul merito [S1, S2].\",\"Se la decisione sul rinvio alle commissioni dovesse effettivamente slittare a fine aprile, come indicato nel contesto, l’avvio concreto dei lavori parlamentari si collocherebbe verosimilmente a maggio 2026. Questa è una deduzione coerente con lo stato ufficiale del fascicolo al 31 marzo, ma non è ancora attestata da un calendario parlamentare definitivo rintracciabile nelle fonti ufficiali consultate [S1, S2].\"]}],\"caveats\":[\"La ricerca è stata limitata a fonti ufficiali parlamentari e normative, entro l’orizzonte degli ultimi 6 mesi per le informazioni di attualità, come richiesto.\",\"Nelle fonti ufficiali consultate non sono emersi, al 31 marzo 2026, resoconti stenografici di commissione o d’aula specificamente dedicati a questo fascicolo; perciò le posizioni politiche sono ricostruite in modo prudenziale e in parte inferenziale.\",\"Il contesto cita organi interni come la Conferenza dei presidenti di commissione e la successiva decisione della Conferenza dei presidenti dei gruppi; tali passaggi risultano coerenti con il quadro procedurale, ma al 31 marzo 2026 non compare ancora nelle banche dati consultate un atto finale formalizzato sul conflitto di competenze.\",\"Non sono state utilizzate fonti giornalistiche o dichiarazioni politiche esterne ai registri ufficiali; ciò aumenta l’affidabilità istituzionale del report ma può ridurre il dettaglio sulle dinamiche negoziali informali.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"European Parliament Legislative Observatory, Procedure file 2026/0068(COD), Industrial Accelerator Act\",\"url\":\"https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026%2F0068%28COD%29\"},{\"id\":\"S2\",\"title\":\"European Parliament Legislative Observatory, Basic information PDF for 2026/0068(COD)\",\"url\":\"https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2026%2F0068%28COD%29\"},{\"id\":\"S3\",\"title\":\"European Commission proposal COM(2026) 100 final, establishing a framework of measures for the acceleration of industrial capacity and decarbonisation in strategic sectors\",\"url\":\"https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0100/COM_COM%282026%290100_EN.pdf\"},{\"id\":\"S4\",\"title\":\"EUR-Lex procedure page for 2026/0068/COD and COM(2026) 100\",\"url\":\"https://eur-lex.europa.eu/procedure/EN/2026_68\"},{\"id\":\"S5\",\"title\":\"European Parliamentary Research Service briefing, Energy dimension of the Clean Industrial Deal\",\"url\":\"https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772851/EPRS_BRI%282025%29772851_EN.pdf\"}]}"
+  }
+}

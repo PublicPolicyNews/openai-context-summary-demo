@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-03-31T05:53:20.345Z",
+  "generatedAt": "2026-03-31T12:11:51.424Z",
   "runs": [
     "RUN_02",
-    "RUN_03"
+    "RUN_03",
+    "RUN_04"
   ],
   "contextCount": 3,
   "contexts": [
@@ -10,45 +11,45 @@
       "slug": "01-accelerator-act",
       "fileName": "01-accelerator-act.md",
       "stableTitle": "ACCELERATOR ACT",
-      "experimentsRan": 2,
+      "experimentsRan": 3,
       "metrics": {
         "duration": {
-          "average": 58011.5,
-          "stdDev": 2899.5,
-          "stdDevPct": 5,
+          "average": 60979.6667,
+          "stdDev": 4819.2074,
+          "stdDevPct": 7.9,
           "min": 55112,
-          "max": 60911,
-          "sampleCount": 2
+          "max": 66916,
+          "sampleCount": 3
         },
         "cost": {
-          "average": 0.1537,
-          "stdDev": 0.0115,
-          "stdDevPct": 7.45,
+          "average": 0.1662,
+          "stdDev": 0.0199,
+          "stdDevPct": 11.99,
           "min": 0.1423,
-          "max": 0.1652,
-          "sampleCount": 2
+          "max": 0.1911,
+          "sampleCount": 3
         },
         "sources": {
           "average": 5,
-          "stdDev": 2,
-          "stdDevPct": 40,
+          "stdDev": 1.633,
+          "stdDevPct": 32.66,
           "min": 3,
           "max": 7,
-          "sampleCount": 2
+          "sampleCount": 3
         },
         "outputTokens": {
-          "average": 3352.5,
-          "stdDev": 120.5,
-          "stdDevPct": 3.59,
+          "average": 3511,
+          "stdDev": 244.7952,
+          "stdDevPct": 6.97,
           "min": 3232,
-          "max": 3473,
-          "sampleCount": 2
+          "max": 3828,
+          "sampleCount": 3
         }
       },
       "runs": [
         {
           "runLabel": "RUN_02",
-          "htmlPath": "runs/RUN_02/01-accelerator-act.result.html",
+          "htmlPath": "runs/RUN_02/01-accelerator-act/",
           "jsonPath": "runs/RUN_02/01-accelerator-act.result.json",
           "generatedTitle": "Industrial Accelerator Act: stato dell’iter al 31 marzo 2026",
           "model": "gpt-5.4",
@@ -62,7 +63,7 @@
         },
         {
           "runLabel": "RUN_03",
-          "htmlPath": "runs/RUN_03/01-accelerator-act.result.html",
+          "htmlPath": "runs/RUN_03/01-accelerator-act/",
           "jsonPath": "runs/RUN_03/01-accelerator-act.result.json",
           "generatedTitle": "Stato di avanzamento dell Industrial Accelerator Act al 31 marzo 2026",
           "model": "gpt-5.4",
@@ -73,6 +74,20 @@
           "outputTokens": 3232,
           "runId": "run_2026-03-31T05-29-05-857Z_01-accelerator-act_4ab9c0b8",
           "responseId": "resp_0ac7588c3ad1eafc0069cb5b6be37c8193ba43546b2374aa49"
+        },
+        {
+          "runLabel": "RUN_04",
+          "htmlPath": "runs/RUN_04/01-accelerator-act/",
+          "jsonPath": "runs/RUN_04/01-accelerator-act.result.json",
+          "generatedTitle": "Industrial Accelerator Act: stato dell’iter al 31 marzo 2026",
+          "model": "gpt-5.4",
+          "startedAt": "2026-03-31T12:08:13.489Z",
+          "durationMs": 66916,
+          "estimatedCostUsd": 0.191073,
+          "sourceCount": 5,
+          "outputTokens": 3828,
+          "runId": "run_2026-03-31T12-09-20-408Z_01-accelerator-act_10d11ba8",
+          "responseId": "resp_020570a4164dacd90069cbb92e7cf4819499fb288040d568db"
         }
       ]
     },
@@ -80,45 +95,45 @@
       "slug": "02-dl-carburanti",
       "fileName": "02-dl-carburanti.md",
       "stableTitle": "DL CARBURANTI",
-      "experimentsRan": 2,
+      "experimentsRan": 3,
       "metrics": {
         "duration": {
-          "average": 69200,
-          "stdDev": 1117,
-          "stdDevPct": 1.61,
+          "average": 69083.3333,
+          "stdDev": 926.8306,
+          "stdDevPct": 1.34,
           "min": 68083,
           "max": 70317,
-          "sampleCount": 2
+          "sampleCount": 3
         },
         "cost": {
-          "average": 0.2399,
-          "stdDev": 0.0076,
-          "stdDevPct": 3.16,
+          "average": 0.2543,
+          "stdDev": 0.0213,
+          "stdDevPct": 8.36,
           "min": 0.2324,
-          "max": 0.2475,
-          "sampleCount": 2
+          "max": 0.2831,
+          "sampleCount": 3
         },
         "sources": {
-          "average": 6,
-          "stdDev": 2,
-          "stdDevPct": 33.33,
+          "average": 5.3333,
+          "stdDev": 1.8856,
+          "stdDevPct": 35.36,
           "min": 4,
           "max": 8,
-          "sampleCount": 2
+          "sampleCount": 3
         },
         "outputTokens": {
-          "average": 4211,
-          "stdDev": 64,
-          "stdDevPct": 1.52,
-          "min": 4147,
+          "average": 4112,
+          "stdDev": 149.4412,
+          "stdDevPct": 3.63,
+          "min": 3914,
           "max": 4275,
-          "sampleCount": 2
+          "sampleCount": 3
         }
       },
       "runs": [
         {
           "runLabel": "RUN_02",
-          "htmlPath": "runs/RUN_02/02-dl-carburanti.result.html",
+          "htmlPath": "runs/RUN_02/02-dl-carburanti/",
           "jsonPath": "runs/RUN_02/02-dl-carburanti.result.json",
           "generatedTitle": "Stato del provvedimento richiamato come DL Carburanti e quadro politico-normativo al 31 marzo 2026",
           "model": "gpt-5.4",
@@ -132,7 +147,7 @@
         },
         {
           "runLabel": "RUN_03",
-          "htmlPath": "runs/RUN_03/02-dl-carburanti.result.html",
+          "htmlPath": "runs/RUN_03/02-dl-carburanti/",
           "jsonPath": "runs/RUN_03/02-dl-carburanti.result.json",
           "generatedTitle": "Stato di avanzamento del DL Carburanti al 31 marzo 2026",
           "model": "gpt-5.4",
@@ -143,6 +158,20 @@
           "outputTokens": 4147,
           "runId": "run_2026-03-31T05-30-13-945Z_02-dl-carburanti_03b558b9",
           "responseId": "resp_09d0ee2454e7f5080069cb5ba30ef0819099a4ffda88e61b08"
+        },
+        {
+          "runLabel": "RUN_04",
+          "htmlPath": "runs/RUN_04/02-dl-carburanti/",
+          "jsonPath": "runs/RUN_04/02-dl-carburanti.result.json",
+          "generatedTitle": "Stato di avanzamento del DL carburanti al 31 marzo 2026",
+          "model": "gpt-5.4",
+          "startedAt": "2026-03-31T12:09:20.412Z",
+          "durationMs": 68850,
+          "estimatedCostUsd": 0.283119,
+          "sourceCount": 4,
+          "outputTokens": 3914,
+          "runId": "run_2026-03-31T12-10-29-263Z_02-dl-carburanti_1aba5fca",
+          "responseId": "resp_0a8e3bcf54233ce00069cbb971705c819f96357be41903870d"
         }
       ]
     },
@@ -150,45 +179,45 @@
       "slug": "03-dl-pnrr",
       "fileName": "03-dl-pnrr.md",
       "stableTitle": "DL PNRR",
-      "experimentsRan": 2,
+      "experimentsRan": 3,
       "metrics": {
         "duration": {
-          "average": 94235,
-          "stdDev": 1980,
-          "stdDevPct": 2.1,
-          "min": 92255,
+          "average": 89250,
+          "stdDev": 7232.8452,
+          "stdDevPct": 8.1,
+          "min": 79280,
           "max": 96215,
-          "sampleCount": 2
+          "sampleCount": 3
         },
         "cost": {
-          "average": 0.3659,
-          "stdDev": 0.0063,
-          "stdDevPct": 1.72,
-          "min": 0.3596,
+          "average": 0.3345,
+          "stdDev": 0.0447,
+          "stdDevPct": 13.35,
+          "min": 0.2718,
           "max": 0.3722,
-          "sampleCount": 2
+          "sampleCount": 3
         },
         "sources": {
-          "average": 5.5,
-          "stdDev": 0.5,
-          "stdDevPct": 9.09,
+          "average": 6.3333,
+          "stdDev": 1.2472,
+          "stdDevPct": 19.69,
           "min": 5,
-          "max": 6,
-          "sampleCount": 2
+          "max": 8,
+          "sampleCount": 3
         },
         "outputTokens": {
-          "average": 4687.5,
-          "stdDev": 2.5,
-          "stdDevPct": 0.05,
-          "min": 4685,
+          "average": 4574.6667,
+          "stdDev": 159.5835,
+          "stdDevPct": 3.49,
+          "min": 4349,
           "max": 4690,
-          "sampleCount": 2
+          "sampleCount": 3
         }
       },
       "runs": [
         {
           "runLabel": "RUN_02",
-          "htmlPath": "runs/RUN_02/03-dl-pnrr.result.html",
+          "htmlPath": "runs/RUN_02/03-dl-pnrr/",
           "jsonPath": "runs/RUN_02/03-dl-pnrr.result.json",
           "generatedTitle": "DL PNRR 2026, stato dell’iter alla Camera al 31 marzo 2026",
           "model": "gpt-5.4",
@@ -202,7 +231,7 @@
         },
         {
           "runLabel": "RUN_03",
-          "htmlPath": "runs/RUN_03/03-dl-pnrr.result.html",
+          "htmlPath": "runs/RUN_03/03-dl-pnrr/",
           "jsonPath": "runs/RUN_03/03-dl-pnrr.result.json",
           "generatedTitle": "DL PNRR 2026: stato dell’iter al 31 marzo 2026",
           "model": "gpt-5.4",
@@ -213,6 +242,20 @@
           "outputTokens": 4690,
           "runId": "run_2026-03-31T05-31-46-208Z_03-dl-pnrr_b6f0978e",
           "responseId": "resp_05537bec5fb1aabe0069cb5be72170819684fe4753c3060859"
+        },
+        {
+          "runLabel": "RUN_04",
+          "htmlPath": "runs/RUN_04/03-dl-pnrr/",
+          "jsonPath": "runs/RUN_04/03-dl-pnrr.result.json",
+          "generatedTitle": "DL PNRR 2026, stato di avanzamento al 31 marzo 2026",
+          "model": "gpt-5.4",
+          "startedAt": "2026-03-31T12:10:29.266Z",
+          "durationMs": 79280,
+          "estimatedCostUsd": 0.271774,
+          "sourceCount": 8,
+          "outputTokens": 4349,
+          "runId": "run_2026-03-31T12-11-48-548Z_03-dl-pnrr_331196b3",
+          "responseId": "resp_0d55bb90accfa5d90069cbb9b657f481a19e5198e421bd938b"
         }
       ]
     }

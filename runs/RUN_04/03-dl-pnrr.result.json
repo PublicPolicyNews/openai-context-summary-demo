@@ -1,0 +1,594 @@
+{
+  "runId": "run_2026-03-31T12-11-48-548Z_03-dl-pnrr_331196b3",
+  "responseId": "resp_0d55bb90accfa5d90069cbb9b657f481a19e5198e421bd938b",
+  "generatedAt": "2026-03-31T12:11:48.548Z",
+  "mode": "sync",
+  "context": {
+    "id": "03-dl-pnrr",
+    "slug": "03-dl-pnrr",
+    "fileName": "03-dl-pnrr.md",
+    "title": "DL PNRR"
+  },
+  "promptFile": "00-prompt.md",
+  "model": "gpt-5.4",
+  "requestFingerprint": "6b8af996d8f6e45765e6a4232c0f793443eb500df7f106035d76969d25827cb4",
+  "structuredAnswer": {
+    "title": "DL PNRR 2026, stato di avanzamento al 31 marzo 2026",
+    "summary": "Il provvedimento in esame è il disegno di legge di conversione C. 2807, relativo al decreto-legge 19 febbraio 2026, n. 19, recante ulteriori disposizioni urgenti per l’attuazione del PNRR e in materia di politiche di coesione. Alla data del 31 marzo 2026 il testo risulta assegnato alla V Commissione Bilancio della Camera in sede referente, con esame avviato e prosecuzione in più sedute; al 12 marzo risultavano già pubblicate le proposte emendative. In base al fascicolo iter del Senato, la scadenza costituzionale per la conversione è il 20 aprile 2026 [S1, S2, S3].\n\nDalla documentazione parlamentare disponibile negli ultimi sei mesi emerge una fase ancora istruttoria in Commissione, con un numero elevato di emendamenti presentati e una forte attenzione ai profili di copertura finanziaria. Tra i temi politicamente più sensibili figura il rifinanziamento della convenzione per la trasmissione radiofonica delle sedute parlamentari, per il quale risultano emendamenti che sostituiscono la previsione di 4 milioni per il 2026 con 8 milioni, confermando che la questione è stata formalmente portata nel fascicolo emendamenti della Camera. Non risultano, nelle fonti parlamentari consultate, contenziosi procedurali formalizzati tali da bloccare l’iter; la criticità principale appare invece politico-finanziaria, legata all’ammissibilità e alla copertura di numerose proposte [S3, S4, S5].",
+    "keyPoints": [
+      "Il DL PNRR è il decreto-legge 19 febbraio 2026, n. 19; il ddl di conversione alla Camera è il C. 2807 [S1].",
+      "La conversione deve avvenire entro il 20 aprile 2026, come risulta dal fascicolo iter parlamentare [S1].",
+      "L’esame referente alla Camera è stato avviato in V Commissione Bilancio e proseguito almeno nelle sedute del 12 e 13 marzo 2026 [S2, S3].",
+      "Nel Bollettino del 12 marzo 2026 risultano pubblicate le proposte emendative al C. 2807, segno che la fase emendativa è formalmente aperta [S3].",
+      "Tra gli emendamenti depositati compare una proposta che porta da 4 a 8 milioni di euro per il 2026 lo stanziamento relativo alla convenzione per il servizio radiofonico delle sedute parlamentari [S4, S5].",
+      "Le principali tensioni emerse dalle fonti ufficiali riguardano soprattutto coperture, ammissibilità e selezione delle modifiche, più che veri incidenti regolamentari già definiti [S3, S4]."
+    ],
+    "sections": [
+      {
+        "heading": "Quadro procedurale",
+        "paragraphs": [
+          "Il fascicolo iter del Senato identifica il provvedimento come DDL C. 2807, conversione in legge del decreto-legge 19 febbraio 2026, n. 19. Lo stesso fascicolo indica la scadenza del decreto al 20 aprile 2026, data entro cui il Parlamento deve completare la conversione [S1].",
+          "Alla Camera il provvedimento risulta assegnato in sede referente alla V Commissione Bilancio, con relatori Cattoi, Pella, Romano e Trancassini. La comunicazione ufficiale della Camera segnala la prosecuzione dell’esame il 13 marzo 2026 e il rinvio del seguito ad altra seduta [S2].",
+          "Nel Bollettino della V Commissione del 12 marzo 2026 è registrato il seguito dell’esame del C. 2807 e, in allegato, la pubblicazione delle proposte emendative presentate. Questo colloca il procedimento in una fase avanzata di istruttoria emendativa ma non ancora conclusa in Commissione [S3]."
+        ]
+      },
+      {
+        "heading": "Stato dell’esame emendativo",
+        "paragraphs": [
+          "Le fonti parlamentari consultate non consentono di confermare numericamente, con atto ufficiale reperito entro la finestra di ricerca, il dato politico circolato sui circa 250 emendamenti segnalati rispetto a circa 900 iniziali. Tuttavia la documentazione ufficiale conferma un fascicolo emendamenti molto ampio già al 12 marzo 2026 [S3].",
+          "Nel materiale della Commissione sono visibili numerose proposte aggiuntive e modificative su varie materie: governance del PNRR, poteri sostitutivi, proroghe tecniche per lavori in corso, monitoraggio occupazionale, università e ricerca, porti, procedure amministrative e contratti pubblici. Ciò segnala un uso del decreto anche come veicolo per interventi eterogenei collegati, in senso lato, all’attuazione del Piano e alla coesione [S3].",
+          "È inoltre rintracciabile una proposta emendativa dichiarata inammissibile, la 24.03 Cesa, su contributi per i servizi di manovra ferroviaria in ambito portuale. Il dato è utile perché mostra che il vaglio di ammissibilità è già in corso e che non tutte le proposte superano il filtro regolamentare e finanziario [S6]."
+        ]
+      },
+      {
+        "heading": "Caso Radio Radicale",
+        "paragraphs": [
+          "Nel fascicolo emendamenti del 12 marzo 2026 compare una proposta che modifica una disposizione del decreto-legge 31 dicembre 2025, n. 200, convertito dalla legge 27 febbraio 2026, n. 26, sostituendo le parole 4 milioni di euro per il 2026 con 8 milioni di euro per il 2026. La stessa proposta quantifica l’onere aggiuntivo in 4 milioni per il 2026 e individua una copertura mediante riduzione del fondo speciale di parte corrente [S4].",
+          "Il testo rinvenuto non nomina nel frammento visualizzato Radio Radicale, ma il collegamento sostanziale è coerente con il quadro normativo recente: un dossier della Camera sulla legge di bilancio 2025 ricorda che per il 2025 è stata prorogata la convenzione con Centro di produzione Spa, titolare dell’emittente Radio Radicale, con stanziamento di 8 milioni; un altro dossier ricorda che già la legge di bilancio 2024 aveva autorizzato 8 milioni per il 2024 per lo svolgimento del servizio di trasmissione radiofonica delle sedute parlamentari, prevedendo la proroga della convenzione [S7, S8].",
+          "Sulla base di queste fonti ufficiali, si può inferire che il dossier politico richiamato nel contesto riguarda il tentativo di riallineare al livello del 2025 anche lo stanziamento 2026 per il servizio di trasmissione delle sedute parlamentari. L’inferenza è sostenuta dalla coincidenza letterale della cifra da 4 a 8 milioni e dal quadro normativo sulla convenzione con il Centro di produzione Spa [S4, S7, S8]."
+        ]
+      },
+      {
+        "heading": "Principali contenuti normativi del decreto e degli emendamenti",
+        "paragraphs": [
+          "Il decreto è presentato come intervento urgente per l’attuazione del PNRR e per le politiche di coesione. Dalle proposte emendative già pubblicate emergono alcuni assi di intervento: rafforzamento dei meccanismi di monitoraggio parlamentare e amministrativo, estensione o modulazione dei poteri sostitutivi, correzioni di tempistiche attuative, e misure di accompagnamento su università, ricerca, portualità, contratti pubblici e capacità amministrativa [S3].",
+          "Tra gli emendamenti si trovano proposte per differire termini contrattuali di lavori PNRR in corso, per introdurre indicatori sull’impatto occupazionale degli investimenti e per rafforzare strumenti di coordinamento e semplificazione. Questa pluralità di interventi suggerisce che il decreto si collochi nel filone dei provvedimenti omnibus di manutenzione attuativa del PNRR [S3].",
+          "La presenza di varie proposte dichiarate inammissibili mostra inoltre un tentativo parlamentare di ampliare il perimetro materiale del decreto oltre il nucleo originario. Questo è un elemento tipico dei decreti-legge ad alto tasso emendativo, specie quando toccano materie trasversali come il PNRR e la coesione [S3, S6]."
+        ]
+      },
+      {
+        "heading": "Posizioni politiche e nodi di conflitto",
+        "paragraphs": [
+          "Dalle fonti parlamentari ufficiali reperite nella finestra temporale richiesta non emerge ancora, nei resoconti disponibili consultati, un confronto politico definito per blocchi su tutti i contenuti del decreto. È però chiaro che la maggioranza presidia l’iter in Commissione con una pluralità di relatori appartenenti ai gruppi che sostengono il Governo, mentre l’opposizione ha depositato un numero rilevante di proposte emendative su monitoraggio, impatto sociale e correzioni settoriali [S2, S3].",
+          "Il caso del rifinanziamento della convenzione radiofonica ha carattere politicamente trasversale perché si innesta su una disciplina già prorogata nelle precedenti leggi di bilancio. Tuttavia, allo stato della documentazione consultata, il nodo non appare definito sotto il profilo tecnico-finanziario e resta subordinato al parere sui mezzi di copertura [S4, S7, S8].",
+          "L’unico contenzioso procedurale chiaramente documentato è quello dell’ammissibilità di alcune proposte, come nel caso dell’emendamento 24.03. Non risultano invece, nelle fonti parlamentari ufficiali esaminate, pronunce o incidenti regolamentari tali da alterare il calendario generale del provvedimento [S6]."
+        ]
+      },
+      {
+        "heading": "Valutazione sintetica dello stato di avanzamento",
+        "paragraphs": [
+          "Al 31 marzo 2026 il DL PNRR risulta in fase di esame referente avanzato ma non concluso alla Camera. La Commissione Bilancio ha già aperto e pubblicato il fascicolo emendamenti, il che colloca il provvedimento nel passaggio decisivo di selezione politica e tecnica delle modifiche [S2, S3].",
+          "Il principale fattore che condiziona l’evoluzione immediata del testo è la sostenibilità finanziaria delle proposte emendative, in particolare di quelle che comportano nuovi o maggiori oneri. In questo quadro il dossier Radio Radicale è uno dei punti più visibili, perché combina forte rilevanza politica, trasversalità parlamentare e necessità di copertura espressa [S4, S7, S8].",
+          "Non essendo stato reperito, nelle sole fonti parlamentari e ufficiali consultate entro la finestra degli ultimi sei mesi, un resoconto definitivo della seduta del 31 marzo o un calendario assembleare formalizzato con l’indicazione della fiducia l’8 aprile, tale elemento del contesto non può essere confermato in via documentale in questo report. Il dato certo è che il termine ultimo di conversione resta il 20 aprile 2026 [S1]."
+        ]
+      }
+    ],
+    "caveats": [
+      "Il report è costruito esclusivamente su fonti parlamentari e documentazione ufficiale, come richiesto; non sono state utilizzate agenzie di stampa o fonti giornalistiche per confermare retroscena politici.",
+      "Non è stato possibile verificare documentalmente, nelle fonti ufficiali consultate entro gli ultimi sei mesi, il dato numerico sui 250 emendamenti segnalati rispetto a circa 900 iniziali né l’indicazione dell’avvio delle votazioni il 31 marzo.",
+      "Non è stato reperito un atto ufficiale consultabile che confermi già al 31 marzo la calendarizzazione dell’Aula con fiducia l’8 aprile; la circostanza va quindi trattata come non verificata in questo report.",
+      "Il collegamento tra l’emendamento da 4 a 8 milioni per il 2026 e la convenzione con Radio Radicale è una inferenza fortemente supportata dal quadro normativo ufficiale precedente, ma nel frammento dell’emendamento visualizzato non compare il nome dell’emittente.",
+      "Le informazioni normative antecedenti ai sei mesi sono state usate solo per ricostruire il contenuto della disciplina sulla convenzione radiofonica e il relativo stanziamento nelle leggi precedenti."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Senato della Repubblica, Fascicolo Iter DDL C. 2807, conversione del decreto-legge 19 febbraio 2026, n. 19",
+        "url": "https://www.senato.it/leg/19/BGT/Schede/FascicoloSchedeDDL/ebook/59916.pdf"
+      },
+      {
+        "id": "S2",
+        "title": "Camera dei deputati, Oggi in Commissione, 13 marzo 2026, prosecuzione esame del C. 2807 in V Commissione",
+        "url": "https://comunicazione.camera.it/oggi-in-commissione?day=13-03-2026"
+      },
+      {
+        "id": "S3",
+        "title": "Camera dei deputati, Bollettino della V Commissione Bilancio del 12 marzo 2026 con allegato proposte emendative al C. 2807",
+        "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/03/12/leg.19.bol0645.data20260312.com05.pdf"
+      },
+      {
+        "id": "S4",
+        "title": "Camera dei deputati, fascicolo emendamenti C. 2807, proposta che sostituisce 4 milioni con 8 milioni per il 2026",
+        "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/03/12/leg.19.bol0645.data20260312.com05.pdf"
+      },
+      {
+        "id": "S5",
+        "title": "Camera dei deputati, proposta emendativa 24.03 al C. 2807 con esito di inammissibilità, esempio di vaglio procedurale sugli emendamenti",
+        "url": "https://documenti.camera.it/apps/emendamenti/getPropostaEmendativa.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=null&idPropostaEmendativa=24.03.&position=20260312&sedeEsame=referente&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente"
+      },
+      {
+        "id": "S6",
+        "title": "Camera dei deputati, scheda della proposta emendativa 24.03 al C. 2807, dichiarata inammissibile",
+        "url": "https://documenti.camera.it/apps/emendamenti/getPropostaEmendativa.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=null&idPropostaEmendativa=24.03.&position=20260312&sedeEsame=referente&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente"
+      },
+      {
+        "id": "S7",
+        "title": "Camera dei deputati, dossier sulla legge di bilancio 2025 con richiamo alla proroga 2025 della convenzione con Centro di produzione Spa titolare di Radio Radicale",
+        "url": "https://documenti.camera.it/leg19/dossier/pdf/ID0011c.pdf"
+      },
+      {
+        "id": "S8",
+        "title": "Camera dei deputati, dossier che ricostruisce la legge di bilancio 2024 e lo stanziamento di 8 milioni per la convenzione con Radio Radicale",
+        "url": "https://documenti.camera.it/leg19/dossier/testi/ID0011evol2.htm"
+      }
+    ]
+  },
+  "timing": {
+    "startedAt": "2026-03-31T12:10:29.266Z",
+    "completedAt": "2026-03-31T12:11:48.546Z",
+    "durationMs": 79280,
+    "providerStartedAt": "2026-03-31T12:10:30.000Z",
+    "providerCompletedAt": "2026-03-31T12:11:48.000Z",
+    "providerDurationMs": 78000
+  },
+  "usage": {
+    "inputTokens": 42878,
+    "cachedInputTokens": 4736,
+    "outputTokens": 4349,
+    "reasoningTokens": 843,
+    "totalTokens": 47227,
+    "webSearchCalls": 11
+  },
+  "estimatedCost": {
+    "currency": "USD",
+    "inputCostUsd": 0.095355,
+    "cachedInputCostUsd": 0.001184,
+    "outputCostUsd": 0.065235,
+    "webSearchCostUsd": 0.11,
+    "totalCostUsd": 0.271774,
+    "pricingVersion": "manual-2026-03",
+    "assumptions": [
+      "Estimated with local price card for gpt-5.4.",
+      "Web search cost estimated as $10 per 1k calls for GPT-5-era reasoning models.",
+      "Estimate is for standard synchronous processing and may differ from actual billing."
+    ]
+  },
+  "analysis": {
+    "citationCount": 0,
+    "sourceCount": 8,
+    "sectionCount": 6,
+    "paragraphCount": 18,
+    "keyPointCount": 6,
+    "summaryCharCount": 1395,
+    "answerCharCount": 10243,
+    "answerWordCount": 1500
+  },
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senato.it/leg/19/BGT/Schede/FascicoloSchedeDDL/ebook/59916.pdf",
+      "type": "open_page"
+    },
+    {
+      "url": "https://documenti.camera.it/_dati/leg19/lavori/Commissioni/Bollettini/932026.pdf",
+      "type": "open_page"
+    },
+    {
+      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/03/12/leg.19.bol0645.data20260312.com05.pdf",
+      "type": "find_in_page"
+    },
+    {
+      "url": "https://documenti.camera.it/apps/emendamenti/getPropostaEmendativa.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=null&idPropostaEmendativa=24.03.&position=20260312&sedeEsame=referente&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente",
+      "type": "open_page"
+    }
+  ],
+  "request": {
+    "model": "gpt-5.4",
+    "tools": [
+      {
+        "type": "web_search"
+      }
+    ],
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "name": "web_research_summary",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        }
+      }
+    },
+    "input": [
+      {
+        "role": "developer",
+        "content": "Restituisci solo JSON strutturato. Tutti i campi testuali devono contenere solo testo semplice. Non inserire markdown, HTML, URL grezzi o citazioni inline in summary, keyPoints, sections o caveats. Quando devi richiamare una fonte nel testo, usa segnaposto come [S1] o [S1, S2]. Inserisci le voci bibliografiche reali nell'array sources e mantieni gli id coerenti."
+      },
+      {
+        "role": "user",
+        "content": "Data di riferimento: 2026-03-31\n\nPrompt:\nSei un'assistente di ricerca in un'agenzia stampa specializzata in comunicati stampa ed informazioni last-minute.\n\nFai riferimento al seguente testo.\nBasandoti esclusivamente su:\n- banche dati del Parlamento\n- documenti parlamentari ufficiali\n- resoconti stenografici delle sedute in commissione e in aula\n- documentazione depositata di qualsiasi natura\n- interrogazioni depositate e risposte del governo\n- riferimenti normativi\n\nLimita la ricerca web ad informazioni risalenti agli ultimi 6 mesi. Puoi usare fonti ufficiali antecedenti solo se necessarie per ricostruire i contenuti normativi.\n\nElabora un report sullo stato di avanzamento del provvedimento in questione, che includa anche le principali posizioni politiche, eventuali contenziosi procedurali o politici, principali contenuti normativi.\n\nContesto: 03-dl-pnrr.md — DL PNRR\n\nTesto del contesto:\n# DL PNRR\n\n• Il ministro per gli Affari europei, il Pnrr e le Politiche di coesione, Tommaso Foti, ha dichiarato di non essere pessimista sulla possibilità di incrementare le risorse destinate alla convenzione con Radio Radicale tramite emendamenti bipartisan al dl Pnrr.\n• Gli emendamenti proposti da gruppi di maggioranza e opposizione mirano ad aumentare da 4 a 8 milioni di euro i fondi per la convenzione, riportando per il 2026 lo stanziamento al livello previsto per il 2025.\n• In commissione Bilancio sono stati segnalati circa 250 emendamenti, sui quali si attendono i pareri del Ministero dell’Economia; il totale iniziale era di circa 900 proposte.\n• Foti ha riferito che il Governo attende verifiche sulla copertura finanziaria e che alcuni emendamenti richiederanno un’istruttoria approfondita.\n• È previsto un incontro tra Governo e opposizioni prima della presentazione di un nuovo pacchetto di emendamenti, atteso nei prossimi giorni e composto da una decina di proposte dei relatori e dell’Esecutivo.\n• Le prime votazioni in commissione Bilancio dovrebbero iniziare martedì 31 marzo.\n• La conferenza dei capigruppo della Camera ha stabilito che l’esame del dl Pnrr in aula inizierà l’8 aprile, con discussione generale alle 12 e apposizione della fiducia alle 14."
+      }
+    ]
+  },
+  "rawResponse": {
+    "id": "resp_0d55bb90accfa5d90069cbb9b657f481a19e5198e421bd938b",
+    "object": "response",
+    "created_at": 1774959030,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1774959108,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.4-2026-03-05",
+    "output": [
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9b72ea881a19045d606aa521c7c",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:camera.it dl pnrr 31 marzo 2026 commissione bilancio emendamenti Radio Radicale Foti",
+            "site:senato.it dl pnrr 2026 camera bilancio emendamenti radio radicale",
+            "site:parlamento.it dl pnrr 2026 31 marzo 2026 aula 8 aprile fiducia"
+          ],
+          "query": "site:camera.it dl pnrr 31 marzo 2026 commissione bilancio emendamenti Radio Radicale Foti"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9ba05b481a1a960fd4fb80e2a0f",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.senato.it/leg/19/BGT/Schede/FascicoloSchedeDDL/ebook/59916.pdf"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9bb02a481a1969dd7d87aa42b0f",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:camera.it C. 2807 V Commissione 31 marzo 2026 bollettino emendamenti radio radicale",
+            "site:camera.it C. 2807 assemblea 8 aprile 2026 fiducia capigruppo",
+            "site:camera.it C. 2807 emendamenti segnalati 250 900 ministero economia 31 marzo 2026"
+          ],
+          "query": "site:camera.it C. 2807 V Commissione 31 marzo 2026 bollettino emendamenti radio radicale"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9bdc29481a1881e89313a78f911",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://documenti.camera.it/_dati/leg19/lavori/Commissioni/Bollettini/932026.pdf"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9be944881a1a8ca257b9c000a47",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:camera.it 2807 Governo resoconto commissione bilancio 31 marzo 2026",
+            "site:documenti.camera.it 2807 31 marzo 2026 bollettino commissione bilancio pdf",
+            "site:camera.it conferenza capigruppo 8 aprile 2026 DL 19/2026 fiducia"
+          ],
+          "query": "site:camera.it 2807 Governo resoconto commissione bilancio 31 marzo 2026"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9c12ff881a1a07b71d9a49d671c",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/03/12/leg.19.bol0645.data20260312.com05.pdf"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9c2839081a1ad378e9161c34308",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "find_in_page",
+          "pattern": "Radio Radicale",
+          "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/03/12/leg.19.bol0645.data20260312.com05.pdf"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9c4da4081a1be30b9d60d012c50",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://documenti.camera.it/apps/emendamenti/getPropostaEmendativa.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=null&idPropostaEmendativa=24.03.&position=20260312&sedeEsame=referente&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9c6559881a19a43584add4f8c43",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:documenti.camera.it apps/emendamenti 2807 Radio Radicale 8 milioni 2026",
+            "site:documenti.camera.it leg.19.eme.ac.2807 \"4 milioni di euro per il 2026\" \"8 milioni di euro per il 2026\"",
+            "site:documenti.camera.it C.2807 Radio Radicale emendamento 2026 8 milioni"
+          ],
+          "query": "site:documenti.camera.it apps/emendamenti 2807 Radio Radicale 8 milioni 2026"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9cb341c81a18b58c24eac70c0c5",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:camera.it capigruppo 8 aprile 2026 fiducia C. 2807",
+            "site:camera.it assemblea 8 aprile 2026 C. 2807 fiducia",
+            "site:camera.it calendario assemblea 8 aprile 2026 dl 19/2026"
+          ],
+          "query": "site:camera.it capigruppo 8 aprile 2026 fiducia C. 2807"
+        }
+      },
+      {
+        "id": "ws_0d55bb90accfa5d90069cbb9ce1ecc81a189a3549de0e73176",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page"
+        }
+      },
+      {
+        "id": "msg_0d55bb90accfa5d90069cbb9cebf1881a1bbb4abb286e09658",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "{\"title\":\"DL PNRR 2026, stato di avanzamento al 31 marzo 2026\",\"summary\":\"Il provvedimento in esame è il disegno di legge di conversione C. 2807, relativo al decreto-legge 19 febbraio 2026, n. 19, recante ulteriori disposizioni urgenti per l’attuazione del PNRR e in materia di politiche di coesione. Alla data del 31 marzo 2026 il testo risulta assegnato alla V Commissione Bilancio della Camera in sede referente, con esame avviato e prosecuzione in più sedute; al 12 marzo risultavano già pubblicate le proposte emendative. In base al fascicolo iter del Senato, la scadenza costituzionale per la conversione è il 20 aprile 2026 [S1, S2, S3].\\n\\nDalla documentazione parlamentare disponibile negli ultimi sei mesi emerge una fase ancora istruttoria in Commissione, con un numero elevato di emendamenti presentati e una forte attenzione ai profili di copertura finanziaria. Tra i temi politicamente più sensibili figura il rifinanziamento della convenzione per la trasmissione radiofonica delle sedute parlamentari, per il quale risultano emendamenti che sostituiscono la previsione di 4 milioni per il 2026 con 8 milioni, confermando che la questione è stata formalmente portata nel fascicolo emendamenti della Camera. Non risultano, nelle fonti parlamentari consultate, contenziosi procedurali formalizzati tali da bloccare l’iter; la criticità principale appare invece politico-finanziaria, legata all’ammissibilità e alla copertura di numerose proposte [S3, S4, S5].\",\"keyPoints\":[\"Il DL PNRR è il decreto-legge 19 febbraio 2026, n. 19; il ddl di conversione alla Camera è il C. 2807 [S1].\",\"La conversione deve avvenire entro il 20 aprile 2026, come risulta dal fascicolo iter parlamentare [S1].\",\"L’esame referente alla Camera è stato avviato in V Commissione Bilancio e proseguito almeno nelle sedute del 12 e 13 marzo 2026 [S2, S3].\",\"Nel Bollettino del 12 marzo 2026 risultano pubblicate le proposte emendative al C. 2807, segno che la fase emendativa è formalmente aperta [S3].\",\"Tra gli emendamenti depositati compare una proposta che porta da 4 a 8 milioni di euro per il 2026 lo stanziamento relativo alla convenzione per il servizio radiofonico delle sedute parlamentari [S4, S5].\",\"Le principali tensioni emerse dalle fonti ufficiali riguardano soprattutto coperture, ammissibilità e selezione delle modifiche, più che veri incidenti regolamentari già definiti [S3, S4].\"],\"sections\":[{\"heading\":\"Quadro procedurale\",\"paragraphs\":[\"Il fascicolo iter del Senato identifica il provvedimento come DDL C. 2807, conversione in legge del decreto-legge 19 febbraio 2026, n. 19. Lo stesso fascicolo indica la scadenza del decreto al 20 aprile 2026, data entro cui il Parlamento deve completare la conversione [S1].\",\"Alla Camera il provvedimento risulta assegnato in sede referente alla V Commissione Bilancio, con relatori Cattoi, Pella, Romano e Trancassini. La comunicazione ufficiale della Camera segnala la prosecuzione dell’esame il 13 marzo 2026 e il rinvio del seguito ad altra seduta [S2].\",\"Nel Bollettino della V Commissione del 12 marzo 2026 è registrato il seguito dell’esame del C. 2807 e, in allegato, la pubblicazione delle proposte emendative presentate. Questo colloca il procedimento in una fase avanzata di istruttoria emendativa ma non ancora conclusa in Commissione [S3].\"]},{\"heading\":\"Stato dell’esame emendativo\",\"paragraphs\":[\"Le fonti parlamentari consultate non consentono di confermare numericamente, con atto ufficiale reperito entro la finestra di ricerca, il dato politico circolato sui circa 250 emendamenti segnalati rispetto a circa 900 iniziali. Tuttavia la documentazione ufficiale conferma un fascicolo emendamenti molto ampio già al 12 marzo 2026 [S3].\",\"Nel materiale della Commissione sono visibili numerose proposte aggiuntive e modificative su varie materie: governance del PNRR, poteri sostitutivi, proroghe tecniche per lavori in corso, monitoraggio occupazionale, università e ricerca, porti, procedure amministrative e contratti pubblici. Ciò segnala un uso del decreto anche come veicolo per interventi eterogenei collegati, in senso lato, all’attuazione del Piano e alla coesione [S3].\",\"È inoltre rintracciabile una proposta emendativa dichiarata inammissibile, la 24.03 Cesa, su contributi per i servizi di manovra ferroviaria in ambito portuale. Il dato è utile perché mostra che il vaglio di ammissibilità è già in corso e che non tutte le proposte superano il filtro regolamentare e finanziario [S6].\"]},{\"heading\":\"Caso Radio Radicale\",\"paragraphs\":[\"Nel fascicolo emendamenti del 12 marzo 2026 compare una proposta che modifica una disposizione del decreto-legge 31 dicembre 2025, n. 200, convertito dalla legge 27 febbraio 2026, n. 26, sostituendo le parole 4 milioni di euro per il 2026 con 8 milioni di euro per il 2026. La stessa proposta quantifica l’onere aggiuntivo in 4 milioni per il 2026 e individua una copertura mediante riduzione del fondo speciale di parte corrente [S4].\",\"Il testo rinvenuto non nomina nel frammento visualizzato Radio Radicale, ma il collegamento sostanziale è coerente con il quadro normativo recente: un dossier della Camera sulla legge di bilancio 2025 ricorda che per il 2025 è stata prorogata la convenzione con Centro di produzione Spa, titolare dell’emittente Radio Radicale, con stanziamento di 8 milioni; un altro dossier ricorda che già la legge di bilancio 2024 aveva autorizzato 8 milioni per il 2024 per lo svolgimento del servizio di trasmissione radiofonica delle sedute parlamentari, prevedendo la proroga della convenzione [S7, S8].\",\"Sulla base di queste fonti ufficiali, si può inferire che il dossier politico richiamato nel contesto riguarda il tentativo di riallineare al livello del 2025 anche lo stanziamento 2026 per il servizio di trasmissione delle sedute parlamentari. L’inferenza è sostenuta dalla coincidenza letterale della cifra da 4 a 8 milioni e dal quadro normativo sulla convenzione con il Centro di produzione Spa [S4, S7, S8].\"]},{\"heading\":\"Principali contenuti normativi del decreto e degli emendamenti\",\"paragraphs\":[\"Il decreto è presentato come intervento urgente per l’attuazione del PNRR e per le politiche di coesione. Dalle proposte emendative già pubblicate emergono alcuni assi di intervento: rafforzamento dei meccanismi di monitoraggio parlamentare e amministrativo, estensione o modulazione dei poteri sostitutivi, correzioni di tempistiche attuative, e misure di accompagnamento su università, ricerca, portualità, contratti pubblici e capacità amministrativa [S3].\",\"Tra gli emendamenti si trovano proposte per differire termini contrattuali di lavori PNRR in corso, per introdurre indicatori sull’impatto occupazionale degli investimenti e per rafforzare strumenti di coordinamento e semplificazione. Questa pluralità di interventi suggerisce che il decreto si collochi nel filone dei provvedimenti omnibus di manutenzione attuativa del PNRR [S3].\",\"La presenza di varie proposte dichiarate inammissibili mostra inoltre un tentativo parlamentare di ampliare il perimetro materiale del decreto oltre il nucleo originario. Questo è un elemento tipico dei decreti-legge ad alto tasso emendativo, specie quando toccano materie trasversali come il PNRR e la coesione [S3, S6].\"]},{\"heading\":\"Posizioni politiche e nodi di conflitto\",\"paragraphs\":[\"Dalle fonti parlamentari ufficiali reperite nella finestra temporale richiesta non emerge ancora, nei resoconti disponibili consultati, un confronto politico definito per blocchi su tutti i contenuti del decreto. È però chiaro che la maggioranza presidia l’iter in Commissione con una pluralità di relatori appartenenti ai gruppi che sostengono il Governo, mentre l’opposizione ha depositato un numero rilevante di proposte emendative su monitoraggio, impatto sociale e correzioni settoriali [S2, S3].\",\"Il caso del rifinanziamento della convenzione radiofonica ha carattere politicamente trasversale perché si innesta su una disciplina già prorogata nelle precedenti leggi di bilancio. Tuttavia, allo stato della documentazione consultata, il nodo non appare definito sotto il profilo tecnico-finanziario e resta subordinato al parere sui mezzi di copertura [S4, S7, S8].\",\"L’unico contenzioso procedurale chiaramente documentato è quello dell’ammissibilità di alcune proposte, come nel caso dell’emendamento 24.03. Non risultano invece, nelle fonti parlamentari ufficiali esaminate, pronunce o incidenti regolamentari tali da alterare il calendario generale del provvedimento [S6].\"]},{\"heading\":\"Valutazione sintetica dello stato di avanzamento\",\"paragraphs\":[\"Al 31 marzo 2026 il DL PNRR risulta in fase di esame referente avanzato ma non concluso alla Camera. La Commissione Bilancio ha già aperto e pubblicato il fascicolo emendamenti, il che colloca il provvedimento nel passaggio decisivo di selezione politica e tecnica delle modifiche [S2, S3].\",\"Il principale fattore che condiziona l’evoluzione immediata del testo è la sostenibilità finanziaria delle proposte emendative, in particolare di quelle che comportano nuovi o maggiori oneri. In questo quadro il dossier Radio Radicale è uno dei punti più visibili, perché combina forte rilevanza politica, trasversalità parlamentare e necessità di copertura espressa [S4, S7, S8].\",\"Non essendo stato reperito, nelle sole fonti parlamentari e ufficiali consultate entro la finestra degli ultimi sei mesi, un resoconto definitivo della seduta del 31 marzo o un calendario assembleare formalizzato con l’indicazione della fiducia l’8 aprile, tale elemento del contesto non può essere confermato in via documentale in questo report. Il dato certo è che il termine ultimo di conversione resta il 20 aprile 2026 [S1].\"]}],\"caveats\":[\"Il report è costruito esclusivamente su fonti parlamentari e documentazione ufficiale, come richiesto; non sono state utilizzate agenzie di stampa o fonti giornalistiche per confermare retroscena politici.\",\"Non è stato possibile verificare documentalmente, nelle fonti ufficiali consultate entro gli ultimi sei mesi, il dato numerico sui 250 emendamenti segnalati rispetto a circa 900 iniziali né l’indicazione dell’avvio delle votazioni il 31 marzo.\",\"Non è stato reperito un atto ufficiale consultabile che confermi già al 31 marzo la calendarizzazione dell’Aula con fiducia l’8 aprile; la circostanza va quindi trattata come non verificata in questo report.\",\"Il collegamento tra l’emendamento da 4 a 8 milioni per il 2026 e la convenzione con Radio Radicale è una inferenza fortemente supportata dal quadro normativo ufficiale precedente, ma nel frammento dell’emendamento visualizzato non compare il nome dell’emittente.\",\"Le informazioni normative antecedenti ai sei mesi sono state usate solo per ricostruire il contenuto della disciplina sulla convenzione radiofonica e il relativo stanziamento nelle leggi precedenti.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Senato della Repubblica, Fascicolo Iter DDL C. 2807, conversione del decreto-legge 19 febbraio 2026, n. 19\",\"url\":\"https://www.senato.it/leg/19/BGT/Schede/FascicoloSchedeDDL/ebook/59916.pdf\"},{\"id\":\"S2\",\"title\":\"Camera dei deputati, Oggi in Commissione, 13 marzo 2026, prosecuzione esame del C. 2807 in V Commissione\",\"url\":\"https://comunicazione.camera.it/oggi-in-commissione?day=13-03-2026\"},{\"id\":\"S3\",\"title\":\"Camera dei deputati, Bollettino della V Commissione Bilancio del 12 marzo 2026 con allegato proposte emendative al C. 2807\",\"url\":\"https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/03/12/leg.19.bol0645.data20260312.com05.pdf\"},{\"id\":\"S4\",\"title\":\"Camera dei deputati, fascicolo emendamenti C. 2807, proposta che sostituisce 4 milioni con 8 milioni per il 2026\",\"url\":\"https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/03/12/leg.19.bol0645.data20260312.com05.pdf\"},{\"id\":\"S5\",\"title\":\"Camera dei deputati, proposta emendativa 24.03 al C. 2807 con esito di inammissibilità, esempio di vaglio procedurale sugli emendamenti\",\"url\":\"https://documenti.camera.it/apps/emendamenti/getPropostaEmendativa.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=null&idPropostaEmendativa=24.03.&position=20260312&sedeEsame=referente&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente\"},{\"id\":\"S6\",\"title\":\"Camera dei deputati, scheda della proposta emendativa 24.03 al C. 2807, dichiarata inammissibile\",\"url\":\"https://documenti.camera.it/apps/emendamenti/getPropostaEmendativa.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=null&idPropostaEmendativa=24.03.&position=20260312&sedeEsame=referente&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente\"},{\"id\":\"S7\",\"title\":\"Camera dei deputati, dossier sulla legge di bilancio 2025 con richiamo alla proroga 2025 della convenzione con Centro di produzione Spa titolare di Radio Radicale\",\"url\":\"https://documenti.camera.it/leg19/dossier/pdf/ID0011c.pdf\"},{\"id\":\"S8\",\"title\":\"Camera dei deputati, dossier che ricostruisce la legge di bilancio 2024 e lo stanziamento di 8 milioni per la convenzione con Radio Radicale\",\"url\":\"https://documenti.camera.it/leg19/dossier/testi/ID0011evol2.htm\"}]}"
+          }
+        ],
+        "phase": "final_answer",
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "description": null,
+        "name": "web_research_summary",
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        },
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 42878,
+      "input_tokens_details": {
+        "cached_tokens": 4736
+      },
+      "output_tokens": 4349,
+      "output_tokens_details": {
+        "reasoning_tokens": 843
+      },
+      "total_tokens": 47227
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"title\":\"DL PNRR 2026, stato di avanzamento al 31 marzo 2026\",\"summary\":\"Il provvedimento in esame è il disegno di legge di conversione C. 2807, relativo al decreto-legge 19 febbraio 2026, n. 19, recante ulteriori disposizioni urgenti per l’attuazione del PNRR e in materia di politiche di coesione. Alla data del 31 marzo 2026 il testo risulta assegnato alla V Commissione Bilancio della Camera in sede referente, con esame avviato e prosecuzione in più sedute; al 12 marzo risultavano già pubblicate le proposte emendative. In base al fascicolo iter del Senato, la scadenza costituzionale per la conversione è il 20 aprile 2026 [S1, S2, S3].\\n\\nDalla documentazione parlamentare disponibile negli ultimi sei mesi emerge una fase ancora istruttoria in Commissione, con un numero elevato di emendamenti presentati e una forte attenzione ai profili di copertura finanziaria. Tra i temi politicamente più sensibili figura il rifinanziamento della convenzione per la trasmissione radiofonica delle sedute parlamentari, per il quale risultano emendamenti che sostituiscono la previsione di 4 milioni per il 2026 con 8 milioni, confermando che la questione è stata formalmente portata nel fascicolo emendamenti della Camera. Non risultano, nelle fonti parlamentari consultate, contenziosi procedurali formalizzati tali da bloccare l’iter; la criticità principale appare invece politico-finanziaria, legata all’ammissibilità e alla copertura di numerose proposte [S3, S4, S5].\",\"keyPoints\":[\"Il DL PNRR è il decreto-legge 19 febbraio 2026, n. 19; il ddl di conversione alla Camera è il C. 2807 [S1].\",\"La conversione deve avvenire entro il 20 aprile 2026, come risulta dal fascicolo iter parlamentare [S1].\",\"L’esame referente alla Camera è stato avviato in V Commissione Bilancio e proseguito almeno nelle sedute del 12 e 13 marzo 2026 [S2, S3].\",\"Nel Bollettino del 12 marzo 2026 risultano pubblicate le proposte emendative al C. 2807, segno che la fase emendativa è formalmente aperta [S3].\",\"Tra gli emendamenti depositati compare una proposta che porta da 4 a 8 milioni di euro per il 2026 lo stanziamento relativo alla convenzione per il servizio radiofonico delle sedute parlamentari [S4, S5].\",\"Le principali tensioni emerse dalle fonti ufficiali riguardano soprattutto coperture, ammissibilità e selezione delle modifiche, più che veri incidenti regolamentari già definiti [S3, S4].\"],\"sections\":[{\"heading\":\"Quadro procedurale\",\"paragraphs\":[\"Il fascicolo iter del Senato identifica il provvedimento come DDL C. 2807, conversione in legge del decreto-legge 19 febbraio 2026, n. 19. Lo stesso fascicolo indica la scadenza del decreto al 20 aprile 2026, data entro cui il Parlamento deve completare la conversione [S1].\",\"Alla Camera il provvedimento risulta assegnato in sede referente alla V Commissione Bilancio, con relatori Cattoi, Pella, Romano e Trancassini. La comunicazione ufficiale della Camera segnala la prosecuzione dell’esame il 13 marzo 2026 e il rinvio del seguito ad altra seduta [S2].\",\"Nel Bollettino della V Commissione del 12 marzo 2026 è registrato il seguito dell’esame del C. 2807 e, in allegato, la pubblicazione delle proposte emendative presentate. Questo colloca il procedimento in una fase avanzata di istruttoria emendativa ma non ancora conclusa in Commissione [S3].\"]},{\"heading\":\"Stato dell’esame emendativo\",\"paragraphs\":[\"Le fonti parlamentari consultate non consentono di confermare numericamente, con atto ufficiale reperito entro la finestra di ricerca, il dato politico circolato sui circa 250 emendamenti segnalati rispetto a circa 900 iniziali. Tuttavia la documentazione ufficiale conferma un fascicolo emendamenti molto ampio già al 12 marzo 2026 [S3].\",\"Nel materiale della Commissione sono visibili numerose proposte aggiuntive e modificative su varie materie: governance del PNRR, poteri sostitutivi, proroghe tecniche per lavori in corso, monitoraggio occupazionale, università e ricerca, porti, procedure amministrative e contratti pubblici. Ciò segnala un uso del decreto anche come veicolo per interventi eterogenei collegati, in senso lato, all’attuazione del Piano e alla coesione [S3].\",\"È inoltre rintracciabile una proposta emendativa dichiarata inammissibile, la 24.03 Cesa, su contributi per i servizi di manovra ferroviaria in ambito portuale. Il dato è utile perché mostra che il vaglio di ammissibilità è già in corso e che non tutte le proposte superano il filtro regolamentare e finanziario [S6].\"]},{\"heading\":\"Caso Radio Radicale\",\"paragraphs\":[\"Nel fascicolo emendamenti del 12 marzo 2026 compare una proposta che modifica una disposizione del decreto-legge 31 dicembre 2025, n. 200, convertito dalla legge 27 febbraio 2026, n. 26, sostituendo le parole 4 milioni di euro per il 2026 con 8 milioni di euro per il 2026. La stessa proposta quantifica l’onere aggiuntivo in 4 milioni per il 2026 e individua una copertura mediante riduzione del fondo speciale di parte corrente [S4].\",\"Il testo rinvenuto non nomina nel frammento visualizzato Radio Radicale, ma il collegamento sostanziale è coerente con il quadro normativo recente: un dossier della Camera sulla legge di bilancio 2025 ricorda che per il 2025 è stata prorogata la convenzione con Centro di produzione Spa, titolare dell’emittente Radio Radicale, con stanziamento di 8 milioni; un altro dossier ricorda che già la legge di bilancio 2024 aveva autorizzato 8 milioni per il 2024 per lo svolgimento del servizio di trasmissione radiofonica delle sedute parlamentari, prevedendo la proroga della convenzione [S7, S8].\",\"Sulla base di queste fonti ufficiali, si può inferire che il dossier politico richiamato nel contesto riguarda il tentativo di riallineare al livello del 2025 anche lo stanziamento 2026 per il servizio di trasmissione delle sedute parlamentari. L’inferenza è sostenuta dalla coincidenza letterale della cifra da 4 a 8 milioni e dal quadro normativo sulla convenzione con il Centro di produzione Spa [S4, S7, S8].\"]},{\"heading\":\"Principali contenuti normativi del decreto e degli emendamenti\",\"paragraphs\":[\"Il decreto è presentato come intervento urgente per l’attuazione del PNRR e per le politiche di coesione. Dalle proposte emendative già pubblicate emergono alcuni assi di intervento: rafforzamento dei meccanismi di monitoraggio parlamentare e amministrativo, estensione o modulazione dei poteri sostitutivi, correzioni di tempistiche attuative, e misure di accompagnamento su università, ricerca, portualità, contratti pubblici e capacità amministrativa [S3].\",\"Tra gli emendamenti si trovano proposte per differire termini contrattuali di lavori PNRR in corso, per introdurre indicatori sull’impatto occupazionale degli investimenti e per rafforzare strumenti di coordinamento e semplificazione. Questa pluralità di interventi suggerisce che il decreto si collochi nel filone dei provvedimenti omnibus di manutenzione attuativa del PNRR [S3].\",\"La presenza di varie proposte dichiarate inammissibili mostra inoltre un tentativo parlamentare di ampliare il perimetro materiale del decreto oltre il nucleo originario. Questo è un elemento tipico dei decreti-legge ad alto tasso emendativo, specie quando toccano materie trasversali come il PNRR e la coesione [S3, S6].\"]},{\"heading\":\"Posizioni politiche e nodi di conflitto\",\"paragraphs\":[\"Dalle fonti parlamentari ufficiali reperite nella finestra temporale richiesta non emerge ancora, nei resoconti disponibili consultati, un confronto politico definito per blocchi su tutti i contenuti del decreto. È però chiaro che la maggioranza presidia l’iter in Commissione con una pluralità di relatori appartenenti ai gruppi che sostengono il Governo, mentre l’opposizione ha depositato un numero rilevante di proposte emendative su monitoraggio, impatto sociale e correzioni settoriali [S2, S3].\",\"Il caso del rifinanziamento della convenzione radiofonica ha carattere politicamente trasversale perché si innesta su una disciplina già prorogata nelle precedenti leggi di bilancio. Tuttavia, allo stato della documentazione consultata, il nodo non appare definito sotto il profilo tecnico-finanziario e resta subordinato al parere sui mezzi di copertura [S4, S7, S8].\",\"L’unico contenzioso procedurale chiaramente documentato è quello dell’ammissibilità di alcune proposte, come nel caso dell’emendamento 24.03. Non risultano invece, nelle fonti parlamentari ufficiali esaminate, pronunce o incidenti regolamentari tali da alterare il calendario generale del provvedimento [S6].\"]},{\"heading\":\"Valutazione sintetica dello stato di avanzamento\",\"paragraphs\":[\"Al 31 marzo 2026 il DL PNRR risulta in fase di esame referente avanzato ma non concluso alla Camera. La Commissione Bilancio ha già aperto e pubblicato il fascicolo emendamenti, il che colloca il provvedimento nel passaggio decisivo di selezione politica e tecnica delle modifiche [S2, S3].\",\"Il principale fattore che condiziona l’evoluzione immediata del testo è la sostenibilità finanziaria delle proposte emendative, in particolare di quelle che comportano nuovi o maggiori oneri. In questo quadro il dossier Radio Radicale è uno dei punti più visibili, perché combina forte rilevanza politica, trasversalità parlamentare e necessità di copertura espressa [S4, S7, S8].\",\"Non essendo stato reperito, nelle sole fonti parlamentari e ufficiali consultate entro la finestra degli ultimi sei mesi, un resoconto definitivo della seduta del 31 marzo o un calendario assembleare formalizzato con l’indicazione della fiducia l’8 aprile, tale elemento del contesto non può essere confermato in via documentale in questo report. Il dato certo è che il termine ultimo di conversione resta il 20 aprile 2026 [S1].\"]}],\"caveats\":[\"Il report è costruito esclusivamente su fonti parlamentari e documentazione ufficiale, come richiesto; non sono state utilizzate agenzie di stampa o fonti giornalistiche per confermare retroscena politici.\",\"Non è stato possibile verificare documentalmente, nelle fonti ufficiali consultate entro gli ultimi sei mesi, il dato numerico sui 250 emendamenti segnalati rispetto a circa 900 iniziali né l’indicazione dell’avvio delle votazioni il 31 marzo.\",\"Non è stato reperito un atto ufficiale consultabile che confermi già al 31 marzo la calendarizzazione dell’Aula con fiducia l’8 aprile; la circostanza va quindi trattata come non verificata in questo report.\",\"Il collegamento tra l’emendamento da 4 a 8 milioni per il 2026 e la convenzione con Radio Radicale è una inferenza fortemente supportata dal quadro normativo ufficiale precedente, ma nel frammento dell’emendamento visualizzato non compare il nome dell’emittente.\",\"Le informazioni normative antecedenti ai sei mesi sono state usate solo per ricostruire il contenuto della disciplina sulla convenzione radiofonica e il relativo stanziamento nelle leggi precedenti.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Senato della Repubblica, Fascicolo Iter DDL C. 2807, conversione del decreto-legge 19 febbraio 2026, n. 19\",\"url\":\"https://www.senato.it/leg/19/BGT/Schede/FascicoloSchedeDDL/ebook/59916.pdf\"},{\"id\":\"S2\",\"title\":\"Camera dei deputati, Oggi in Commissione, 13 marzo 2026, prosecuzione esame del C. 2807 in V Commissione\",\"url\":\"https://comunicazione.camera.it/oggi-in-commissione?day=13-03-2026\"},{\"id\":\"S3\",\"title\":\"Camera dei deputati, Bollettino della V Commissione Bilancio del 12 marzo 2026 con allegato proposte emendative al C. 2807\",\"url\":\"https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/03/12/leg.19.bol0645.data20260312.com05.pdf\"},{\"id\":\"S4\",\"title\":\"Camera dei deputati, fascicolo emendamenti C. 2807, proposta che sostituisce 4 milioni con 8 milioni per il 2026\",\"url\":\"https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/03/12/leg.19.bol0645.data20260312.com05.pdf\"},{\"id\":\"S5\",\"title\":\"Camera dei deputati, proposta emendativa 24.03 al C. 2807 con esito di inammissibilità, esempio di vaglio procedurale sugli emendamenti\",\"url\":\"https://documenti.camera.it/apps/emendamenti/getPropostaEmendativa.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=null&idPropostaEmendativa=24.03.&position=20260312&sedeEsame=referente&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente\"},{\"id\":\"S6\",\"title\":\"Camera dei deputati, scheda della proposta emendativa 24.03 al C. 2807, dichiarata inammissibile\",\"url\":\"https://documenti.camera.it/apps/emendamenti/getPropostaEmendativa.aspx?contenitorePortante=leg.19.eme.ac.2807&dataSeduta=null&idPropostaEmendativa=24.03.&position=20260312&sedeEsame=referente&tipoSeduta=1&urnTestoRiferimento=urn%3Aleg%3A19%3A2807%3Anull%3Anull%3Acom%3A05%3Areferente\"},{\"id\":\"S7\",\"title\":\"Camera dei deputati, dossier sulla legge di bilancio 2025 con richiamo alla proroga 2025 della convenzione con Centro di produzione Spa titolare di Radio Radicale\",\"url\":\"https://documenti.camera.it/leg19/dossier/pdf/ID0011c.pdf\"},{\"id\":\"S8\",\"title\":\"Camera dei deputati, dossier che ricostruisce la legge di bilancio 2024 e lo stanziamento di 8 milioni per la convenzione con Radio Radicale\",\"url\":\"https://documenti.camera.it/leg19/dossier/testi/ID0011evol2.htm\"}]}"
+  }
+}

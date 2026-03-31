@@ -1,0 +1,583 @@
+{
+  "runId": "run_2026-03-31T12-10-29-263Z_02-dl-carburanti_1aba5fca",
+  "responseId": "resp_0a8e3bcf54233ce00069cbb971705c819f96357be41903870d",
+  "generatedAt": "2026-03-31T12:10:29.263Z",
+  "mode": "sync",
+  "context": {
+    "id": "02-dl-carburanti",
+    "slug": "02-dl-carburanti",
+    "fileName": "02-dl-carburanti.md",
+    "title": "DL CARBURANTI"
+  },
+  "promptFile": "00-prompt.md",
+  "model": "gpt-5.4",
+  "requestFingerprint": "854e264b061228a2aabcc45c69ce491570d6e910848652cbf7f6c3b75ab5cafb",
+  "structuredAnswer": {
+    "title": "Stato di avanzamento del DL carburanti al 31 marzo 2026",
+    "summary": "Il provvedimento richiamato nel contesto è il disegno di legge di conversione del decreto-legge 18 marzo 2026, n. 33, recante disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali. Alla data del 31 marzo 2026 risulta presentato al Senato il 18 marzo 2026 come A.S. n. 1845, con il testo del decreto già in vigore dal 19 marzo 2026; dalle fonti parlamentari reperite entro il perimetro richiesto non emergono, al 31 marzo, evidenze ufficiali di approvazione definitiva né di conversione già intervenuta [S1, S2].\n\nSul piano sostanziale, il decreto combina due linee di intervento: una riduzione temporanea dell’accisa su benzina e gasolio tramite decreto ministeriale del 18 marzo 2026, e un rafforzamento dei controlli sulla filiera e sulla trasparenza dei prezzi, con nuovi obblighi informativi per compagnie e operatori e con il coinvolgimento del Garante per la sorveglianza dei prezzi, della Guardia di finanza e dell’AGCM [S2, S3]. Nel dibattito parlamentare già affiorato nelle sedute d’Aula e nelle interrogazioni, le opposizioni criticano il carattere temporaneo del taglio e il mancato ricorso pieno all’accisa mobile; dal lato politico-sociale, il contesto esterno segnala richieste di categorie escluse da misure dedicate, come il trasporto con bus turistici, ma tali istanze non risultano, allo stato, tradotte in modifiche parlamentari ufficialmente acquisite nel materiale consultato [S2, S4].",
+    "keyPoints": [
+      "Il decreto-legge di riferimento è il n. 33 del 18 marzo 2026; il ddl di conversione è A.S. n. 1845, presentato al Senato il 18 marzo 2026 [S1, S2].",
+      "Il decreto è in vigore dal 19 marzo 2026 e contiene sia misure fiscali temporanee sia misure di controllo e trasparenza della filiera dei carburanti [S2, S3].",
+      "La riduzione dell’accisa è stata attuata con decreto MEF del 18 marzo 2026 pubblicato in Gazzetta Ufficiale il 19 marzo 2026 [S3].",
+      "Al 31 marzo 2026 non risultano, nelle fonti parlamentari ufficiali esaminate, la conversione definitiva né un esito conclusivo dell’iter [S1, S2].",
+      "Le opposizioni hanno sollevato in Aula e con atti di sindacato ispettivo il tema del mancato utilizzo dell’accisa mobile e della limitatezza temporale dell’intervento [S4].",
+      "Nel testo normativo consultato non compaiono misure specifiche per il comparto dei bus turistici, tema evidenziato nel contesto fornito [S1, S2]."
+    ],
+    "sections": [
+      {
+        "heading": "Identificazione del provvedimento e fase procedurale",
+        "paragraphs": [
+          "Il provvedimento in esame è il disegno di legge di conversione del decreto-legge 18 marzo 2026, n. 33, intitolato disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali. Il disegno di legge è stato comunicato alla Presidenza del Senato il 18 marzo 2026 come A.S. n. 1845 [S1].",
+          "Il decreto-legge è entrato in vigore il 19 marzo 2026, giorno successivo alla pubblicazione in Gazzetta Ufficiale, secondo la clausola finale del testo normativo [S1, S2].",
+          "Alla data di riferimento del 31 marzo 2026, nelle banche dati e nei documenti parlamentari ufficiali consultati entro l’orizzonte degli ultimi sei mesi non risultano elementi che attestino la conclusione dell’iter di conversione. Il quadro documentale disponibile consente quindi di qualificare il provvedimento come in fase iniziale di esame parlamentare, con decreto vigente ma conversione non ancora documentata come completata [S1, S2]."
+        ]
+      },
+      {
+        "heading": "Principali contenuti normativi",
+        "paragraphs": [
+          "L’articolo 1 introduce misure di prevenzione e contrasto alle manovre speculative sui carburanti. Le società petrolifere o i soggetti che assicurano l’approvvigionamento della rete devono comunicare giornalmente agli esercenti i prezzi consigliati o quelli previsti per la propria rete, pubblicarli con adeguata evidenza sui propri siti e trasmetterli al Garante per la sorveglianza dei prezzi e all’AGCM. In caso di violazione è prevista una sanzione pari allo 0,1 per cento del fatturato giornaliero [S1, S2].",
+          "Lo stesso articolo vieta inoltre la variazione in aumento, nell’arco della stessa giornata, dei prezzi comunicati dagli esercenti ai sensi della disciplina del 2023 sulla trasparenza dei prezzi dei carburanti [S1, S2].",
+          "Il decreto attribuisce al Garante per la sorveglianza dei prezzi uno speciale regime di controllo dei fenomeni distorsivi lungo la filiera. In caso di anomalo e repentino incremento dei prezzi rispetto alle quotazioni internazionali di riferimento, il Garante trasmette alla Guardia di finanza il dettaglio degli operatori e delle compagnie interessate per accertamenti sui costi e sui prezzi di acquisto, con successiva trasmissione delle risultanze anche all’AGCM per le valutazioni sanzionatorie di competenza [S2].",
+          "Il provvedimento si raccorda con il Testo unico delle accise, decreto legislativo n. 504 del 1995, e con il decreto-legge n. 5 del 2023 sulla trasparenza dei prezzi dei carburanti. Sul piano fiscale, il decreto-legge è accompagnato dal decreto MEF 18 marzo 2026 che dispone la riduzione delle imposte su taluni prodotti energetici usati come carburanti [S1, S2, S3].",
+          "Dalla relazione tecnica e dai prospetti allegati al ddl emergono effetti finanziari significativi nel 2026 e coperture basate, tra l’altro, su riduzioni di spesa di Ministeri e su utilizzo parziale del Fondo per interventi strutturali di politica economica [S1]."
+        ]
+      },
+      {
+        "heading": "Posizioni politiche emerse nelle fonti parlamentari",
+        "paragraphs": [
+          "Nel materiale parlamentare disponibile, la linea del Governo è quella di giustificare il decreto con la straordinaria necessità e urgenza di contenere gli effetti dell’aumento del costo dei carburanti e di rafforzare il monitoraggio della formazione dei prezzi lungo la filiera [S1, S2].",
+          "Dalle interrogazioni e dagli interventi d’Aula reperiti emerge una critica delle opposizioni su due fronti principali: primo, il testo non ricorrerebbe allo strumento dell’accisa mobile; secondo, la riduzione dell’accisa sarebbe temporanea e di durata limitata, ritenuta insufficiente rispetto alla dinamica dei prezzi alla pompa [S4].",
+          "Nelle fonti parlamentari consultate non risultano ancora, al 31 marzo 2026, resoconti di un confronto maturo su un pacchetto emendativo consolidato relativo al ddl di conversione A.S. 1845. Pertanto le posizioni politiche ricostruibili sono, allo stato, soprattutto quelle espresse in sindacato ispettivo e nel dibattito generale sul caro-carburanti [S4]."
+        ]
+      },
+      {
+        "heading": "Contenziosi procedurali o politici",
+        "paragraphs": [
+          "Non emergono dalle fonti ufficiali consultate specifici contenziosi procedurali formalizzati sull’ammissibilità o sulla calendarizzazione del ddl A.S. 1845 entro il 31 marzo 2026. L’assenza di tali evidenze nelle banche dati esaminate suggerisce che, alla data di riferimento, il nodo principale fosse ancora politico e sostanziale più che procedurale [S1, S2].",
+          "Il contenzioso politico riguarda invece l’adeguatezza dello strumento scelto. In Aula è stato rilevato che il testo pubblicato in Gazzetta non prevede il ricorso all’accisa mobile, limitandosi a una riduzione temporanea dell’accisa e a misure di controllo dei prezzi. Questa impostazione è stata usata dall’opposizione per contestare la coerenza del Governo rispetto a precedenti impegni pubblici sul tema [S4].",
+          "Un ulteriore elemento di tensione politica, rilevante rispetto al contesto fornito, è l’assenza nel testo normativo di misure settoriali espresse per i bus turistici. Tale dato non prova di per sé un rigetto parlamentare delle richieste di categoria, ma indica che nel testo originario del decreto non è stata inserita una disciplina ad hoc per quel comparto [S1, S2]."
+        ]
+      },
+      {
+        "heading": "Rilevanza per il comparto dei bus turistici richiamato nel contesto",
+        "paragraphs": [
+          "Il contesto segnala la protesta di AN.BTI-Confcommercio per l’esclusione delle imprese di bus turistici da misure strutturali di sostegno e dal regime di accisa agevolata riconosciuto ad altri settori. Sulla base delle sole fonti parlamentari e normative consultate, il testo originario del decreto-legge n. 33 non contiene disposizioni specificamente destinate a tale comparto [S1, S2].",
+          "Ne consegue che, allo stato del testo base, le richieste dell’associazione possono trovare spazio soltanto attraverso l’attività emendativa in Commissione o in Aula oppure tramite successivi atti di indirizzo e sindacato ispettivo. Tuttavia, entro il 31 marzo 2026, nelle fonti esaminate non risultano ancora documentate modifiche approvate o risposte governative specifiche riferite ai bus turistici nell’ambito dell’iter del decreto [S1, S2, S4]."
+        ]
+      }
+    ],
+    "caveats": [
+      "La ricerca è stata limitata alle fonti parlamentari e normative ufficiali, come richiesto. Non sono state utilizzate fonti giornalistiche o associative per integrare il quadro politico-sociale.",
+      "Le banche dati parlamentari consultate, alla data del 31 marzo 2026, non restituivano ancora un fascicolo di iter completo facilmente indicizzabile per A.S. 1845; per questo la ricostruzione dello stato di avanzamento si basa sul ddl presentato, sul testo normativo vigente e sugli atti parlamentari collegati reperibili [S1, S2, S4].",
+      "L’affermazione secondo cui il provvedimento non risulta ancora convertito definitivamente al 31 marzo 2026 è una conclusione ricavata dall’assenza di evidenze ufficiali di approvazione finale nelle fonti parlamentari consultate entro quella data [S1, S2].",
+      "Per una verifica puntuale di assegnazione, calendario, termine emendamenti e resoconti di Commissione dell’A.S. 1845 può essere utile un controllo successivo direttamente sulla scheda iter del Senato quando pienamente indicizzata nelle banche dati pubbliche."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Senato della Repubblica, Disegno di legge A.S. n. 1845, Conversione in legge del decreto-legge 18 marzo 2026, n. 33, PDF degli atti parlamentari",
+        "url": "https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf"
+      },
+      {
+        "id": "S2",
+        "title": "Normattiva, Decreto-legge 18 marzo 2026, n. 33, Disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali",
+        "url": "https://www.normattiva.it/eli/id/2026/03/18/26G00052/ORIGINAL"
+      },
+      {
+        "id": "S3",
+        "title": "Gazzetta Ufficiale, Decreto 18 marzo 2026, Riduzione delle imposte su taluni prodotti energetici usati come carburanti",
+        "url": "https://www.gazzettaufficiale.it/eli/id/2026/03/19/26A01474/SG"
+      },
+      {
+        "id": "S4",
+        "title": "Senato della Repubblica, Resoconto stenografico della seduta n. 401 del 20 marzo 2026, interrogazioni e interventi sul tema carburanti",
+        "url": "https://www.parlamento.it/show-doc?id=0&idoggetto=0&leg=0&part=doc_dc-allegatob_ab&tipodoc=hotresaula"
+      }
+    ]
+  },
+  "timing": {
+    "startedAt": "2026-03-31T12:09:20.412Z",
+    "completedAt": "2026-03-31T12:10:29.262Z",
+    "durationMs": 68850,
+    "providerStartedAt": "2026-03-31T12:09:21.000Z",
+    "providerCompletedAt": "2026-03-31T12:10:29.000Z",
+    "providerDurationMs": 68000
+  },
+  "usage": {
+    "inputTokens": 46026,
+    "cachedInputTokens": 4736,
+    "outputTokens": 3914,
+    "reasoningTokens": 1105,
+    "totalTokens": 49940,
+    "webSearchCalls": 12
+  },
+  "estimatedCost": {
+    "currency": "USD",
+    "inputCostUsd": 0.103225,
+    "cachedInputCostUsd": 0.001184,
+    "outputCostUsd": 0.05871,
+    "webSearchCostUsd": 0.12,
+    "totalCostUsd": 0.283119,
+    "pricingVersion": "manual-2026-03",
+    "assumptions": [
+      "Estimated with local price card for gpt-5.4.",
+      "Web search cost estimated as $10 per 1k calls for GPT-5-era reasoning models.",
+      "Estimate is for standard synchronous processing and may differ from actual billing."
+    ]
+  },
+  "analysis": {
+    "citationCount": 0,
+    "sourceCount": 4,
+    "sectionCount": 5,
+    "paragraphCount": 16,
+    "keyPointCount": 6,
+    "summaryCharCount": 1454,
+    "answerCharCount": 9178,
+    "answerWordCount": 1346
+  },
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf",
+      "type": "find_in_page"
+    },
+    {
+      "url": "https://www.senato.it/export/ddl/full/59584",
+      "type": "open_page"
+    },
+    {
+      "url": "https://www.senato.it/export/ddl/full/59086",
+      "type": "open_page"
+    }
+  ],
+  "request": {
+    "model": "gpt-5.4",
+    "tools": [
+      {
+        "type": "web_search"
+      }
+    ],
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "name": "web_research_summary",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        }
+      }
+    },
+    "input": [
+      {
+        "role": "developer",
+        "content": "Restituisci solo JSON strutturato. Tutti i campi testuali devono contenere solo testo semplice. Non inserire markdown, HTML, URL grezzi o citazioni inline in summary, keyPoints, sections o caveats. Quando devi richiamare una fonte nel testo, usa segnaposto come [S1] o [S1, S2]. Inserisci le voci bibliografiche reali nell'array sources e mantieni gli id coerenti."
+      },
+      {
+        "role": "user",
+        "content": "Data di riferimento: 2026-03-31\n\nPrompt:\nSei un'assistente di ricerca in un'agenzia stampa specializzata in comunicati stampa ed informazioni last-minute.\n\nFai riferimento al seguente testo.\nBasandoti esclusivamente su:\n- banche dati del Parlamento\n- documenti parlamentari ufficiali\n- resoconti stenografici delle sedute in commissione e in aula\n- documentazione depositata di qualsiasi natura\n- interrogazioni depositate e risposte del governo\n- riferimenti normativi\n\nLimita la ricerca web ad informazioni risalenti agli ultimi 6 mesi. Puoi usare fonti ufficiali antecedenti solo se necessarie per ricostruire i contenuti normativi.\n\nElabora un report sullo stato di avanzamento del provvedimento in questione, che includa anche le principali posizioni politiche, eventuali contenziosi procedurali o politici, principali contenuti normativi.\n\nContesto: 02-dl-carburanti.md — DL CARBURANTI\n\nTesto del contesto:\n# DL CARBURANTI\n\n• Il presidente di AN.BTI-Confcommercio, Riccardo Verona, segnala che il prezzo del gasolio è tornato oltre i 2 euro al litro nonostante il recente taglio delle accise.\n• Verona afferma che le imprese di bus turistici restano escluse da misure strutturali di sostegno e non beneficiano del regime di accisa agevolata applicato ad altri settori.\n• L’associazione critica l’assenza di aiuti specifici nel decreto Carburanti attualmente all’esame della commissione Finanze del Senato.\n• AN.BTI chiede al Parlamento interventi immediati durante l’iter del dl Carburanti per evitare un impatto economico rilevante sul comparto.\n• Le aziende del settore stanno operando con servizi programmati mesi fa, con costi previsti diversi rispetto agli attuali prezzi del carburante.\n• L’aumento del costo del gasolio sta comprimendo ulteriormente i margini operativi e mettendo a rischio la sostenibilità delle attività.\n• Verona segnala anche un calo delle prenotazioni a causa di tensioni sociali e timori diffusi, con conseguenti cancellazioni di tour, soprattutto dall’estero.\n• AN.BTI avverte che senza interventi urgenti il comparto dei bus turistici potrebbe affrontare una crisi con ricadute su occupazione, turismo e indotto economico."
+      }
+    ]
+  },
+  "rawResponse": {
+    "id": "resp_0a8e3bcf54233ce00069cbb971705c819f96357be41903870d",
+    "object": "response",
+    "created_at": 1774958961,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1774959029,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.4-2026-03-05",
+    "output": [
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb9724a68819fa84a28c582c7fbbe",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it decreto carburanti commissione finanze Senato ultimi 6 mesi",
+            "site:camera.it decreto carburanti Parlamento ultimi 6 mesi",
+            "site:parlamento.it decreto carburanti ultimi 6 mesi",
+            "site:senato.it \"decreto carburanti\" Commissione Finanze Senato"
+          ],
+          "query": "site:senato.it decreto carburanti commissione finanze Senato ultimi 6 mesi"
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb9743da0819f9e5f9daef72ac772",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it commissione finanze senato ddl conversione decreto-legge carburanti 2026",
+            "site:senato.it \"Commissione Finanze\" carburanti senato 2026 resoconto",
+            "site:senato.it \"carburanti\" \"5ª Commissione\" senato 2026",
+            "site:parlamento.it \"decreto carburanti\" 2026 senato finanze"
+          ],
+          "query": "site:senato.it commissione finanze senato ddl conversione decreto-legge carburanti 2026"
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb97718b4819fbf83b1ac3968bb8f",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:gazzettaufficiale.it decreto-legge 18 marzo 2026 carburanti",
+            "site:gazzettaufficiale.it accise carburanti 18 marzo 2026 decreto-legge",
+            "site:normattiva.it decreto-legge 18 marzo 2026 carburanti"
+          ],
+          "query": "site:gazzettaufficiale.it decreto-legge 18 marzo 2026 carburanti"
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb97bc4b8819fb3306d9e6b99c2b9",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"A.S.\" \"decreto-legge 18 marzo 2026, n. 33\"",
+            "site:senato.it \"disegno di legge\" \"18 marzo 2026, n. 33\" senato",
+            "site:senato.it \"Atto Senato\" \"26G00052\"",
+            "site:senato.it \"Disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali\""
+          ],
+          "query": "site:senato.it \"A.S.\" \"decreto-legge 18 marzo 2026, n. 33\""
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb97d736c819fbeeae061e7223d51",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf"
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb97e564c819fb8e92d6a976d1608",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "find_in_page",
+          "pattern": "Assegnato",
+          "url": "https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf"
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb9802b24819fa36c4519eb414eba",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it A.S. 1845 commissione finanze resoconto 2026",
+            "site:senato.it \"A.S. 1845\" Senato",
+            "site:senato.it \"1845\" \"Conversione in legge del decreto-legge 18 marzo 2026, n. 33\""
+          ],
+          "query": "site:senato.it A.S. 1845 commissione finanze resoconto 2026"
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb9833f94819f9182fe88442f9cfc",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it \"Atti pubblicati\" \"Disegno di legge 1845\"",
+            "site:senato.it \"1845\" \"Conversione in legge del decreto-legge 18 marzo 2026, n. 33\" \"Atti pubblicati\"",
+            "site:senato.it \"Resoconto sommario\" \"decreto-legge 18 marzo 2026, n. 33\"",
+            "site:senato.it \"6ª Commissione\" \"18 marzo 2026, n. 33\""
+          ],
+          "query": "site:senato.it \"Atti pubblicati\" \"Disegno di legge 1845\""
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb985c830819f91adb2d9031a86f1",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.senato.it/export/ddl/full/59584"
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb986d5d0819f95c44a229c6dd014",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.senato.it/export/ddl/full/59086"
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb989e134819f85f08aaa825b70a1",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page"
+        }
+      },
+      {
+        "id": "ws_0a8e3bcf54233ce00069cbb98b09e0819fa203c6116a81d182",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:senato.it/export/ddl/full/ \"decreto-legge 18 marzo 2026, n. 33\""
+          ],
+          "query": "site:senato.it/export/ddl/full/ \"decreto-legge 18 marzo 2026, n. 33\""
+        }
+      },
+      {
+        "id": "msg_0a8e3bcf54233ce00069cbb98da318819f96b3101f58c0a9a2",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "{\"title\":\"Stato di avanzamento del DL carburanti al 31 marzo 2026\",\"summary\":\"Il provvedimento richiamato nel contesto è il disegno di legge di conversione del decreto-legge 18 marzo 2026, n. 33, recante disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali. Alla data del 31 marzo 2026 risulta presentato al Senato il 18 marzo 2026 come A.S. n. 1845, con il testo del decreto già in vigore dal 19 marzo 2026; dalle fonti parlamentari reperite entro il perimetro richiesto non emergono, al 31 marzo, evidenze ufficiali di approvazione definitiva né di conversione già intervenuta [S1, S2].\\n\\nSul piano sostanziale, il decreto combina due linee di intervento: una riduzione temporanea dell’accisa su benzina e gasolio tramite decreto ministeriale del 18 marzo 2026, e un rafforzamento dei controlli sulla filiera e sulla trasparenza dei prezzi, con nuovi obblighi informativi per compagnie e operatori e con il coinvolgimento del Garante per la sorveglianza dei prezzi, della Guardia di finanza e dell’AGCM [S2, S3]. Nel dibattito parlamentare già affiorato nelle sedute d’Aula e nelle interrogazioni, le opposizioni criticano il carattere temporaneo del taglio e il mancato ricorso pieno all’accisa mobile; dal lato politico-sociale, il contesto esterno segnala richieste di categorie escluse da misure dedicate, come il trasporto con bus turistici, ma tali istanze non risultano, allo stato, tradotte in modifiche parlamentari ufficialmente acquisite nel materiale consultato [S2, S4].\",\"keyPoints\":[\"Il decreto-legge di riferimento è il n. 33 del 18 marzo 2026; il ddl di conversione è A.S. n. 1845, presentato al Senato il 18 marzo 2026 [S1, S2].\",\"Il decreto è in vigore dal 19 marzo 2026 e contiene sia misure fiscali temporanee sia misure di controllo e trasparenza della filiera dei carburanti [S2, S3].\",\"La riduzione dell’accisa è stata attuata con decreto MEF del 18 marzo 2026 pubblicato in Gazzetta Ufficiale il 19 marzo 2026 [S3].\",\"Al 31 marzo 2026 non risultano, nelle fonti parlamentari ufficiali esaminate, la conversione definitiva né un esito conclusivo dell’iter [S1, S2].\",\"Le opposizioni hanno sollevato in Aula e con atti di sindacato ispettivo il tema del mancato utilizzo dell’accisa mobile e della limitatezza temporale dell’intervento [S4].\",\"Nel testo normativo consultato non compaiono misure specifiche per il comparto dei bus turistici, tema evidenziato nel contesto fornito [S1, S2].\"],\"sections\":[{\"heading\":\"Identificazione del provvedimento e fase procedurale\",\"paragraphs\":[\"Il provvedimento in esame è il disegno di legge di conversione del decreto-legge 18 marzo 2026, n. 33, intitolato disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali. Il disegno di legge è stato comunicato alla Presidenza del Senato il 18 marzo 2026 come A.S. n. 1845 [S1].\",\"Il decreto-legge è entrato in vigore il 19 marzo 2026, giorno successivo alla pubblicazione in Gazzetta Ufficiale, secondo la clausola finale del testo normativo [S1, S2].\",\"Alla data di riferimento del 31 marzo 2026, nelle banche dati e nei documenti parlamentari ufficiali consultati entro l’orizzonte degli ultimi sei mesi non risultano elementi che attestino la conclusione dell’iter di conversione. Il quadro documentale disponibile consente quindi di qualificare il provvedimento come in fase iniziale di esame parlamentare, con decreto vigente ma conversione non ancora documentata come completata [S1, S2].\"]},{\"heading\":\"Principali contenuti normativi\",\"paragraphs\":[\"L’articolo 1 introduce misure di prevenzione e contrasto alle manovre speculative sui carburanti. Le società petrolifere o i soggetti che assicurano l’approvvigionamento della rete devono comunicare giornalmente agli esercenti i prezzi consigliati o quelli previsti per la propria rete, pubblicarli con adeguata evidenza sui propri siti e trasmetterli al Garante per la sorveglianza dei prezzi e all’AGCM. In caso di violazione è prevista una sanzione pari allo 0,1 per cento del fatturato giornaliero [S1, S2].\",\"Lo stesso articolo vieta inoltre la variazione in aumento, nell’arco della stessa giornata, dei prezzi comunicati dagli esercenti ai sensi della disciplina del 2023 sulla trasparenza dei prezzi dei carburanti [S1, S2].\",\"Il decreto attribuisce al Garante per la sorveglianza dei prezzi uno speciale regime di controllo dei fenomeni distorsivi lungo la filiera. In caso di anomalo e repentino incremento dei prezzi rispetto alle quotazioni internazionali di riferimento, il Garante trasmette alla Guardia di finanza il dettaglio degli operatori e delle compagnie interessate per accertamenti sui costi e sui prezzi di acquisto, con successiva trasmissione delle risultanze anche all’AGCM per le valutazioni sanzionatorie di competenza [S2].\",\"Il provvedimento si raccorda con il Testo unico delle accise, decreto legislativo n. 504 del 1995, e con il decreto-legge n. 5 del 2023 sulla trasparenza dei prezzi dei carburanti. Sul piano fiscale, il decreto-legge è accompagnato dal decreto MEF 18 marzo 2026 che dispone la riduzione delle imposte su taluni prodotti energetici usati come carburanti [S1, S2, S3].\",\"Dalla relazione tecnica e dai prospetti allegati al ddl emergono effetti finanziari significativi nel 2026 e coperture basate, tra l’altro, su riduzioni di spesa di Ministeri e su utilizzo parziale del Fondo per interventi strutturali di politica economica [S1].\"]},{\"heading\":\"Posizioni politiche emerse nelle fonti parlamentari\",\"paragraphs\":[\"Nel materiale parlamentare disponibile, la linea del Governo è quella di giustificare il decreto con la straordinaria necessità e urgenza di contenere gli effetti dell’aumento del costo dei carburanti e di rafforzare il monitoraggio della formazione dei prezzi lungo la filiera [S1, S2].\",\"Dalle interrogazioni e dagli interventi d’Aula reperiti emerge una critica delle opposizioni su due fronti principali: primo, il testo non ricorrerebbe allo strumento dell’accisa mobile; secondo, la riduzione dell’accisa sarebbe temporanea e di durata limitata, ritenuta insufficiente rispetto alla dinamica dei prezzi alla pompa [S4].\",\"Nelle fonti parlamentari consultate non risultano ancora, al 31 marzo 2026, resoconti di un confronto maturo su un pacchetto emendativo consolidato relativo al ddl di conversione A.S. 1845. Pertanto le posizioni politiche ricostruibili sono, allo stato, soprattutto quelle espresse in sindacato ispettivo e nel dibattito generale sul caro-carburanti [S4].\"]},{\"heading\":\"Contenziosi procedurali o politici\",\"paragraphs\":[\"Non emergono dalle fonti ufficiali consultate specifici contenziosi procedurali formalizzati sull’ammissibilità o sulla calendarizzazione del ddl A.S. 1845 entro il 31 marzo 2026. L’assenza di tali evidenze nelle banche dati esaminate suggerisce che, alla data di riferimento, il nodo principale fosse ancora politico e sostanziale più che procedurale [S1, S2].\",\"Il contenzioso politico riguarda invece l’adeguatezza dello strumento scelto. In Aula è stato rilevato che il testo pubblicato in Gazzetta non prevede il ricorso all’accisa mobile, limitandosi a una riduzione temporanea dell’accisa e a misure di controllo dei prezzi. Questa impostazione è stata usata dall’opposizione per contestare la coerenza del Governo rispetto a precedenti impegni pubblici sul tema [S4].\",\"Un ulteriore elemento di tensione politica, rilevante rispetto al contesto fornito, è l’assenza nel testo normativo di misure settoriali espresse per i bus turistici. Tale dato non prova di per sé un rigetto parlamentare delle richieste di categoria, ma indica che nel testo originario del decreto non è stata inserita una disciplina ad hoc per quel comparto [S1, S2].\"]},{\"heading\":\"Rilevanza per il comparto dei bus turistici richiamato nel contesto\",\"paragraphs\":[\"Il contesto segnala la protesta di AN.BTI-Confcommercio per l’esclusione delle imprese di bus turistici da misure strutturali di sostegno e dal regime di accisa agevolata riconosciuto ad altri settori. Sulla base delle sole fonti parlamentari e normative consultate, il testo originario del decreto-legge n. 33 non contiene disposizioni specificamente destinate a tale comparto [S1, S2].\",\"Ne consegue che, allo stato del testo base, le richieste dell’associazione possono trovare spazio soltanto attraverso l’attività emendativa in Commissione o in Aula oppure tramite successivi atti di indirizzo e sindacato ispettivo. Tuttavia, entro il 31 marzo 2026, nelle fonti esaminate non risultano ancora documentate modifiche approvate o risposte governative specifiche riferite ai bus turistici nell’ambito dell’iter del decreto [S1, S2, S4].\"]}],\"caveats\":[\"La ricerca è stata limitata alle fonti parlamentari e normative ufficiali, come richiesto. Non sono state utilizzate fonti giornalistiche o associative per integrare il quadro politico-sociale.\",\"Le banche dati parlamentari consultate, alla data del 31 marzo 2026, non restituivano ancora un fascicolo di iter completo facilmente indicizzabile per A.S. 1845; per questo la ricostruzione dello stato di avanzamento si basa sul ddl presentato, sul testo normativo vigente e sugli atti parlamentari collegati reperibili [S1, S2, S4].\",\"L’affermazione secondo cui il provvedimento non risulta ancora convertito definitivamente al 31 marzo 2026 è una conclusione ricavata dall’assenza di evidenze ufficiali di approvazione finale nelle fonti parlamentari consultate entro quella data [S1, S2].\",\"Per una verifica puntuale di assegnazione, calendario, termine emendamenti e resoconti di Commissione dell’A.S. 1845 può essere utile un controllo successivo direttamente sulla scheda iter del Senato quando pienamente indicizzata nelle banche dati pubbliche.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Senato della Repubblica, Disegno di legge A.S. n. 1845, Conversione in legge del decreto-legge 18 marzo 2026, n. 33, PDF degli atti parlamentari\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf\"},{\"id\":\"S2\",\"title\":\"Normattiva, Decreto-legge 18 marzo 2026, n. 33, Disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali\",\"url\":\"https://www.normattiva.it/eli/id/2026/03/18/26G00052/ORIGINAL\"},{\"id\":\"S3\",\"title\":\"Gazzetta Ufficiale, Decreto 18 marzo 2026, Riduzione delle imposte su taluni prodotti energetici usati come carburanti\",\"url\":\"https://www.gazzettaufficiale.it/eli/id/2026/03/19/26A01474/SG\"},{\"id\":\"S4\",\"title\":\"Senato della Repubblica, Resoconto stenografico della seduta n. 401 del 20 marzo 2026, interrogazioni e interventi sul tema carburanti\",\"url\":\"https://www.parlamento.it/show-doc?id=0&idoggetto=0&leg=0&part=doc_dc-allegatob_ab&tipodoc=hotresaula\"}]}"
+          }
+        ],
+        "phase": "final_answer",
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "json_schema",
+        "description": null,
+        "name": "web_research_summary",
+        "schema": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Short descriptive title for the answer."
+            },
+            "summary": {
+              "type": "string",
+              "description": "Compact executive summary, ideally 1-2 paragraphs as plain text."
+            },
+            "keyPoints": {
+              "type": "array",
+              "description": "3-6 short key takeaways.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sections": {
+              "type": "array",
+              "description": "Main content blocks for rendering in the web UI.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "heading": {
+                    "type": "string"
+                  },
+                  "paragraphs": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "heading",
+                  "paragraphs"
+                ]
+              }
+            },
+            "caveats": {
+              "type": "array",
+              "description": "Optional uncertainties, limitations, or open questions.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "sources": {
+              "type": "array",
+              "description": "Bibliography used by the placeholders in the text. Use ids like S1, S2, S3.",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Short source identifier, e.g. S1."
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Human-readable source title."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Full source URL."
+                  }
+                },
+                "required": [
+                  "id",
+                  "title",
+                  "url"
+                ]
+              }
+            }
+          },
+          "required": [
+            "title",
+            "summary",
+            "keyPoints",
+            "sections",
+            "caveats",
+            "sources"
+          ]
+        },
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 46026,
+      "input_tokens_details": {
+        "cached_tokens": 4736
+      },
+      "output_tokens": 3914,
+      "output_tokens_details": {
+        "reasoning_tokens": 1105
+      },
+      "total_tokens": 49940
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"title\":\"Stato di avanzamento del DL carburanti al 31 marzo 2026\",\"summary\":\"Il provvedimento richiamato nel contesto è il disegno di legge di conversione del decreto-legge 18 marzo 2026, n. 33, recante disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali. Alla data del 31 marzo 2026 risulta presentato al Senato il 18 marzo 2026 come A.S. n. 1845, con il testo del decreto già in vigore dal 19 marzo 2026; dalle fonti parlamentari reperite entro il perimetro richiesto non emergono, al 31 marzo, evidenze ufficiali di approvazione definitiva né di conversione già intervenuta [S1, S2].\\n\\nSul piano sostanziale, il decreto combina due linee di intervento: una riduzione temporanea dell’accisa su benzina e gasolio tramite decreto ministeriale del 18 marzo 2026, e un rafforzamento dei controlli sulla filiera e sulla trasparenza dei prezzi, con nuovi obblighi informativi per compagnie e operatori e con il coinvolgimento del Garante per la sorveglianza dei prezzi, della Guardia di finanza e dell’AGCM [S2, S3]. Nel dibattito parlamentare già affiorato nelle sedute d’Aula e nelle interrogazioni, le opposizioni criticano il carattere temporaneo del taglio e il mancato ricorso pieno all’accisa mobile; dal lato politico-sociale, il contesto esterno segnala richieste di categorie escluse da misure dedicate, come il trasporto con bus turistici, ma tali istanze non risultano, allo stato, tradotte in modifiche parlamentari ufficialmente acquisite nel materiale consultato [S2, S4].\",\"keyPoints\":[\"Il decreto-legge di riferimento è il n. 33 del 18 marzo 2026; il ddl di conversione è A.S. n. 1845, presentato al Senato il 18 marzo 2026 [S1, S2].\",\"Il decreto è in vigore dal 19 marzo 2026 e contiene sia misure fiscali temporanee sia misure di controllo e trasparenza della filiera dei carburanti [S2, S3].\",\"La riduzione dell’accisa è stata attuata con decreto MEF del 18 marzo 2026 pubblicato in Gazzetta Ufficiale il 19 marzo 2026 [S3].\",\"Al 31 marzo 2026 non risultano, nelle fonti parlamentari ufficiali esaminate, la conversione definitiva né un esito conclusivo dell’iter [S1, S2].\",\"Le opposizioni hanno sollevato in Aula e con atti di sindacato ispettivo il tema del mancato utilizzo dell’accisa mobile e della limitatezza temporale dell’intervento [S4].\",\"Nel testo normativo consultato non compaiono misure specifiche per il comparto dei bus turistici, tema evidenziato nel contesto fornito [S1, S2].\"],\"sections\":[{\"heading\":\"Identificazione del provvedimento e fase procedurale\",\"paragraphs\":[\"Il provvedimento in esame è il disegno di legge di conversione del decreto-legge 18 marzo 2026, n. 33, intitolato disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali. Il disegno di legge è stato comunicato alla Presidenza del Senato il 18 marzo 2026 come A.S. n. 1845 [S1].\",\"Il decreto-legge è entrato in vigore il 19 marzo 2026, giorno successivo alla pubblicazione in Gazzetta Ufficiale, secondo la clausola finale del testo normativo [S1, S2].\",\"Alla data di riferimento del 31 marzo 2026, nelle banche dati e nei documenti parlamentari ufficiali consultati entro l’orizzonte degli ultimi sei mesi non risultano elementi che attestino la conclusione dell’iter di conversione. Il quadro documentale disponibile consente quindi di qualificare il provvedimento come in fase iniziale di esame parlamentare, con decreto vigente ma conversione non ancora documentata come completata [S1, S2].\"]},{\"heading\":\"Principali contenuti normativi\",\"paragraphs\":[\"L’articolo 1 introduce misure di prevenzione e contrasto alle manovre speculative sui carburanti. Le società petrolifere o i soggetti che assicurano l’approvvigionamento della rete devono comunicare giornalmente agli esercenti i prezzi consigliati o quelli previsti per la propria rete, pubblicarli con adeguata evidenza sui propri siti e trasmetterli al Garante per la sorveglianza dei prezzi e all’AGCM. In caso di violazione è prevista una sanzione pari allo 0,1 per cento del fatturato giornaliero [S1, S2].\",\"Lo stesso articolo vieta inoltre la variazione in aumento, nell’arco della stessa giornata, dei prezzi comunicati dagli esercenti ai sensi della disciplina del 2023 sulla trasparenza dei prezzi dei carburanti [S1, S2].\",\"Il decreto attribuisce al Garante per la sorveglianza dei prezzi uno speciale regime di controllo dei fenomeni distorsivi lungo la filiera. In caso di anomalo e repentino incremento dei prezzi rispetto alle quotazioni internazionali di riferimento, il Garante trasmette alla Guardia di finanza il dettaglio degli operatori e delle compagnie interessate per accertamenti sui costi e sui prezzi di acquisto, con successiva trasmissione delle risultanze anche all’AGCM per le valutazioni sanzionatorie di competenza [S2].\",\"Il provvedimento si raccorda con il Testo unico delle accise, decreto legislativo n. 504 del 1995, e con il decreto-legge n. 5 del 2023 sulla trasparenza dei prezzi dei carburanti. Sul piano fiscale, il decreto-legge è accompagnato dal decreto MEF 18 marzo 2026 che dispone la riduzione delle imposte su taluni prodotti energetici usati come carburanti [S1, S2, S3].\",\"Dalla relazione tecnica e dai prospetti allegati al ddl emergono effetti finanziari significativi nel 2026 e coperture basate, tra l’altro, su riduzioni di spesa di Ministeri e su utilizzo parziale del Fondo per interventi strutturali di politica economica [S1].\"]},{\"heading\":\"Posizioni politiche emerse nelle fonti parlamentari\",\"paragraphs\":[\"Nel materiale parlamentare disponibile, la linea del Governo è quella di giustificare il decreto con la straordinaria necessità e urgenza di contenere gli effetti dell’aumento del costo dei carburanti e di rafforzare il monitoraggio della formazione dei prezzi lungo la filiera [S1, S2].\",\"Dalle interrogazioni e dagli interventi d’Aula reperiti emerge una critica delle opposizioni su due fronti principali: primo, il testo non ricorrerebbe allo strumento dell’accisa mobile; secondo, la riduzione dell’accisa sarebbe temporanea e di durata limitata, ritenuta insufficiente rispetto alla dinamica dei prezzi alla pompa [S4].\",\"Nelle fonti parlamentari consultate non risultano ancora, al 31 marzo 2026, resoconti di un confronto maturo su un pacchetto emendativo consolidato relativo al ddl di conversione A.S. 1845. Pertanto le posizioni politiche ricostruibili sono, allo stato, soprattutto quelle espresse in sindacato ispettivo e nel dibattito generale sul caro-carburanti [S4].\"]},{\"heading\":\"Contenziosi procedurali o politici\",\"paragraphs\":[\"Non emergono dalle fonti ufficiali consultate specifici contenziosi procedurali formalizzati sull’ammissibilità o sulla calendarizzazione del ddl A.S. 1845 entro il 31 marzo 2026. L’assenza di tali evidenze nelle banche dati esaminate suggerisce che, alla data di riferimento, il nodo principale fosse ancora politico e sostanziale più che procedurale [S1, S2].\",\"Il contenzioso politico riguarda invece l’adeguatezza dello strumento scelto. In Aula è stato rilevato che il testo pubblicato in Gazzetta non prevede il ricorso all’accisa mobile, limitandosi a una riduzione temporanea dell’accisa e a misure di controllo dei prezzi. Questa impostazione è stata usata dall’opposizione per contestare la coerenza del Governo rispetto a precedenti impegni pubblici sul tema [S4].\",\"Un ulteriore elemento di tensione politica, rilevante rispetto al contesto fornito, è l’assenza nel testo normativo di misure settoriali espresse per i bus turistici. Tale dato non prova di per sé un rigetto parlamentare delle richieste di categoria, ma indica che nel testo originario del decreto non è stata inserita una disciplina ad hoc per quel comparto [S1, S2].\"]},{\"heading\":\"Rilevanza per il comparto dei bus turistici richiamato nel contesto\",\"paragraphs\":[\"Il contesto segnala la protesta di AN.BTI-Confcommercio per l’esclusione delle imprese di bus turistici da misure strutturali di sostegno e dal regime di accisa agevolata riconosciuto ad altri settori. Sulla base delle sole fonti parlamentari e normative consultate, il testo originario del decreto-legge n. 33 non contiene disposizioni specificamente destinate a tale comparto [S1, S2].\",\"Ne consegue che, allo stato del testo base, le richieste dell’associazione possono trovare spazio soltanto attraverso l’attività emendativa in Commissione o in Aula oppure tramite successivi atti di indirizzo e sindacato ispettivo. Tuttavia, entro il 31 marzo 2026, nelle fonti esaminate non risultano ancora documentate modifiche approvate o risposte governative specifiche riferite ai bus turistici nell’ambito dell’iter del decreto [S1, S2, S4].\"]}],\"caveats\":[\"La ricerca è stata limitata alle fonti parlamentari e normative ufficiali, come richiesto. Non sono state utilizzate fonti giornalistiche o associative per integrare il quadro politico-sociale.\",\"Le banche dati parlamentari consultate, alla data del 31 marzo 2026, non restituivano ancora un fascicolo di iter completo facilmente indicizzabile per A.S. 1845; per questo la ricostruzione dello stato di avanzamento si basa sul ddl presentato, sul testo normativo vigente e sugli atti parlamentari collegati reperibili [S1, S2, S4].\",\"L’affermazione secondo cui il provvedimento non risulta ancora convertito definitivamente al 31 marzo 2026 è una conclusione ricavata dall’assenza di evidenze ufficiali di approvazione finale nelle fonti parlamentari consultate entro quella data [S1, S2].\",\"Per una verifica puntuale di assegnazione, calendario, termine emendamenti e resoconti di Commissione dell’A.S. 1845 può essere utile un controllo successivo direttamente sulla scheda iter del Senato quando pienamente indicizzata nelle banche dati pubbliche.\"],\"sources\":[{\"id\":\"S1\",\"title\":\"Senato della Repubblica, Disegno di legge A.S. n. 1845, Conversione in legge del decreto-legge 18 marzo 2026, n. 33, PDF degli atti parlamentari\",\"url\":\"https://www.senato.it/service/PDF/PDFServer/DF/447068.pdf\"},{\"id\":\"S2\",\"title\":\"Normattiva, Decreto-legge 18 marzo 2026, n. 33, Disposizioni urgenti in materia di prezzi petroliferi connessi alle crisi dei mercati internazionali\",\"url\":\"https://www.normattiva.it/eli/id/2026/03/18/26G00052/ORIGINAL\"},{\"id\":\"S3\",\"title\":\"Gazzetta Ufficiale, Decreto 18 marzo 2026, Riduzione delle imposte su taluni prodotti energetici usati come carburanti\",\"url\":\"https://www.gazzettaufficiale.it/eli/id/2026/03/19/26A01474/SG\"},{\"id\":\"S4\",\"title\":\"Senato della Repubblica, Resoconto stenografico della seduta n. 401 del 20 marzo 2026, interrogazioni e interventi sul tema carburanti\",\"url\":\"https://www.parlamento.it/show-doc?id=0&idoggetto=0&leg=0&part=doc_dc-allegatob_ab&tipodoc=hotresaula\"}]}"
+  }
+}

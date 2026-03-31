@@ -1,0 +1,63 @@
+{
+  "runLabel": "RUN_04",
+  "generatedAt": "2026-03-31T12:11:51.421Z",
+  "contextCount": 3,
+  "totals": {
+    "durationMs": 215046,
+    "estimatedCostUsd": 0.745966,
+    "inputTokens": 118365,
+    "outputTokens": 12091,
+    "totalTokens": 130456,
+    "reasoningTokens": 2515,
+    "webSearchCalls": 29,
+    "sourceCount": 17,
+    "answerCharCount": 30961
+  },
+  "results": [
+    {
+      "contextSlug": "01-accelerator-act",
+      "contextFile": "01-accelerator-act.md",
+      "durationMs": 66916,
+      "estimatedCostUsd": 0.191073,
+      "inputTokens": 29461,
+      "outputTokens": 3828,
+      "totalTokens": 33289,
+      "reasoningTokens": 567,
+      "webSearchCalls": 6,
+      "sourceCount": 5,
+      "answerCharCount": 11540,
+      "runId": "run_2026-03-31T12-09-20-408Z_01-accelerator-act_10d11ba8",
+      "responseId": "resp_020570a4164dacd90069cbb92e7cf4819499fb288040d568db"
+    },
+    {
+      "contextSlug": "02-dl-carburanti",
+      "contextFile": "02-dl-carburanti.md",
+      "durationMs": 68850,
+      "estimatedCostUsd": 0.283119,
+      "inputTokens": 46026,
+      "outputTokens": 3914,
+      "totalTokens": 49940,
+      "reasoningTokens": 1105,
+      "webSearchCalls": 12,
+      "sourceCount": 4,
+      "answerCharCount": 9178,
+      "runId": "run_2026-03-31T12-10-29-263Z_02-dl-carburanti_1aba5fca",
+      "responseId": "resp_0a8e3bcf54233ce00069cbb971705c819f96357be41903870d"
+    },
+    {
+      "contextSlug": "03-dl-pnrr",
+      "contextFile": "03-dl-pnrr.md",
+      "durationMs": 79280,
+      "estimatedCostUsd": 0.271774,
+      "inputTokens": 42878,
+      "outputTokens": 4349,
+      "totalTokens": 47227,
+      "reasoningTokens": 843,
+      "webSearchCalls": 11,
+      "sourceCount": 8,
+      "answerCharCount": 10243,
+      "runId": "run_2026-03-31T12-11-48-548Z_03-dl-pnrr_331196b3",
+      "responseId": "resp_0d55bb90accfa5d90069cbb9b657f481a19e5198e421bd938b"
+    }
+  ]
+}
